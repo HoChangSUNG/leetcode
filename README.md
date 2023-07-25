@@ -95,5 +95,7 @@
 | 706. Design HashMap | easy | 04:48 | 25 | 2023/07/24 | 그냥 Object 배열 만들지 않고 Node 배열로 만드는 방식도 괜찮을듯, 아니면 진짜로 해시 충돌시 체이닝까지 구현하는 것도 좋을 거 같음 |
 | 804. Unique Morse Code Words | easy | 10:05 | 25 | 2023/07/24 |  |
 | 806. Number of Lines To Write String | easy | 09:32 | 25 | 2023/07/24 | 문제는 쉬움, 코드 길이를 줄일 수 있을 듯? |
-
+| 812. Largest Triangle Area | easy | 시간초과 | 25 | 2023/07/25 | 어떤 유형의 문제인지는 알았는데 풀이 과정 생각하다가 시간이 다 지나감, 수학 공식 이용해야 함 |
+| 821. Shortest Distance to a Character | easy | 19:59 | 25 | 2023/07/25 | 방법이 생각 안나서 bfs로 풀음, 더 쉬운 방법이 존재하니 다음에 풀 때는 좀 더 생각해보기 |
+| 832. Flipping an Image | easy | 13:13 | 25 | 2023/07/25 |  |
 </details>
