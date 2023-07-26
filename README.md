@@ -77,25 +77,28 @@
 | 643. Maximum Average Subarray I | easy | 19 | 25 | 2023/07/18 |  |
 | 645. Set Mismatch | easy | 11 | 25 | 2023/07/18 |  |
 | 661. Image Smoother | easy | 시간초과 | 25 | 2023/07/18 | 시간 초과 이후에 풀음 |
-| 674. Longest Continuous Increasing Subsequence | easy | 08:50 | 25 | 2023/07/19 |  |
-| 682. Baseball Game | easy | 12:41 | 25 | 2023/07/19 |  |
-| 697. Degree of an Array | easy | 시간초과 | 25 | 2023/07/19 | 코드 짜다 시간 다감, 코드 짜도 틀렸을 듯 |
-| 717. 1-bit and 2-bit Characters | easy | 시간초과 | 25 | 2023/07/20 | 문제 이해를 잘못해서 30분동안 뭔소리인지 이해를 못함, 이해하고 나서 3분만에 풀음… |
-| 724. Find Pivot Index | easy | 11:00 | 25 | 2023/07/20 |  |
-| 733. Flood Fill | easy | 13:00 | 25 | 2023/07/20 |  |
-| 734. Sentence Similarity | easy | 시간초과 | 25 | 2023/07/21 | 제출하면 테스트 코드 계속 막힘 |
-| 744. Find Smallest Letter Greater Than Target | easy | 05:29 | 25 | 2023/07/21 | O(N)으로 말고 더 줄여보기 |
-| 746. Min Cost Climbing Stairs | easy | 09:53 | 25 | 2023/07/21 |  |
-| 747. Largest Number At Least Twice of Others | easy | 13:58 | 25 | 2023/07/22 |  |
-| 748. Shortest Completing Word | easy | 24:26 | 25 | 2023/07/22 | 코드가 좀 더럽다, 테스트 케이스를 좀 잘 보자 |
-| 760. Find Anagram Mappings | easy | 08:06 | 25 | 2023/07/22 |  |
-| 766. Toeplitz Matrix | easy | 19:37 | 25 | 2023/07/23 | 다 풀고 코드 작성할 때 순서 헷갈림, 코드 길이를 더 줄일 수 있으니 다음 번에는 좀 더 코드를 줄여보기 |
-| 704. Binary Search | easy | 03:05 | 25 | 2023/07/23 |  |
-| 705. Design HashSet | easy | 11:28 | 25 | 2023/07/23 | 그냥 Map 가져다가 쓰면 끝나는데, Map을 간단하게 구현해도 괜찮을듯 |
-| 706. Design HashMap | easy | 04:48 | 25 | 2023/07/24 | 그냥 Object 배열 만들지 않고 Node 배열로 만드는 방식도 괜찮을듯, 아니면 진짜로 해시 충돌시 체이닝까지 구현하는 것도 좋을 거 같음 |
-| 804. Unique Morse Code Words | easy | 10:05 | 25 | 2023/07/24 |  |
-| 806. Number of Lines To Write String | easy | 09:32 | 25 | 2023/07/24 | 문제는 쉬움, 코드 길이를 줄일 수 있을 듯? |
-| 812. Largest Triangle Area | easy | 시간초과 | 25 | 2023/07/25 | 어떤 유형의 문제인지는 알았는데 풀이 과정 생각하다가 시간이 다 지나감, 수학 공식 이용해야 함 |
-| 821. Shortest Distance to a Character | easy | 19:59 | 25 | 2023/07/25 | 방법이 생각 안나서 bfs로 풀음, 더 쉬운 방법이 존재하니 다음에 풀 때는 좀 더 생각해보기 |
-| 832. Flipping an Image | easy | 13:13 | 25 | 2023/07/25 |  |
+| 674. Longest Continuous Increasing Subsequence | easy | 08:50 | 25:00| 2023/07/19 |  |
+| 682. Baseball Game | easy | 12:41 | 25:00 | 2023/07/19 |  |
+| 697. Degree of an Array | easy | 시간초과 | 25:00 | 2023/07/19 | 코드 짜다 시간 다감, 코드 짜도 틀렸을 듯 |
+| 717. 1-bit and 2-bit Characters | easy | 시간초과 | 25:00 | 2023/07/20 | 문제 이해를 잘못해서 30분동안 뭔소리인지 이해를 못함, 이해하고 나서 3분만에 풀음… |
+| 724. Find Pivot Index | easy | 11:00 | 25:00 | 2023/07/20 |  |
+| 733. Flood Fill | easy | 13:00 | 25:00 | 2023/07/20 |  |
+| 734. Sentence Similarity | easy | 시간초과 | 25:00 | 2023/07/21 | 제출하면 테스트 코드 계속 막힘 |
+| 744. Find Smallest Letter Greater Than Target | easy | 05:29 | 25:00 | 2023/07/21 | O(N)으로 말고 더 줄여보기 |
+| 746. Min Cost Climbing Stairs | easy | 09:53 | 25:00 | 2023/07/21 |  |
+| 747. Largest Number At Least Twice of Others | easy | 13:58 | 25:00 | 2023/07/22 |  |
+| 748. Shortest Completing Word | easy | 24:26 | 25:00 | 2023/07/22 | 코드가 좀 더럽다, 테스트 케이스를 좀 잘 보자 |
+| 760. Find Anagram Mappings | easy | 08:06 | 25:00 | 2023/07/22 |  |
+| 766. Toeplitz Matrix | easy | 19:37 | 25:00 | 2023/07/23 | 다 풀고 코드 작성할 때 순서 헷갈림, 코드 길이를 더 줄일 수 있으니 다음 번에는 좀 더 코드를 줄여보기 |
+| 704. Binary Search | easy | 03:05 | 25:00 | 2023/07/23 |  |
+| 705. Design HashSet | easy | 11:28 | 25:00 | 2023/07/23 | 그냥 Map 가져다가 쓰면 끝나는데, Map을 간단하게 구현해도 괜찮을듯 |
+| 706. Design HashMap | easy | 04:48 | 25:00 | 2023/07/24 | 그냥 Object 배열 만들지 않고 Node 배열로 만드는 방식도 괜찮을듯, 아니면 진짜로 해시 충돌시 체이닝까지 구현하는 것도 좋을 거 같음 |
+| 804. Unique Morse Code Words | easy | 10:05 | 25:00 | 2023/07/24 |  |
+| 806. Number of Lines To Write String | easy | 09:32 | 25:00 | 2023/07/24 | 문제는 쉬움, 코드 길이를 줄일 수 있을 듯? |
+| 812. Largest Triangle Area | easy | 시간초과 | 25:00 | 2023/07/25 | 어떤 유형의 문제인지는 알았는데 풀이 과정 생각하다가 시간이 다 지나감, 수학 공식 이용해야 함 |
+| 821. Shortest Distance to a Character | easy | 19:59 | 25:00 | 2023/07/25 | 방법이 생각 안나서 bfs로 풀음, 더 쉬운 방법이 존재하니 다음에 풀 때는 좀 더 생각해보기 |
+| 832. Flipping an Image | easy | 13:13 | 25:00 | 2023/07/25 |  |
+| 860. Lemonade Change | easy | 24:35 | 25:00 | 2023/07/26 | 쉽게 풀 수 있는데 풀이가 막상 생각이 안남. 너무 어렵게 풀었고 시간도 좀 안좋게 나옴 |
+| 867. Transpose Matrix | easy | 05:09 | 25:00 | 2023/07/26 |  |
+| 883. Projection Area of 3D Shapes | easy | 19:47 | 25:00 | 2023/07/26 | 문제 이해하는데 시간이 오래 걸림, 문제 푸는 시간은 거의 안걸림 |
 </details>
