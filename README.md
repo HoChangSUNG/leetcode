@@ -107,6 +107,9 @@
 | 905. Sort Array By Parity                              | easy | 07:51 | 25:00 | 2023/07/28 | 시간 복잡도를 O(N^2)에서 O(N)으로 줄여야 함, 내가 푼 풀이는 삽입정렬로 풀어서 O(N^2)으로 풀어서 너무 오래 걸림        |
 | 908. Smallest Range I                                  | easy | 20:37 | 25:00 | 2023/07/28 | 쉬운 문제인데 글을 잘못 이해하고 코드 짜서 오래걸림, 글을 제대로 이해하면 코드 짜는데 3분도 안걸리는 문제임… 글좀 제대로 읽자……    |
 | 914. X of a Kind in a Deck of Cards                    | easy | 시간초과 | 25:00 | 2023/07/28 | 문제 설명이 너무 부실함. GCD로 풀라는데 이해가 안가서 Editorial 보고 Brute Force 방식으로 풀어봄             |
+| 922. Sort Array By Parity II                           | easy | 15:30 | 25:00 | 2023/07/29 | 해결은 했으나 O(N^2)으로 해결함 다음에는 O(N)으로 해결해보자             |
+| 929. Unique Email Addresses                            | easy | 시간초과 | 25:00 | 2023/07/29 | 문제 해석을 잘못했음,split 정규 표현식으로 푸는건 생각을 안해봄. String을 처리하는 문제에 내가 약한듯             |
+| 941. Valid Mountain Array                              | easy | 09:52 | 25:00 | 2023/07/29 |              |
 
 
 </details>
