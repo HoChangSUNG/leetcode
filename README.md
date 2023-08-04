@@ -120,7 +120,7 @@
 </details>
 
 <details>
-<summary>2회독(현재 9문제)</summary>
+<summary>2회독(현재 12문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	|     날짜     | 코멘트                                                                            |
