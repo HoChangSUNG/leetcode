@@ -120,7 +120,7 @@
 </details>
 
 <details>
-<summary>2회독(현재 18문제)</summary>
+<summary>2회독(현재 21문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	|     날짜     | 코멘트                                                                            |
@@ -143,5 +143,7 @@
 | 83. Remove Duplicates from Sorted List | easy | 8 | 08:43 |    25    | 2023/08/06 | 새로운 노드를 만들었는데 새로 만들지 말고 기존 링크드 리스트를 재사용하는 방식으로 풀어보자 다음에는 |
 | 88. Merge Sorted Array | easy | 10 | 13:17 |    25    | 2023/08/06 | 전보다 시간은 좀 더 걸렸지만, 좀 더 깔끔하게 follow up 해결함 |
 | 94. Binary Tree Inorder Traversal | easy | 12 | 시간초과 |    25    | 2023/08/06 | follow up 해결하려 스택으로 해보려고 했는데, 로직을 잘못 작성해서 계속 실패함. |
-
+| 100. Same Tree                                         | easy |  11  | 07:09 | 25 | 2023/08/07 |                                                                                |
+| 101. Symmetric Tree                                    | easy |  10  | 06:39 | 25 | 2023/08/07 |                                                                                |
+| 104. Maximum Depth of Binary Tree                      | easy |   4  | 01:54 | 25 | 2023/08/07 |                                                                                |
 </details>
