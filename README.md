@@ -134,16 +134,20 @@
 | 26. Remove Duplicates from Sorted Array                | easy |   17 |  09:28   | 25 | 2023/08/03 | 저번에는 새로운 배열 만들어서 풀었는데 이번에는 기존 배열로 풀고 시간도 더 빠름                                  |
 | 27. Remove Element                                     | easy |    7  |  03:29   |    25    | 2023/08/03 | 위 문제랑 사실상 동일한 문제, 저번보다 코드 더 간단하게  풀음                                           |
 | 28. Find the Index of the First Occurrence in a String | easy |    16   |  09:45   |    25    | 2023/08/03 | 코드 자체는 깔끔함. 시간 복잡도는 저번이랑 같은데 다음에는 좀 더 개선시켜야 함                                  |
-| 35. Search Insert Position                             | easy |  13  | 02:54 | 25 | 2023/08/04 | 이분 탐색 기초라서 빨리 풀음                                                               |
-| 58. Length of Last Word                                | easy |  16 | 07:05 |    25    | 2023/08/04 | 저번보다 코드는 짧음, 시간 복잡도 자체는 동일, editorial의 approach 2가 루프 하나로 제일 깔끔하게 푼듯  |
-| 66. Plus One                                           | easy | 시간초과 | 12:49 |    25    | 2023/08/04 | 저번보다 깔끔하게 풀지는 않음, 다음번에는 코드 좀 더 다듬는 방식으로 풀어보기 |
-| 67. Add Binary | easy | 10 | 18:34 |    25    | 2023/08/05 | 답지 안본 최초 코드보다는 나음, 근데 코드에서 실수해서 실수 찾는데 오래 걸림 |
-| 69. Sqrt(x) | easy | 시간초과 | 15:50 |    25    | 2023/08/05 | 저번에 오버플로우 발생해서 계속 틀렸었는데, 이번에는 해결함 |
-| 70. Climbing Stairs | easy | 5 | 03:28 |    25    | 2023/08/05 |  |
-| 83. Remove Duplicates from Sorted List | easy | 8 | 08:43 |    25    | 2023/08/06 | 새로운 노드를 만들었는데 새로 만들지 말고 기존 링크드 리스트를 재사용하는 방식으로 풀어보자 다음에는 |
-| 88. Merge Sorted Array | easy | 10 | 13:17 |    25    | 2023/08/06 | 전보다 시간은 좀 더 걸렸지만, 좀 더 깔끔하게 follow up 해결함 |
-| 94. Binary Tree Inorder Traversal | easy | 12 | 시간초과 |    25    | 2023/08/06 | follow up 해결하려 스택으로 해보려고 했는데, 로직을 잘못 작성해서 계속 실패함. |
-| 100. Same Tree                                         | easy |  11  | 07:09 | 25 | 2023/08/07 |                                                                                |
-| 101. Symmetric Tree                                    | easy |  10  | 06:39 | 25 | 2023/08/07 |                                                                                |
-| 104. Maximum Depth of Binary Tree                      | easy |   4  | 01:54 | 25 | 2023/08/07 |                                                                                |
+| 35. Search Insert Position                             | easy |  13  |  02:54   | 25 | 2023/08/04 | 이분 탐색 기초라서 빨리 풀음                                                               |
+| 58. Length of Last Word                                | easy |  16 |  07:05   |    25    | 2023/08/04 | 저번보다 코드는 짧음, 시간 복잡도 자체는 동일, editorial의 approach 2가 루프 하나로 제일 깔끔하게 푼듯  |
+| 66. Plus One                                           | easy | 시간초과 |  12:49   |    25    | 2023/08/04 | 저번보다 깔끔하게 풀지는 않음, 다음번에는 코드 좀 더 다듬는 방식으로 풀어보기 |
+| 67. Add Binary | easy | 10 |  18:34   |    25    | 2023/08/05 | 답지 안본 최초 코드보다는 나음, 근데 코드에서 실수해서 실수 찾는데 오래 걸림 |
+| 69. Sqrt(x) | easy | 시간초과 |  15:50   |    25    | 2023/08/05 | 저번에 오버플로우 발생해서 계속 틀렸었는데, 이번에는 해결함 |
+| 70. Climbing Stairs | easy | 5 |  03:28   |    25    | 2023/08/05 |  |
+| 83. Remove Duplicates from Sorted List | easy | 8 |  08:43   |    25    | 2023/08/06 | 새로운 노드를 만들었는데 새로 만들지 말고 기존 링크드 리스트를 재사용하는 방식으로 풀어보자 다음에는 |
+| 88. Merge Sorted Array | easy | 10 |  13:17   |    25    | 2023/08/06 | 전보다 시간은 좀 더 걸렸지만, 좀 더 깔끔하게 follow up 해결함 |
+| 94. Binary Tree Inorder Traversal | easy | 12 |   시간초과   |    25    | 2023/08/06 | follow up 해결하려 스택으로 해보려고 했는데, 로직을 잘못 작성해서 계속 실패함. |
+| 100. Same Tree                                         | easy |  11  |  07:09   | 25 | 2023/08/07 |                                                                                |
+| 101. Symmetric Tree                                    | easy |  10  |  06:39   | 25 | 2023/08/07 |                                                                                |
+| 104. Maximum Depth of Binary Tree                      | easy |   4  |  01:54   | 25 | 2023/08/07 |                                                                                |
+| 108. Convert Sorted Array to Binary Search Tree        | easy | 시간초과  | 18:31 | 25 | 2023/08/08 | 처음에 봤을때는 기억 안나서 좀 생각하는데 시간이 오래 걸림 |
+| 118. Pascal's Triangle                                 | easy |   4  | 14:00 |    25    | 2023/08/08 | 코드를 작성하고, 변수를 잘못 할당해서 계속 실패했음 |
+| 119. Pascal's Triangle II                              | easy |   4  | 12:43 |    25    | 2023/08/08 | follow up 해결해서 시간이 저번보다 오래 걸림 |
+
 </details>
