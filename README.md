@@ -120,7 +120,7 @@
 </details>
 
 <details>
-<summary>2회독(현재 21문제)</summary>
+<summary>2회독(현재 28문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	|     날짜     | 코멘트                                                                            |
@@ -149,5 +149,9 @@
 | 108. Convert Sorted Array to Binary Search Tree        | easy | 시간초과  | 18:31 | 25 | 2023/08/08 | 처음에 봤을때는 기억 안나서 좀 생각하는데 시간이 오래 걸림 |
 | 118. Pascal's Triangle                                 | easy |   4  | 14:00 |    25    | 2023/08/08 | 코드를 작성하고, 변수를 잘못 할당해서 계속 실패했음 |
 | 119. Pascal's Triangle II                              | easy |   4  | 12:43 |    25    | 2023/08/08 | follow up 해결해서 시간이 저번보다 오래 걸림 |
+| 121. Best Time to Buy and Sell Stock                   | easy | 시간초과 | 14:18 | 25 | 2023/08/09 |     |
+| 136. Single Number                                     | easy |  12  | 01:34 | 25 | 2023/08/09 |  |
+| 163. Missing Ranges                                    | easy |  22  | 14:50 | 25 | 2023/08/09 |     |
+| 169. Majority Element                                  | easy |   8  | 05:27 | 25 | 2023/08/09 | hashmap 말고 다른걸로 folllow up 해결해보기 |
 
 </details>
