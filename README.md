@@ -159,8 +159,8 @@
 | 136. Single Number                                     | easy |    12    |  01:34   |  25   | 2023/08/09 |                                                                                |
 | 163. Missing Ranges                                    | easy |    22    |  14:50   |  25   | 2023/08/09 |                                                                                |
 | 169. Majority Element                                  | easy |    8     |  05:27   |  25   | 2023/08/09 | hashmap 말고 다른걸로 folllow up 해결해보기                                               |
-| 170. Two Sum III - Data structure design               | easy |    14    |  08:52   |  25   | 2023/07/09 | 걸린 시간은 줄었는데 시간은 전에 푼거보다 오래 걸림, Map 써서 풀어보자 |
-| 217. Contains Duplicate                                | easy |    8     |  06:46   |  25   | 2023/07/09 |                                                                                |
-| 219. Contains Duplicate II                             | easy |    17    |  10:36  |  25   | 2023/07/09 |                                                                                |
+| 170. Two Sum III - Data structure design               | easy |    14    |  08:52   |  25   | 2023/08/10 | 걸린 시간은 줄었는데 시간은 전에 푼거보다 오래 걸림, Map 써서 풀어보자 |
+| 217. Contains Duplicate                                | easy |    8     |  06:46   |  25   | 2023/08/10 |                                                                                |
+| 219. Contains Duplicate II                             | easy |    17    |  10:36  |  25   | 2023/08/10 |                                                                                |
 
 </details>
