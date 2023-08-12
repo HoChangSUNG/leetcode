@@ -126,7 +126,7 @@
 </details>
 
 <details>
-<summary>2회독(현재 35문제)</summary>
+<summary>2회독(현재 38문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간  | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                                            |
@@ -162,9 +162,12 @@
 | 170. Two Sum III - Data structure design               | easy |    14     |  08:52   |  25   | 2023/08/10 | 걸린 시간은 줄었는데 시간은 전에 푼거보다 오래 걸림, Map 써서 풀어보자 |
 | 217. Contains Duplicate                                | easy |     8     |  06:46   |  25   | 2023/08/10 |                                                                                |
 | 219. Contains Duplicate II                             | easy |    17     |  10:36   |  25   | 2023/08/10 |                                                                                |
-| 228. Summary Ranges                                    | easy |      23  | 10:06 |  25   | 2023/08/11 |                                                                                 |
-| 243. Shortest Word Distance                            | easy |    13     | 09:41 |    25    | 2023/08/11 |                                                                                 |
-| 252. Meeting Rooms                                     | easy |   시간초과    | 10:10 |    25    | 2023/08/11 |                                                   |
-| 268. Missing Number                                    | easy |     9     | 01:19 |    25    | 2023/08/11 |                                                                                 |
+| 228. Summary Ranges                                    | easy |      23  |  10:06   |  25   | 2023/08/11 |                                                                                 |
+| 243. Shortest Word Distance                            | easy |    13     |  09:41   |    25    | 2023/08/11 |                                                                                 |
+| 252. Meeting Rooms                                     | easy |   시간초과    |  10:10   |    25    | 2023/08/11 |                                                   |
+| 268. Missing Number                                    | easy |     9     |  01:19   |    25    | 2023/08/11 |                                                                                 |
+| 283. Move Zeroes                                       | easy |  17  | 08:08 |  25   | 2023/08/12 |        |
+| 303.Range Sum Query - Immutable                        | easy |   4 | 04:31 |    25    | 2023/08/12 |           |
+| 346. Moving Average from Data Stream                   | easy | 시간초과 | 13:34 |    25    | 2023/08/12 |            |
 
 </details>
