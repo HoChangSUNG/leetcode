@@ -126,7 +126,7 @@
 </details>
 
 <details>
-<summary>2회독(현재 38문제)</summary>
+<summary>2회독(현재 41문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간  | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                                            |
@@ -169,5 +169,8 @@
 | 283. Move Zeroes                                       | easy |  17  | 08:08 |  25   | 2023/08/12 |        |
 | 303.Range Sum Query - Immutable                        | easy |   4 | 04:31 |    25    | 2023/08/12 |           |
 | 346. Moving Average from Data Stream                   | easy | 시간초과 | 13:34 |    25    | 2023/08/12 |            |
+| 349. Intersection of Two Arrays                        | easy |   9  | 03:21 |  25   | 2023/07/12 |                                                                                 |
+| 350. Intersection of Two Arrays II                     | easy |   9  | 09:38 |  25   | 2023/07/12 |  |
+| 414. Third Maximum Number                              | easy |   9  | 시간초과 |  25   | 2023/07/12 | follow up 해결해보려 했는데 시간 초과 뜸, 시간 초과 뜬 다음에 follow up 만족해서 해결함 |
 
 </details>
