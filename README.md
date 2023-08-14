@@ -126,7 +126,7 @@
 </details>
 
 <details>
-<summary>2회독(현재 41문제)</summary>
+<summary>2회독(현재 44문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간  | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                                            |
@@ -159,18 +159,21 @@
 | 136. Single Number                                     | easy |    12     |  01:34   |  25   | 2023/08/09 |                                                                                |
 | 163. Missing Ranges                                    | easy |    22     |  14:50   |  25   | 2023/08/09 |                                                                                |
 | 169. Majority Element                                  | easy |     8     |  05:27   |  25   | 2023/08/09 | hashmap 말고 다른걸로 folllow up 해결해보기                                               |
-| 170. Two Sum III - Data structure design               | easy |    14     |  08:52   |  25   | 2023/08/10 | 걸린 시간은 줄었는데 시간은 전에 푼거보다 오래 걸림, Map 써서 풀어보자 |
+| 170. Two Sum III - Data structure design               | easy |    14     |  08:52   |  25   | 2023/08/10 | 걸린 시간은 줄었는데 시간은 전에 푼거보다 오래 걸림, Map 써서 풀어보자                                     |
 | 217. Contains Duplicate                                | easy |     8     |  06:46   |  25   | 2023/08/10 |                                                                                |
 | 219. Contains Duplicate II                             | easy |    17     |  10:36   |  25   | 2023/08/10 |                                                                                |
-| 228. Summary Ranges                                    | easy |      23  |  10:06   |  25   | 2023/08/11 |                                                                                 |
-| 243. Shortest Word Distance                            | easy |    13     |  09:41   |    25    | 2023/08/11 |                                                                                 |
-| 252. Meeting Rooms                                     | easy |   시간초과    |  10:10   |    25    | 2023/08/11 |                                                   |
-| 268. Missing Number                                    | easy |     9     |  01:19   |    25    | 2023/08/11 |                                                                                 |
-| 283. Move Zeroes                                       | easy |  17  | 08:08 |  25   | 2023/08/12 |        |
-| 303.Range Sum Query - Immutable                        | easy |   4 | 04:31 |    25    | 2023/08/12 |           |
-| 346. Moving Average from Data Stream                   | easy | 시간초과 | 13:34 |    25    | 2023/08/12 |            |
-| 349. Intersection of Two Arrays                        | easy |   9  | 03:21 |  25   | 2023/07/12 |                                                                                 |
-| 350. Intersection of Two Arrays II                     | easy |   9  | 09:38 |  25   | 2023/07/12 |  |
-| 414. Third Maximum Number                              | easy |   9  | 시간초과 |  25   | 2023/07/12 | follow up 해결해보려 했는데 시간 초과 뜸, 시간 초과 뜬 다음에 follow up 만족해서 해결함 |
+| 228. Summary Ranges                                    | easy |      23  |  10:06   |  25   | 2023/08/11 |                                                                                |
+| 243. Shortest Word Distance                            | easy |    13     |  09:41   |    25    | 2023/08/11 |                                                                                |
+| 252. Meeting Rooms                                     | easy |   시간초과    |  10:10   |    25    | 2023/08/11 |                                                                                |
+| 268. Missing Number                                    | easy |     9     |  01:19   |    25    | 2023/08/11 |                                                                                |
+| 283. Move Zeroes                                       | easy |  17  |  08:08   |  25   | 2023/08/12 |                                                                                |
+| 303.Range Sum Query - Immutable                        | easy |   4 |  04:31   |    25    | 2023/08/12 |                                                                                |
+| 346. Moving Average from Data Stream                   | easy | 시간초과 |  13:34   |    25    | 2023/08/12 |                                                                                |
+| 349. Intersection of Two Arrays                        | easy |   9  |  03:21   |  25   | 2023/07/12 |                                                                                |
+| 350. Intersection of Two Arrays II                     | easy |   9  |  09:38   |  25   | 2023/07/12 |                                                                                |
+| 414. Third Maximum Number                              | easy |   9  |   시간초과   |  25   | 2023/07/12 | follow up 해결해보려 했는데 시간 초과 뜸, 시간 초과 뜬 다음에 follow up 만족해서 해결함                    |
+| 422. Valid Word Square                                 | easy | 시간초과 | 16:01 |  25   | 2023/08/14 |                             |
+| 448. Find All Numbers Disappeared in an Array          | easy |  13  | 24:54 |    25    | 2023/08/14 | follow up 처리하느냐 늦음, -1을 곱하는게 더 깔끔할듯 100001 더하는 것보다 |
+| 455. Assign Cookies                                    | easy |   9  | 10:43 |    25    | 2023/08/14 |                                                     |
 
 </details>
