@@ -126,7 +126,7 @@
 </details>
 
 <details>
-<summary>2회독(현재 44문제)</summary>
+<summary>2회독(현재 50문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                                            |
@@ -172,11 +172,14 @@
 | 349. Intersection of Two Arrays                        | easy |    9     |  03:21   |  25   | 2023/07/12 |                                                                                |
 | 350. Intersection of Two Arrays II                     | easy |    9     |  09:38   |  25   | 2023/07/12 |                                                                                |
 | 414. Third Maximum Number                              | easy |    9     |   시간초과   |  25   | 2023/07/12 | follow up 해결해보려 했는데 시간 초과 뜸, 시간 초과 뜬 다음에 follow up 만족해서 해결함                    |
-| 422. Valid Word Square                                 | easy |   시간초과   |  16:01   |  25   | 2023/08/14 |                             |
-| 448. Find All Numbers Disappeared in an Array          | easy |    13    |  24:54   |    25    | 2023/08/14 | follow up 처리하느냐 늦음, -1을 곱하는게 더 깔끔할듯 100001 더하는 것보다 |
-| 455. Assign Cookies                                    | easy |    9     |  10:43   |    25    | 2023/08/14 |                                                     |
-| 463. Island Perimeter                                  | easy |   20  | 11:18 |  25   | 2023/07/13 | 쉬운 문제를 bfs로 풀어버림…                                                               |
-| 485. Max Consecutive Ones                              | easy |   시간초과  | 21:49 |    25    | 2023/07/13 | 문제를 잘못 해석해서 오래 걸림   |
-| 496. Next Greater Element I                            | easy |    22   | 시간초과 |    25    | 2023/07/14 | follow up 해결하려 시도했는데 시간 초과 됨, follow up해결 안하고 문제 풀면 시간 내에 가능하긴 함 |
+| 422. Valid Word Square                                 | easy |   시간초과   |  16:01   |  25   | 2023/08/14 |                                                                                |
+| 448. Find All Numbers Disappeared in an Array          | easy |    13    |  24:54   |    25    | 2023/08/14 | follow up 처리하느냐 늦음, -1을 곱하는게 더 깔끔할듯 100001 더하는 것보다                             |
+| 455. Assign Cookies                                    | easy |    9     |  10:43   |    25    | 2023/08/14 |                                                                                |
+| 463. Island Perimeter                                  | easy |   20  | 11:18 |  25   | 2023/07/13 |                                                                                |
+| 485. Max Consecutive Ones                              | easy |   시간초과  | 21:49 |    25    | 2023/07/13 | 문제를 잘못 해석해서 오래 걸림                                                              |
+| 496. Next Greater Element I                            | easy |    22   | 시간초과 |    25    | 2023/07/14 | follow up 해결하려 시도했는데 시간 초과 됨, follow up해결 안하고 문제 풀면 시간 내에 가능하긴 함               |
+| 500. Keyboard Row                                      | easy |  18  | 12:26 |  25   | 2023/08/16 |                                   |
+| 506. Relative Ranks                                    | easy |  24 | 16:17  |  25   | 2023/08/16 |       |
+| 561. Array Partition                                   | easy |   6 | 6:20  |  25   | 2023/08/16 |                                              |
 
 </details>
