@@ -126,7 +126,7 @@
 </details>
 
 <details>
-<summary>2회독(현재 50문제)</summary>
+<summary>2회독(현재 54문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                                            |
@@ -181,5 +181,9 @@
 | 500. Keyboard Row                                      | easy |  18  | 12:26 |  25   | 2023/08/16 |                                   |
 | 506. Relative Ranks                                    | easy |  24 | 16:17  |  25   | 2023/08/16 |       |
 | 561. Array Partition                                   | easy |   6 | 6:20  |  25   | 2023/08/16 |                                              |
+| 566. Reshape the Matrix                                | easy |   9  | 08:16 |  25   | 2023/08/17 |                                                                                 |
+| 575. Distribute Candies                                | easy |   8  | 06:18 |  25   | 2023/08/17 | 배열에 저장하는게 시간 더 적게 걸리긴 하는데, Set에 저장해서 시간이 좀 걸리긴 하는데 이정도는 상관 없을듯 |
+| 594. Longest Harmonious Subsequence                    | easy | 시간초과 | 12:32 |  25   | 2023/08/17 |                                           |
+| 598. Range Addition II                                 | easy |   8  | 03:37 |  25   | 2023/08/17 |                                    |
 
 </details>
