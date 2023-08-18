@@ -126,7 +126,7 @@
 </details>
 
 <details>
-<summary>2회독(현재 54문제)</summary>
+<summary>2회독(현재 57문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                                            |
@@ -185,5 +185,8 @@
 | 575. Distribute Candies                                | easy |   8  | 06:18 |  25   | 2023/08/17 | 배열에 저장하는게 시간 더 적게 걸리긴 하는데, Set에 저장해서 시간이 좀 걸리긴 하는데 이정도는 상관 없을듯 |
 | 594. Longest Harmonious Subsequence                    | easy | 시간초과 | 12:32 |  25   | 2023/08/17 |                                           |
 | 598. Range Addition II                                 | easy |   8  | 03:37 |  25   | 2023/08/17 |                                    |
+| 599. Minimum Index Sum of Two Lists                    | easy |  17 | 12:16 |  25   | 2023/08/18 |            |
+| 604. Design Compressed String Iterator                 | easy | 시간초과 | 시간초과 |  25   | 2023/08/18 | Editorial 보고 풀음, 저번이랑 동일한 방식으로 풀려고 하는데 안되서 답지 봄 |
+| 605. Can Place Flowers                                 | easy |  23 | 12:37 |  25   | 2023/08/18 | 전에 답지 보고 푼것 보다는 코드가 조금 더럽지만 시간 초과 안뜸, 다음에는 코드 길이를 답지만큼 줄이기 |
 
 </details>
