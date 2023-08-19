@@ -188,8 +188,8 @@
 | 599. Minimum Index Sum of Two Lists                    | easy |    17    |  12:16   |  25   | 2023/08/18 |            |
 | 604. Design Compressed String Iterator                 | easy |   시간초과   |   시간초과   |  25   | 2023/08/18 | Editorial 보고 풀음, 저번이랑 동일한 방식으로 풀려고 하는데 안되서 답지 봄 |
 | 605. Can Place Flowers                                 | easy |    23    |  12:37   |  25   | 2023/08/18 | 전에 답지 보고 푼것 보다는 코드가 조금 더럽지만 시간 초과 안뜸, 다음에는 코드 길이를 답지만큼 줄이기 |
-| 628. Maximum Product of Three Numbers                  | easy |  시간초과 |  |  25   | 2023/08/19 | 정렬 라이브러리 함수 써서 O(nlogn)인데 다음에는 정렬 함수 안써서 O(n)으로 처리해보기 |
-| 643. Maximum Average Subarray I                        | easy |    19  |  |    25    | 2023/08/19 | sliding window로 풀었는데 답지가 sliding window로 더 깔끔하게 풀었음 |
-| 645. Set Mismatch                                      | easy |    11  |  |    25    | 2023/08/19 | 저번이랑 다른 방법으로 풀었고, 이번에는 xor 사용해서 풀었는데 둘 다 O(n)으로 풀음 |
+| 628. Maximum Product of Three Numbers                  | easy |  시간초과 | 04:09 |  25   | 2023/08/19 | 정렬 라이브러리 함수 써서 O(nlogn)인데 다음에는 정렬 함수 안써서 O(n)으로 처리해보기 |
+| 643. Maximum Average Subarray I                        | easy |    19  | 18:33 |    25    | 2023/08/19 | sliding window로 풀었는데 답지가 sliding window로 더 깔끔하게 풀었음 |
+| 645. Set Mismatch                                      | easy |    11  | 09:30 |    25    | 2023/08/19 | 저번이랑 다른 방법으로 풀었고, 이번에는 xor 사용해서 풀었는데 둘 다 O(n)으로 풀음 |
 
 </details>
