@@ -126,7 +126,7 @@
 </details>
 
 <details>
-<summary>2회독(현재 57문제)</summary>
+<summary>2회독(현재 60문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                                            |
@@ -175,18 +175,21 @@
 | 422. Valid Word Square                                 | easy |   시간초과   |  16:01   |  25   | 2023/08/14 |                                                                                |
 | 448. Find All Numbers Disappeared in an Array          | easy |    13    |  24:54   |    25    | 2023/08/14 | follow up 처리하느냐 늦음, -1을 곱하는게 더 깔끔할듯 100001 더하는 것보다                             |
 | 455. Assign Cookies                                    | easy |    9     |  10:43   |    25    | 2023/08/14 |                                                                                |
-| 463. Island Perimeter                                  | easy |   20  | 11:18 |  25   | 2023/07/13 |                                                                                |
-| 485. Max Consecutive Ones                              | easy |   시간초과  | 21:49 |    25    | 2023/07/13 | 문제를 잘못 해석해서 오래 걸림                                                              |
-| 496. Next Greater Element I                            | easy |    22   | 시간초과 |    25    | 2023/07/14 | follow up 해결하려 시도했는데 시간 초과 됨, follow up해결 안하고 문제 풀면 시간 내에 가능하긴 함               |
-| 500. Keyboard Row                                      | easy |  18  | 12:26 |  25   | 2023/08/16 |                                   |
-| 506. Relative Ranks                                    | easy |  24 | 16:17  |  25   | 2023/08/16 |       |
-| 561. Array Partition                                   | easy |   6 | 6:20  |  25   | 2023/08/16 |                                              |
-| 566. Reshape the Matrix                                | easy |   9  | 08:16 |  25   | 2023/08/17 |                                                                                 |
-| 575. Distribute Candies                                | easy |   8  | 06:18 |  25   | 2023/08/17 | 배열에 저장하는게 시간 더 적게 걸리긴 하는데, Set에 저장해서 시간이 좀 걸리긴 하는데 이정도는 상관 없을듯 |
-| 594. Longest Harmonious Subsequence                    | easy | 시간초과 | 12:32 |  25   | 2023/08/17 |                                           |
-| 598. Range Addition II                                 | easy |   8  | 03:37 |  25   | 2023/08/17 |                                    |
-| 599. Minimum Index Sum of Two Lists                    | easy |  17 | 12:16 |  25   | 2023/08/18 |            |
-| 604. Design Compressed String Iterator                 | easy | 시간초과 | 시간초과 |  25   | 2023/08/18 | Editorial 보고 풀음, 저번이랑 동일한 방식으로 풀려고 하는데 안되서 답지 봄 |
-| 605. Can Place Flowers                                 | easy |  23 | 12:37 |  25   | 2023/08/18 | 전에 답지 보고 푼것 보다는 코드가 조금 더럽지만 시간 초과 안뜸, 다음에는 코드 길이를 답지만큼 줄이기 |
+| 463. Island Perimeter                                  | easy |    20    |  11:18   |  25   | 2023/07/13 |                                                                                |
+| 485. Max Consecutive Ones                              | easy |   시간초과   |  21:49   |    25    | 2023/07/13 | 문제를 잘못 해석해서 오래 걸림                                                              |
+| 496. Next Greater Element I                            | easy |    22    |   시간초과   |    25    | 2023/07/14 | follow up 해결하려 시도했는데 시간 초과 됨, follow up해결 안하고 문제 풀면 시간 내에 가능하긴 함               |
+| 500. Keyboard Row                                      | easy |    18    |  12:26   |  25   | 2023/08/16 |                                   |
+| 506. Relative Ranks                                    | easy |    24    |  16:17   |  25   | 2023/08/16 |       |
+| 561. Array Partition                                   | easy |    6     |   6:20   |  25   | 2023/08/16 |                                              |
+| 566. Reshape the Matrix                                | easy |    9     |  08:16   |  25   | 2023/08/17 |                                                                                 |
+| 575. Distribute Candies                                | easy |    8     |  06:18   |  25   | 2023/08/17 | 배열에 저장하는게 시간 더 적게 걸리긴 하는데, Set에 저장해서 시간이 좀 걸리긴 하는데 이정도는 상관 없을듯 |
+| 594. Longest Harmonious Subsequence                    | easy |   시간초과   |  12:32   |  25   | 2023/08/17 |                                           |
+| 598. Range Addition II                                 | easy |    8     |  03:37   |  25   | 2023/08/17 |                                    |
+| 599. Minimum Index Sum of Two Lists                    | easy |    17    |  12:16   |  25   | 2023/08/18 |            |
+| 604. Design Compressed String Iterator                 | easy |   시간초과   |   시간초과   |  25   | 2023/08/18 | Editorial 보고 풀음, 저번이랑 동일한 방식으로 풀려고 하는데 안되서 답지 봄 |
+| 605. Can Place Flowers                                 | easy |    23    |  12:37   |  25   | 2023/08/18 | 전에 답지 보고 푼것 보다는 코드가 조금 더럽지만 시간 초과 안뜸, 다음에는 코드 길이를 답지만큼 줄이기 |
+| 628. Maximum Product of Three Numbers                  | easy |  시간초과 |  |  25   | 2023/08/19 | 정렬 라이브러리 함수 써서 O(nlogn)인데 다음에는 정렬 함수 안써서 O(n)으로 처리해보기 |
+| 643. Maximum Average Subarray I                        | easy |    19  |  |    25    | 2023/08/19 | sliding window로 풀었는데 답지가 sliding window로 더 깔끔하게 풀었음 |
+| 645. Set Mismatch                                      | easy |    11  |  |    25    | 2023/08/19 | 저번이랑 다른 방법으로 풀었고, 이번에는 xor 사용해서 풀었는데 둘 다 O(n)으로 풀음 |
 
 </details>
