@@ -126,7 +126,7 @@
 </details>
 
 <details>
-<summary>2회독(현재 60문제)</summary>
+<summary>2회독(현재 63문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                                            |
@@ -188,8 +188,11 @@
 | 599. Minimum Index Sum of Two Lists                    | easy |    17    |  12:16   |  25   | 2023/08/18 |            |
 | 604. Design Compressed String Iterator                 | easy |   시간초과   |   시간초과   |  25   | 2023/08/18 | Editorial 보고 풀음, 저번이랑 동일한 방식으로 풀려고 하는데 안되서 답지 봄 |
 | 605. Can Place Flowers                                 | easy |    23    |  12:37   |  25   | 2023/08/18 | 전에 답지 보고 푼것 보다는 코드가 조금 더럽지만 시간 초과 안뜸, 다음에는 코드 길이를 답지만큼 줄이기 |
-| 628. Maximum Product of Three Numbers                  | easy |  시간초과 | 04:09 |  25   | 2023/08/19 | 정렬 라이브러리 함수 써서 O(nlogn)인데 다음에는 정렬 함수 안써서 O(n)으로 처리해보기 |
-| 643. Maximum Average Subarray I                        | easy |    19  | 18:33 |    25    | 2023/08/19 | sliding window로 풀었는데 답지가 sliding window로 더 깔끔하게 풀었음 |
-| 645. Set Mismatch                                      | easy |    11  | 09:30 |    25    | 2023/08/19 | 저번이랑 다른 방법으로 풀었고, 이번에는 xor 사용해서 풀었는데 둘 다 O(n)으로 풀음 |
+| 628. Maximum Product of Three Numbers                  | easy |   시간초과   |  04:09   |  25   | 2023/08/19 | 정렬 라이브러리 함수 써서 O(nlogn)인데 다음에는 정렬 함수 안써서 O(n)으로 처리해보기 |
+| 643. Maximum Average Subarray I                        | easy |    19    |  18:33   |    25    | 2023/08/19 | sliding window로 풀었는데 답지가 sliding window로 더 깔끔하게 풀었음 |
+| 645. Set Mismatch                                      | easy |    11    |  09:30   |    25    | 2023/08/19 | 저번이랑 다른 방법으로 풀었고, 이번에는 xor 사용해서 풀었는데 둘 다 O(n)으로 풀음 |
+| 661. Image Smoother                                    | easy |   시간초과   | 시간초과 |  25   | 2023/08/20 | 자꾸 어렵게 풀려고 해서 주어진 시간 안에 못품, 변수를 하나 잘못 설정해서 제출시 시간초과 뜸 |
+| 674. Longest Continuous Increasing Subsequence         | easy |  08:50   | 04:20 |  25:00   | 2023/08/20 |                                                                                 |
+| 682. Baseball Game                                     | easy |  12:41   | 11:07 |  25:00   | 2023/08/20  | 문제 리턴되는 값을 잘못봐서 오래 걸림 |
 
 </details>
