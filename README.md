@@ -126,73 +126,76 @@
 </details>
 
 <details>
-<summary>2회독(현재 63문제)</summary>
+<summary>2회독(현재 66문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                                            |
-|:-------------------------------------------------------|:----:|:--------:|:--------:|:-----:|:----------:|:-------------------------------------------------------------------------------|
-| 1. Two Sum                                             | easy |    17    |  10:02   |  25   | 2023/08/01 | follow-up 해결함, 시간 전보다 줄음                                                       |
-| 9. Palindrome Number                                   | easy |    17    |  19:32   |  25   | 2023/08/01 | 이번에는 follow-up 해결함, 대신 시간이 전보다 오래 걸림, 좀 더 쉽게 풀 수 있는 방법이 있으니 다음에는 더 쉽게 코드 바꾸어보기 |
-| 13. Roman to Integer                                   | easy |   시간초과   |  13:31   |  25   | 2023/08/01 | 저번에는 시간 초과 떴음,다음에는 solution에 있는 풀이들로 해결해보기                                     |
-| 14. Longest Common Prefix                              | easy |    10    |  10:06   |  25   | 2023/08/02 | 다음에는 solution에 있는 방법이 더 좋으니 그걸로 해보기                                            |
-| 20. Valid Parentheses                                  | easy |    11    |  07:21   |  25   | 2023/08/02 | 저번보다 시간은 줄었음                                                                   |
-| 21. Merge Two Sorted Lists                             | easy |   시간초과   |  08:42   |  25   | 2023/08/02 | 시간은 줄었는데 이전 코드가 차라리 나은듯, 하나의 while문 안에 넣는 것보다 분리하는게 차라리 코드가 깔끔한듯               |
-| 26. Remove Duplicates from Sorted Array                | easy |    17    |  09:28   |  25   | 2023/08/03 | 저번에는 새로운 배열 만들어서 풀었는데 이번에는 기존 배열로 풀고 시간도 더 빠름                                  |
-| 27. Remove Element                                     | easy |    7     |  03:29   |  25   | 2023/08/03 | 위 문제랑 사실상 동일한 문제, 저번보다 코드 더 간단하게  풀음                                           |
-| 28. Find the Index of the First Occurrence in a String | easy |    16    |  09:45   |  25   | 2023/08/03 | 코드 자체는 깔끔함. 시간 복잡도는 저번이랑 같은데 다음에는 좀 더 개선시켜야 함                                  |
-| 35. Search Insert Position                             | easy |    13    |  02:54   |  25   | 2023/08/04 | 이분 탐색 기초라서 빨리 풀음                                                               |
-| 58. Length of Last Word                                | easy |    16    |  07:05   |  25   | 2023/08/04 | 저번보다 코드는 짧음, 시간 복잡도 자체는 동일, editorial의 approach 2가 루프 하나로 제일 깔끔하게 푼듯           |
-| 66. Plus One                                           | easy |   시간초과   |  12:49   |  25   | 2023/08/04 | 저번보다 깔끔하게 풀지는 않음, 다음번에는 코드 좀 더 다듬는 방식으로 풀어보기                                   |
-| 67. Add Binary                                         | easy |    10    |  18:34   |  25   | 2023/08/05 | 답지 안본 최초 코드보다는 나음, 근데 코드에서 실수해서 실수 찾는데 오래 걸림                                   |
-| 69. Sqrt(x)                                            | easy |   시간초과   |  15:50   |  25   | 2023/08/05 | 저번에 오버플로우 발생해서 계속 틀렸었는데, 이번에는 해결함                                              |
-| 70. Climbing Stairs                                    | easy |    5     |  03:28   |  25   | 2023/08/05 |                                                                                |
-| 83. Remove Duplicates from Sorted List                 | easy |    8     |  08:43   |  25   | 2023/08/06 | 새로운 노드를 만들었는데 새로 만들지 말고 기존 링크드 리스트를 재사용하는 방식으로 풀어보자 다음에는                       |
-| 88. Merge Sorted Array                                 | easy |    10    |  13:17   |  25   | 2023/08/06 | 전보다 시간은 좀 더 걸렸지만, 좀 더 깔끔하게 follow up 해결함                                       |
-| 94. Binary Tree Inorder Traversal                      | easy |    12    |   시간초과   |  25   | 2023/08/06 | follow up 해결하려 스택으로 해보려고 했는데, 로직을 잘못 작성해서 계속 실패함.                              |
-| 100. Same Tree                                         | easy |    11    |  07:09   |  25   | 2023/08/07 |                                                                                |
-| 101. Symmetric Tree                                    | easy |    10    |  06:39   |  25   | 2023/08/07 |                                                                                |
-| 104. Maximum Depth of Binary Tree                      | easy |    4     |  01:54   |  25   | 2023/08/07 |                                                                                |
-| 108. Convert Sorted Array to Binary Search Tree        | easy |   시간초과   |  18:31   |  25   | 2023/08/08 | 처음에 봤을때는 기억 안나서 좀 생각하는데 시간이 오래 걸림                                              |
-| 118. Pascal's Triangle                                 | easy |    4     |  14:00   |  25   | 2023/08/08 | 코드를 작성하고, 변수를 잘못 할당해서 계속 실패했음                                                  |
-| 119. Pascal's Triangle II                              | easy |    4     |  12:43   |  25   | 2023/08/08 | follow up 해결해서 시간이 저번보다 오래 걸림                                                  |
-| 121. Best Time to Buy and Sell Stock                   | easy |   시간초과   |  14:18   |  25   | 2023/08/09 |                                                                                |
-| 136. Single Number                                     | easy |    12    |  01:34   |  25   | 2023/08/09 |                                                                                |
-| 163. Missing Ranges                                    | easy |    22    |  14:50   |  25   | 2023/08/09 |                                                                                |
-| 169. Majority Element                                  | easy |    8     |  05:27   |  25   | 2023/08/09 | hashmap 말고 다른걸로 folllow up 해결해보기                                               |
-| 170. Two Sum III - Data structure design               | easy |    14    |  08:52   |  25   | 2023/08/10 | 걸린 시간은 줄었는데 시간은 전에 푼거보다 오래 걸림, Map 써서 풀어보자                                     |
-| 217. Contains Duplicate                                | easy |    8     |  06:46   |  25   | 2023/08/10 |                                                                                |
-| 219. Contains Duplicate II                             | easy |    17    |  10:36   |  25   | 2023/08/10 |                                                                                |
-| 228. Summary Ranges                                    | easy |    23    |  10:06   |  25   | 2023/08/11 |                                                                                |
-| 243. Shortest Word Distance                            | easy |    13    |  09:41   |    25    | 2023/08/11 |                                                                                |
-| 252. Meeting Rooms                                     | easy |   시간초과   |  10:10   |    25    | 2023/08/11 |                                                                                |
-| 268. Missing Number                                    | easy |    9     |  01:19   |    25    | 2023/08/11 |                                                                                |
-| 283. Move Zeroes                                       | easy |    17    |  08:08   |  25   | 2023/08/12 |                                                                                |
-| 303.Range Sum Query - Immutable                        | easy |    4     |  04:31   |    25    | 2023/08/12 |                                                                                |
-| 346. Moving Average from Data Stream                   | easy |   시간초과   |  13:34   |    25    | 2023/08/12 |                                                                                |
-| 349. Intersection of Two Arrays                        | easy |    9     |  03:21   |  25   | 2023/07/12 |                                                                                |
-| 350. Intersection of Two Arrays II                     | easy |    9     |  09:38   |  25   | 2023/07/12 |                                                                                |
-| 414. Third Maximum Number                              | easy |    9     |   시간초과   |  25   | 2023/07/12 | follow up 해결해보려 했는데 시간 초과 뜸, 시간 초과 뜬 다음에 follow up 만족해서 해결함                    |
-| 422. Valid Word Square                                 | easy |   시간초과   |  16:01   |  25   | 2023/08/14 |                                                                                |
-| 448. Find All Numbers Disappeared in an Array          | easy |    13    |  24:54   |    25    | 2023/08/14 | follow up 처리하느냐 늦음, -1을 곱하는게 더 깔끔할듯 100001 더하는 것보다                             |
-| 455. Assign Cookies                                    | easy |    9     |  10:43   |    25    | 2023/08/14 |                                                                                |
-| 463. Island Perimeter                                  | easy |    20    |  11:18   |  25   | 2023/07/13 |                                                                                |
-| 485. Max Consecutive Ones                              | easy |   시간초과   |  21:49   |    25    | 2023/07/13 | 문제를 잘못 해석해서 오래 걸림                                                              |
-| 496. Next Greater Element I                            | easy |    22    |   시간초과   |    25    | 2023/07/14 | follow up 해결하려 시도했는데 시간 초과 됨, follow up해결 안하고 문제 풀면 시간 내에 가능하긴 함               |
-| 500. Keyboard Row                                      | easy |    18    |  12:26   |  25   | 2023/08/16 |                                   |
-| 506. Relative Ranks                                    | easy |    24    |  16:17   |  25   | 2023/08/16 |       |
-| 561. Array Partition                                   | easy |    6     |   6:20   |  25   | 2023/08/16 |                                              |
-| 566. Reshape the Matrix                                | easy |    9     |  08:16   |  25   | 2023/08/17 |                                                                                 |
-| 575. Distribute Candies                                | easy |    8     |  06:18   |  25   | 2023/08/17 | 배열에 저장하는게 시간 더 적게 걸리긴 하는데, Set에 저장해서 시간이 좀 걸리긴 하는데 이정도는 상관 없을듯 |
-| 594. Longest Harmonious Subsequence                    | easy |   시간초과   |  12:32   |  25   | 2023/08/17 |                                           |
-| 598. Range Addition II                                 | easy |    8     |  03:37   |  25   | 2023/08/17 |                                    |
-| 599. Minimum Index Sum of Two Lists                    | easy |    17    |  12:16   |  25   | 2023/08/18 |            |
-| 604. Design Compressed String Iterator                 | easy |   시간초과   |   시간초과   |  25   | 2023/08/18 | Editorial 보고 풀음, 저번이랑 동일한 방식으로 풀려고 하는데 안되서 답지 봄 |
-| 605. Can Place Flowers                                 | easy |    23    |  12:37   |  25   | 2023/08/18 | 전에 답지 보고 푼것 보다는 코드가 조금 더럽지만 시간 초과 안뜸, 다음에는 코드 길이를 답지만큼 줄이기 |
-| 628. Maximum Product of Three Numbers                  | easy |   시간초과   |  04:09   |  25   | 2023/08/19 | 정렬 라이브러리 함수 써서 O(nlogn)인데 다음에는 정렬 함수 안써서 O(n)으로 처리해보기 |
-| 643. Maximum Average Subarray I                        | easy |    19    |  18:33   |    25    | 2023/08/19 | sliding window로 풀었는데 답지가 sliding window로 더 깔끔하게 풀었음 |
-| 645. Set Mismatch                                      | easy |    11    |  09:30   |    25    | 2023/08/19 | 저번이랑 다른 방법으로 풀었고, 이번에는 xor 사용해서 풀었는데 둘 다 O(n)으로 풀음 |
-| 661. Image Smoother                                    | easy |   시간초과   | 시간초과 |  25   | 2023/08/20 | 자꾸 어렵게 풀려고 해서 주어진 시간 안에 못품, 변수를 하나 잘못 설정해서 제출시 시간초과 뜸 |
-| 674. Longest Continuous Increasing Subsequence         | easy |  08:50   | 04:20 |  25:00   | 2023/08/20 |                                                                                 |
-| 682. Baseball Game                                     | easy |  12:41   | 11:07 |  25:00   | 2023/08/20  | 문제 리턴되는 값을 잘못봐서 오래 걸림 |
+|:-------------------------------------------------------|:----:|:-------:|:--------:|:-----:|:----------:|:-------------------------------------------------------------------------------|
+| 1. Two Sum                                             | easy |    17   |  10:02   |  25   | 2023/08/01 | follow-up 해결함, 시간 전보다 줄음                                                       |
+| 9. Palindrome Number                                   | easy |    17   |  19:32   |  25   | 2023/08/01 | 이번에는 follow-up 해결함, 대신 시간이 전보다 오래 걸림, 좀 더 쉽게 풀 수 있는 방법이 있으니 다음에는 더 쉽게 코드 바꾸어보기 |
+| 13. Roman to Integer                                   | easy |   시간초과  |  13:31   |  25   | 2023/08/01 | 저번에는 시간 초과 떴음,다음에는 solution에 있는 풀이들로 해결해보기                                     |
+| 14. Longest Common Prefix                              | easy |    10   |  10:06   |  25   | 2023/08/02 | 다음에는 solution에 있는 방법이 더 좋으니 그걸로 해보기                                            |
+| 20. Valid Parentheses                                  | easy |    11   |  07:21   |  25   | 2023/08/02 | 저번보다 시간은 줄었음                                                                   |
+| 21. Merge Two Sorted Lists                             | easy |   시간초과  |  08:42   |  25   | 2023/08/02 | 시간은 줄었는데 이전 코드가 차라리 나은듯, 하나의 while문 안에 넣는 것보다 분리하는게 차라리 코드가 깔끔한듯               |
+| 26. Remove Duplicates from Sorted Array                | easy |    17   |  09:28   |  25   | 2023/08/03 | 저번에는 새로운 배열 만들어서 풀었는데 이번에는 기존 배열로 풀고 시간도 더 빠름                                  |
+| 27. Remove Element                                     | easy |    7    |  03:29   |  25   | 2023/08/03 | 위 문제랑 사실상 동일한 문제, 저번보다 코드 더 간단하게  풀음                                           |
+| 28. Find the Index of the First Occurrence in a String | easy |    16   |  09:45   |  25   | 2023/08/03 | 코드 자체는 깔끔함. 시간 복잡도는 저번이랑 같은데 다음에는 좀 더 개선시켜야 함                                  |
+| 35. Search Insert Position                             | easy |    13   |  02:54   |  25   | 2023/08/04 | 이분 탐색 기초라서 빨리 풀음                                                               |
+| 58. Length of Last Word                                | easy |    16   |  07:05   |  25   | 2023/08/04 | 저번보다 코드는 짧음, 시간 복잡도 자체는 동일, editorial의 approach 2가 루프 하나로 제일 깔끔하게 푼듯           |
+| 66. Plus One                                           | easy |   시간초과  |  12:49   |  25   | 2023/08/04 | 저번보다 깔끔하게 풀지는 않음, 다음번에는 코드 좀 더 다듬는 방식으로 풀어보기                                   |
+| 67. Add Binary                                         | easy |    10   |  18:34   |  25   | 2023/08/05 | 답지 안본 최초 코드보다는 나음, 근데 코드에서 실수해서 실수 찾는데 오래 걸림                                   |
+| 69. Sqrt(x)                                            | easy |   시간초과  |  15:50   |  25   | 2023/08/05 | 저번에 오버플로우 발생해서 계속 틀렸었는데, 이번에는 해결함                                              |
+| 70. Climbing Stairs                                    | easy |    5    |  03:28   |  25   | 2023/08/05 |                                                                                |
+| 83. Remove Duplicates from Sorted List                 | easy |    8    |  08:43   |  25   | 2023/08/06 | 새로운 노드를 만들었는데 새로 만들지 말고 기존 링크드 리스트를 재사용하는 방식으로 풀어보자 다음에는                       |
+| 88. Merge Sorted Array                                 | easy |    10   |  13:17   |  25   | 2023/08/06 | 전보다 시간은 좀 더 걸렸지만, 좀 더 깔끔하게 follow up 해결함                                       |
+| 94. Binary Tree Inorder Traversal                      | easy |    12   |   시간초과   |  25   | 2023/08/06 | follow up 해결하려 스택으로 해보려고 했는데, 로직을 잘못 작성해서 계속 실패함.                              |
+| 100. Same Tree                                         | easy |    11   |  07:09   |  25   | 2023/08/07 |                                                                                |
+| 101. Symmetric Tree                                    | easy |    10   |  06:39   |  25   | 2023/08/07 |                                                                                |
+| 104. Maximum Depth of Binary Tree                      | easy |    4    |  01:54   |  25   | 2023/08/07 |                                                                                |
+| 108. Convert Sorted Array to Binary Search Tree        | easy |   시간초과  |  18:31   |  25   | 2023/08/08 | 처음에 봤을때는 기억 안나서 좀 생각하는데 시간이 오래 걸림                                              |
+| 118. Pascal's Triangle                                 | easy |    4    |  14:00   |  25   | 2023/08/08 | 코드를 작성하고, 변수를 잘못 할당해서 계속 실패했음                                                  |
+| 119. Pascal's Triangle II                              | easy |    4    |  12:43   |  25   | 2023/08/08 | follow up 해결해서 시간이 저번보다 오래 걸림                                                  |
+| 121. Best Time to Buy and Sell Stock                   | easy |   시간초과  |  14:18   |  25   | 2023/08/09 |                                                                                |
+| 136. Single Number                                     | easy |    12   |  01:34   |  25   | 2023/08/09 |                                                                                |
+| 163. Missing Ranges                                    | easy |    22   |  14:50   |  25   | 2023/08/09 |                                                                                |
+| 169. Majority Element                                  | easy |    8    |  05:27   |  25   | 2023/08/09 | hashmap 말고 다른걸로 folllow up 해결해보기                                               |
+| 170. Two Sum III - Data structure design               | easy |    14   |  08:52   |  25   | 2023/08/10 | 걸린 시간은 줄었는데 시간은 전에 푼거보다 오래 걸림, Map 써서 풀어보자                                     |
+| 217. Contains Duplicate                                | easy |    8    |  06:46   |  25   | 2023/08/10 |                                                                                |
+| 219. Contains Duplicate II                             | easy |    17   |  10:36   |  25   | 2023/08/10 |                                                                                |
+| 228. Summary Ranges                                    | easy |    23   |  10:06   |  25   | 2023/08/11 |                                                                                |
+| 243. Shortest Word Distance                            | easy |    13   |  09:41   |    25    | 2023/08/11 |                                                                                |
+| 252. Meeting Rooms                                     | easy |   시간초과  |  10:10   |    25    | 2023/08/11 |                                                                                |
+| 268. Missing Number                                    | easy |    9    |  01:19   |    25    | 2023/08/11 |                                                                                |
+| 283. Move Zeroes                                       | easy |    17   |  08:08   |  25   | 2023/08/12 |                                                                                |
+| 303.Range Sum Query - Immutable                        | easy |    4    |  04:31   |    25    | 2023/08/12 |                                                                                |
+| 346. Moving Average from Data Stream                   | easy |   시간초과  |  13:34   |    25    | 2023/08/12 |                                                                                |
+| 349. Intersection of Two Arrays                        | easy |    9    |  03:21   |  25   | 2023/07/12 |                                                                                |
+| 350. Intersection of Two Arrays II                     | easy |    9    |  09:38   |  25   | 2023/07/12 |                                                                                |
+| 414. Third Maximum Number                              | easy |    9    |   시간초과   |  25   | 2023/07/12 | follow up 해결해보려 했는데 시간 초과 뜸, 시간 초과 뜬 다음에 follow up 만족해서 해결함                    |
+| 422. Valid Word Square                                 | easy |   시간초과  |  16:01   |  25   | 2023/08/14 |                                                                                |
+| 448. Find All Numbers Disappeared in an Array          | easy |    13   |  24:54   |    25    | 2023/08/14 | follow up 처리하느냐 늦음, -1을 곱하는게 더 깔끔할듯 100001 더하는 것보다                             |
+| 455. Assign Cookies                                    | easy |    9    |  10:43   |    25    | 2023/08/14 |                                                                                |
+| 463. Island Perimeter                                  | easy |    20   |  11:18   |  25   | 2023/07/13 |                                                                                |
+| 485. Max Consecutive Ones                              | easy |   시간초과  |  21:49   |    25    | 2023/07/13 | 문제를 잘못 해석해서 오래 걸림                                                              |
+| 496. Next Greater Element I                            | easy |    22   |   시간초과   |    25    | 2023/07/14 | follow up 해결하려 시도했는데 시간 초과 됨, follow up해결 안하고 문제 풀면 시간 내에 가능하긴 함               |
+| 500. Keyboard Row                                      | easy |    18   |  12:26   |  25   | 2023/08/16 |                                   |
+| 506. Relative Ranks                                    | easy |    24   |  16:17   |  25   | 2023/08/16 |       |
+| 561. Array Partition                                   | easy |    6    |   6:20   |  25   | 2023/08/16 |                                              |
+| 566. Reshape the Matrix                                | easy |    9    |  08:16   |  25   | 2023/08/17 |                                                                                 |
+| 575. Distribute Candies                                | easy |    8    |  06:18   |  25   | 2023/08/17 | 배열에 저장하는게 시간 더 적게 걸리긴 하는데, Set에 저장해서 시간이 좀 걸리긴 하는데 이정도는 상관 없을듯 |
+| 594. Longest Harmonious Subsequence                    | easy |   시간초과  |  12:32   |  25   | 2023/08/17 |                                           |
+| 598. Range Addition II                                 | easy |    8    |  03:37   |  25   | 2023/08/17 |                                    |
+| 599. Minimum Index Sum of Two Lists                    | easy |    17   |  12:16   |  25   | 2023/08/18 |            |
+| 604. Design Compressed String Iterator                 | easy |   시간초과  |   시간초과   |  25   | 2023/08/18 | Editorial 보고 풀음, 저번이랑 동일한 방식으로 풀려고 하는데 안되서 답지 봄 |
+| 605. Can Place Flowers                                 | easy |    23   |  12:37   |  25   | 2023/08/18 | 전에 답지 보고 푼것 보다는 코드가 조금 더럽지만 시간 초과 안뜸, 다음에는 코드 길이를 답지만큼 줄이기 |
+| 628. Maximum Product of Three Numbers                  | easy |   시간초과  |  04:09   |  25   | 2023/08/19 | 정렬 라이브러리 함수 써서 O(nlogn)인데 다음에는 정렬 함수 안써서 O(n)으로 처리해보기 |
+| 643. Maximum Average Subarray I                        | easy |    19   |  18:33   |    25    | 2023/08/19 | sliding window로 풀었는데 답지가 sliding window로 더 깔끔하게 풀었음 |
+| 645. Set Mismatch                                      | easy |    11   |  09:30   |    25    | 2023/08/19 | 저번이랑 다른 방법으로 풀었고, 이번에는 xor 사용해서 풀었는데 둘 다 O(n)으로 풀음 |
+| 661. Image Smoother                                    | easy |   시간초과  |   시간초과   |  25   | 2023/08/20 | 자꾸 어렵게 풀려고 해서 주어진 시간 안에 못품, 변수를 하나 잘못 설정해서 제출시 시간초과 뜸 |
+| 674. Longest Continuous Increasing Subsequence         | easy |  08:50  |  04:20   |  25:00   | 2023/08/20 |                                                                                 |
+| 682. Baseball Game                                     | easy |  12:41  |  11:07   |  25:00   | 2023/08/20 | 문제 리턴되는 값을 잘못봐서 오래 걸림 |
+| 697. Degree of an Array                                | easy |  시간초과 | 14:52 | 25:00 | 2023/08/21 |                                          |
+| 717. 1-bit and 2-bit Characters                        | easy |  시간초과 | 09:34 |  25:00   | 2023/08/21 |                             |
+| 724. Find Pivot Index                                  | easy |  11:00 | 23:52 |  25:00   | 2023/08/21 |                                |
 
 </details>
