@@ -126,7 +126,7 @@
 </details>
 
 <details>
-<summary>2회독(현재 66문제)</summary>
+<summary>2회독(현재 69문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                                            |
@@ -197,5 +197,8 @@
 | 697. Degree of an Array                                | easy |  시간초과 | 14:52 | 25:00 | 2023/08/21 |                                          |
 | 717. 1-bit and 2-bit Characters                        | easy |  시간초과 | 09:34 |  25:00   | 2023/08/21 |                             |
 | 724. Find Pivot Index                                  | easy |  11:00 | 23:52 |  25:00   | 2023/08/21 |                                |
+| 733. Flood Fill                                        | easy | 13:00 | 17:19 | 25:00 | 2023/08/22 | 이번에는 bfs 말고 dfs로 풀음 |
+| 734. Sentence Similarity                               | easy | 시간초과 | 시간초과 | 25:00 | 2023/08/22 | 다음에는 putIfAbsent 이용해서 해보기 |
+| 744. Find Smallest Letter Greater Than Target          | easy | 05:29 | 15:01 | 25:00 | 2023/08/22 | 시간은 더 소요되었지만, O(N) → O(logN)으로 시간 줄임 |
 
 </details>
