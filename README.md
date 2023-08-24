@@ -126,7 +126,7 @@
 </details>
 
 <details>
-<summary>2회독(현재 72문제)</summary>
+<summary>2회독(현재 75문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                                            |
@@ -203,5 +203,8 @@
 | 746. Min Cost Climbing Stairs                          | easy |  09:53   |  07:05   | 25:00 | 2023/08/23 |                                                                                |
 | 747. Largest Number At Least Twice of Others           | easy |  13:58 |  18:48   |  25:00   | 2023/08/23 | 시간복잡도는 저번이랑 동일하게 o(n)인데 이번에는 for문을 두번 써버림                                      |
 | 748. Shortest Completing Word                          | easy |  24:26 |  23:49   |  25:00   | 2023/08/23 | 코드 풀긴 하는데 너무 더러움              |
+| 760. Find Anagram Mappings                             | easy | 08:06 | 09:24 | 25:00 | 2023/08/24 |   |
+| 766. Toeplitz Matrix                                   | easy | 19:37 | 07:56 | 25:00 | 2023/08/24 |      |
+| 704. Binary Search                                     | easy | 03:05 | 01:58 |25:00 | 2023/08/24 |       |
 
 </details>
