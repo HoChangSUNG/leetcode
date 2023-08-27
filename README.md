@@ -202,16 +202,19 @@
 | 744. Find Smallest Letter Greater Than Target          | easy |  05:29   |  15:01   | 25:00 | 2023/08/22 | 시간은 더 소요되었지만, O(N) → O(logN)으로 시간 줄임                                           |
 | 746. Min Cost Climbing Stairs                          | easy |  09:53   |  07:05   | 25:00 | 2023/08/23 |                                                                                |
 | 747. Largest Number At Least Twice of Others           | easy |  13:58   |  18:48   | 25:00 | 2023/08/23 | 시간복잡도는 저번이랑 동일하게 o(n)인데 이번에는 for문을 두번 써버림                                      |
-| 748. Shortest Completing Word                          | easy |  24:26   |  23:49   | 25:00 | 2023/08/23 | 코드 풀긴 하는데 너무 더러움              |
-| 760. Find Anagram Mappings                             | easy |  08:06   |  09:24   | 25:00 | 2023/08/24 |   |
-| 766. Toeplitz Matrix                                   | easy |  19:37   |  07:56   | 25:00 | 2023/08/24 |      |
-| 704. Binary Search                                     | easy |  03:05   |  01:58   | 25:00 | 2023/08/24 |       |
-| 705. Design HashSet                                    | easy |  11:28   |  12:30   | 25:00 | 2023/08/25 | |
-| 706. Design HashMap                                    | easy |  04:48   |  05:27   | 25:00 | 2023/08/25 | 다음에는 해시테이블 크기 제한하고, 체이닝으로 만들기 |
-| 804. Unique Morse Code Words                           | easy |  10:05   |  03:44   | 25:00 | 2023/08/25 |    |
-| 806. Number of Lines To Write String                   | easy |  09:32 |  11:49   | 25:00 | 2023/08/26 |      |
-| 812. Largest Triangle Area                             | easy |   시간초과 |  19:53   |  25:00   | 2023/08/26 |  |
-| 821. Shortest Distance to a Character                  | easy |  19:59 |  시간초과    |  25:00   | 2023/08/26 | bfs 말고 다른 걸로 풀려고 했는데 안풀려서 시간 초과 뜸, 다른 사람꺼 참고함 |
-| 832. Flipping an Image                                 | easy |  13:13 | 07:38 |  25:00   | 2023/08/26 |                     |
+| 748. Shortest Completing Word                          | easy |  24:26   |  23:49   | 25:00 | 2023/08/23 | 코드 풀긴 하는데 너무 더러움                                                               |
+| 760. Find Anagram Mappings                             | easy |  08:06   |  09:24   | 25:00 | 2023/08/24 |                                                                                |
+| 766. Toeplitz Matrix                                   | easy |  19:37   |  07:56   | 25:00 | 2023/08/24 |                                                                                |
+| 704. Binary Search                                     | easy |  03:05   |  01:58   | 25:00 | 2023/08/24 |                                                                                |
+| 705. Design HashSet                                    | easy |  11:28   |  12:30   | 25:00 | 2023/08/25 |                                                                                |
+| 706. Design HashMap                                    | easy |  04:48   |  05:27   | 25:00 | 2023/08/25 | 다음에는 해시테이블 크기 제한하고, 체이닝으로 만들기                                                  |
+| 804. Unique Morse Code Words                           | easy |  10:05   |  03:44   | 25:00 | 2023/08/25 |                                                                                |
+| 806. Number of Lines To Write String                   | easy |  09:32   |  11:49   | 25:00 | 2023/08/26 |                                                                                |
+| 812. Largest Triangle Area                             | easy |   시간초과   |  19:53   |  25:00   | 2023/08/26 |                                                                                |
+| 821. Shortest Distance to a Character                  | easy |  19:59   |   시간초과   |  25:00   | 2023/08/26 | bfs 말고 다른 걸로 풀려고 했는데 안풀려서 시간 초과 뜸, 다른 사람꺼 참고함                                  |
+| 832. Flipping an Image                                 | easy |  13:13   |  07:38   |  25:00   | 2023/08/26 |                                                                                |
+| 860. Lemonade Change                                   | easy |  24:35 | 11:58 | 25:00 | 2023/08/27 | 시간은 줄였는데 코드가 너무 더러움                                                            |
+| 867. Transpose Matrix                                  | easy |  05:09 | 03:20 |  25:00   | 2023/08/27 |                                                                                |
+| 883. Projection Area of 3D Shapes                      | easy |  19:47 | 07:17 |  25:00   | 2023/08/27 |                                                                                |
 
 </details>
