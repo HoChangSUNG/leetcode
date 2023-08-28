@@ -126,7 +126,7 @@
 </details>
 
 <details>
-<summary>2회독(현재 82문제)</summary>
+<summary>2회독(현재 88문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                                            |
@@ -213,8 +213,11 @@
 | 812. Largest Triangle Area                             | easy |   시간초과   |  19:53   |  25:00   | 2023/08/26 |                                                                                |
 | 821. Shortest Distance to a Character                  | easy |  19:59   |   시간초과   |  25:00   | 2023/08/26 | bfs 말고 다른 걸로 풀려고 했는데 안풀려서 시간 초과 뜸, 다른 사람꺼 참고함                                  |
 | 832. Flipping an Image                                 | easy |  13:13   |  07:38   |  25:00   | 2023/08/26 |                                                                                |
-| 860. Lemonade Change                                   | easy |  24:35 | 11:58 | 25:00 | 2023/08/27 | 시간은 줄였는데 코드가 너무 더러움                                                            |
-| 867. Transpose Matrix                                  | easy |  05:09 | 03:20 |  25:00   | 2023/08/27 |                                                                                |
-| 883. Projection Area of 3D Shapes                      | easy |  19:47 | 07:17 |  25:00   | 2023/08/27 |                                                                                |
+| 860. Lemonade Change                                   | easy |  24:35   |  11:58   | 25:00 | 2023/08/27 | 시간은 줄였는데 코드가 너무 더러움                                                            |
+| 867. Transpose Matrix                                  | easy |  05:09   |  03:20   |  25:00   | 2023/08/27 |                                                                                |
+| 883. Projection Area of 3D Shapes                      | easy |  19:47   |  07:17   |  25:00   | 2023/08/27 |                                                                                |
+| 888. Fair Candy Swap                                   | easy |   시간초과   | 시간초과 | 25:00 | 2023/08/28 | 풀이 방법 자체는 맞는데 코드 작성에서 헤맸음 |
+| 892. Surface Area of 3D Shapes                         | easy |  시간초과 | 15:20 |  25:00   | 2023/08/28 |       |
+| 896. Monotonic Array                                   | easy |  14:15 | 06:32 |  25:00   | 2023/08/28 |          |
 
 </details>
