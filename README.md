@@ -126,7 +126,7 @@
 </details>
 
 <details>
-<summary>2회독(현재 88문제)</summary>
+<summary>2회독(현재 91문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                                            |
@@ -219,5 +219,8 @@
 | 888. Fair Candy Swap                                   | easy |   시간초과   | 시간초과 | 25:00 | 2023/08/28 | 풀이 방법 자체는 맞는데 코드 작성에서 헤맸음 |
 | 892. Surface Area of 3D Shapes                         | easy |  시간초과 | 15:20 |  25:00   | 2023/08/28 |       |
 | 896. Monotonic Array                                   | easy |  14:15 | 06:32 |  25:00   | 2023/08/28 |          |
+| 905. Sort Array By Parity                              | easy | 07:51 | 03:51 | 25:00 | 2023/08/29 |       |
+| 908. Smallest Range I                                  | easy | 20:37 | 09:55 | 25:00 | 2023/08/29 |     |
+| 914. X of a Kind in a Deck of Cards                    | easy | 시간초과 | 시간초과 | 25:00 | 2023/08/29 | 이번에도 brute force로 풀음, 근데 또 시간 초과임 문제 해결 방법을 자꾸 잊어버려서 그런듯 |
 
 </details>
