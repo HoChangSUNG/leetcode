@@ -126,7 +126,7 @@
 </details>
 
 <details>
-<summary>2회독(현재 94문제)</summary>
+<summary>2회독(현재 97문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                                            |
@@ -216,14 +216,17 @@
 | 860. Lemonade Change                                   | easy |  24:35   |  11:58   | 25:00 | 2023/08/27 | 시간은 줄였는데 코드가 너무 더러움                                                            |
 | 867. Transpose Matrix                                  | easy |  05:09   |  03:20   |  25:00   | 2023/08/27 |                                                                                |
 | 883. Projection Area of 3D Shapes                      | easy |  19:47   |  07:17   |  25:00   | 2023/08/27 |                                                                                |
-| 888. Fair Candy Swap                                   | easy |   시간초과   | 시간초과 | 25:00 | 2023/08/28 | 풀이 방법 자체는 맞는데 코드 작성에서 헤맸음 |
-| 892. Surface Area of 3D Shapes                         | easy |  시간초과 | 15:20 |  25:00   | 2023/08/28 |       |
-| 896. Monotonic Array                                   | easy |  14:15 | 06:32 |  25:00   | 2023/08/28 |          |
-| 905. Sort Array By Parity                              | easy | 07:51 | 03:51 | 25:00 | 2023/08/29 |       |
-| 908. Smallest Range I                                  | easy | 20:37 | 09:55 | 25:00 | 2023/08/29 |     |
-| 914. X of a Kind in a Deck of Cards                    | easy | 시간초과 | 시간초과 | 25:00 | 2023/08/29 | 이번에도 brute force로 풀음, 근데 또 시간 초과임 문제 해결 방법을 자꾸 잊어버려서 그런듯 |
-| 922. Sort Array By Parity II                           | easy | 15:30 | 시간초과 | 25:00 | 2023/08/30 | follow up 해결하려 했는데 실패 |
-| 929. Unique Email Addresses                            | easy | 시간초과 | 10:15 | 25:00 | 2023/08/30 |     |
-| 941. Valid Mountain Array                              | easy | 09:52 | 04:37 | 25:00 | 2023/08/30 |        |
+| 888. Fair Candy Swap                                   | easy |   시간초과   |   시간초과   | 25:00 | 2023/08/28 | 풀이 방법 자체는 맞는데 코드 작성에서 헤맸음                                                      |
+| 892. Surface Area of 3D Shapes                         | easy |   시간초과   |  15:20   |  25:00   | 2023/08/28 |                                                                                |
+| 896. Monotonic Array                                   | easy |  14:15   |  06:32   |  25:00   | 2023/08/28 |                                                                                |
+| 905. Sort Array By Parity                              | easy |  07:51   |  03:51   | 25:00 | 2023/08/29 |                                                                                |
+| 908. Smallest Range I                                  | easy |  20:37   |  09:55   | 25:00 | 2023/08/29 |                                                                                |
+| 914. X of a Kind in a Deck of Cards                    | easy |   시간초과   |   시간초과   | 25:00 | 2023/08/29 | 이번에도 brute force로 풀음, 근데 또 시간 초과임 문제 해결 방법을 자꾸 잊어버려서 그런듯                       |
+| 922. Sort Array By Parity II                           | easy |  15:30   |   시간초과   | 25:00 | 2023/08/30 | follow up 해결하려 했는데 실패                                                          |
+| 929. Unique Email Addresses                            | easy |   시간초과   |  10:15   | 25:00 | 2023/08/30 |                                                                                |
+| 941. Valid Mountain Array                              | easy |  09:52   |  04:37   | 25:00 | 2023/08/30 |                                                                                |
+| 942. DI String Match                                   | easy |  시간초과 | 08:21 | 25:00 | 2023/08/31 | o(n)으로 처리함 |
+| 944. Delete Columns to Make Sorted                     | easy |  07:55 | 10:10 |  25:00   | 2023/08/31 | 코드 잘못 작성한 부분 찾는데 좀 걸림                                                          |
+| 953. Verifying an Alien Dictionary                     | easy |  21:12 | 16:38 |  25:00   | 2023/08/31 |    |
 
 </details>
