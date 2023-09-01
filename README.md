@@ -126,7 +126,7 @@
 </details>
 
 <details>
-<summary>2회독(현재 97문제)</summary>
+<summary>2회독(현재 100문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                                            |
@@ -228,5 +228,8 @@
 | 942. DI String Match                                   | easy |  시간초과 | 08:21 | 25:00 | 2023/08/31 | o(n)으로 처리함 |
 | 944. Delete Columns to Make Sorted                     | easy |  07:55 | 10:10 |  25:00   | 2023/08/31 | 코드 잘못 작성한 부분 찾는데 좀 걸림                                                          |
 | 953. Verifying an Alien Dictionary                     | easy |  21:12 | 16:38 |  25:00   | 2023/08/31 |    |
+| 961. N-Repeated Element in Size 2N Array               | easy | 06:20 | 04:29 | 25:00 | 2023/09/01 |      |
+| 976. Largest Perimeter Triangle                        | easy | 15:42 | 12:04 | 25:00 | 2023/09/01 |       |
+| 977. Squares of a Sorted Array                         | easy | 17:12 | 13:02 | 25:00 | 2023/09/01 |     |
 
 </details>
