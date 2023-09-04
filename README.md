@@ -235,18 +235,22 @@
 </details>
 
 <details>
-<summary>3회독(현재 4문제)</summary>
+<summary>3회독(현재 12문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 |   제한시간	    |     날짜     | 코멘트                                                                            |
 |:-------------------------------------------------------|:----:|:--------:|:----:|:--------:|:----------:|:----------:|:-------------------------------------------------------------------------------|
 | 1. Two Sum                                             | easy |    17    |  10:02  |  11:18   |    25    | 2023/09/02 |       |
 | 9. Palindrome Number                                   | easy |    17    |  19:32 |  05:23   |    25    | 2023/09/02 |  |
-| 13. Roman to Integer                                   | easy |   시간초과   |  13:31  |  14:32   |    25    | 2023/09/02 |                           |
+| 13. Roman to Integer                                   | easy |   시간초과   |  13:31  |  14:32   |    25    | 2023/09/02 |      |
 | 14. Longest Common Prefix                              | easy |    10    |  10:06  |  06:22   |    25    | 2023/09/02 |      |
-| 20. Valid Parentheses                                  | easy |    11    |  07:21  | 06:21 |   25  | 2023/09/03 |                                                                    |
+| 20. Valid Parentheses                                  | easy |    11    |  07:21  | 06:21 |   25  | 2023/09/03 |         |
 | 21. Merge Two Sorted Lists                             | easy |   시간초과   |  08:42 | 12:42 |    25    | 2023/09/03 |               |
 | 26. Remove Duplicates from Sorted Array                | easy |    17    |  09:28 | 08:53 |    25    | 2023/09/03 |              |
 | 27. Remove Element                                     | easy |    7     |  03:29 | 03:13 |    25    | 2023/09/03 |    |
+| 28. Find the Index of the First Occurrence in a String | easy |    16    |  09:45   | 04:42 | 25  | 2023/09/04 |     |
+| 35. Search Insert Position                             | easy |    13    |  02:54   | 01:35 | 25  | 2023/09/04 |    |
+| 58. Length of Last Word                                | easy |    16    |  07:05   | 07:47 | 25  | 2023/09/04 |   |
+| 66. Plus One                                           | easy |   시간초과   |  12:49   | 06:44 | 25  | 2023/09/04 |    |
 
 </details>
