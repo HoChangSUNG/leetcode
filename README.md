@@ -235,7 +235,7 @@
 </details>
 
 <details>
-<summary>3회독(현재 20문제)</summary>
+<summary>3회독(현재 24문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                          |
@@ -258,6 +258,12 @@
 | 83. Remove Duplicates from Sorted List                 | easy |    8     |  08:43   |  22:00   |  25   | 2023/09/05 | 기존 링크드 리스트를 재사용하는 방식으로 풀다가 안되서 걍 노드 새로 만듦    |
 | 88. Merge Sorted Array                                 | easy |    10    |  13:17 |  06:21   |  25   | 2023/09/06 |  |
 | 94. Binary Tree Inorder Traversal                      | easy |    12    |   시간초과 |   시간초과   |  25   | 2023/09/06 | follow up 해결하려 스택으로 해보려고 했는데, 로직을 잘못 작성해서 계속 실패함.                              |
-| 100. Same Tree                                         | easy |    11    |  07:09   |     05:25     |  25   | 2023/09/06 |                                                                                |
-| 101. Symmetric Tree                                    | easy |    10    |  06:39   | 03:12 |   25  | 2023/09/06 |                                                                                |
+| 100. Same Tree                                         | easy |    11    |  07:09   |  05:25   |  25   | 2023/09/06 |                                                                                |
+| 101. Symmetric Tree                                    | easy |    10    |  06:39   |  03:12   |  25   | 2023/09/06 |                                                                                |
+| 104. Maximum Depth of Binary Tree                      | easy |    4     |  01:54   |     00:58     |  25   | 2023/09/07 |                                                                                |
+| 108. Convert Sorted Array to Binary Search Tree        | easy |   시간초과   |  18:31   |     16:45     |  25   | 2023/09/07 | 코드에서 변수 잘못 쓴 거 못찾아서 오래 걸림   |
+| 118. Pascal's Triangle                                 | easy |    4     |  14:00   |    05:46      |  25   | 2023/09/07 |                                         |
+| 119. Pascal's Triangle II                              | easy |    4     |  12:43   |    17:22      |   25  | 2023/09/07 |  코드 잘못 봐서 오래 걸림 |
+
+
 </details>
