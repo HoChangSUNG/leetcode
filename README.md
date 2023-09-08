@@ -235,7 +235,7 @@
 </details>
 
 <details>
-<summary>3회독(현재 24문제)</summary>
+<summary>3회독(현재 28문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                          |
@@ -264,6 +264,10 @@
 | 108. Convert Sorted Array to Binary Search Tree        | easy |   시간초과   |  18:31   |     16:45     |  25   | 2023/09/07 | 코드에서 변수 잘못 쓴 거 못찾아서 오래 걸림   |
 | 118. Pascal's Triangle                                 | easy |    4     |  14:00   |    05:46      |  25   | 2023/09/07 |                                         |
 | 119. Pascal's Triangle II                              | easy |    4     |  12:43   |    17:22      |   25  | 2023/09/07 |  코드 잘못 봐서 오래 걸림 |
+| 121. Best Time to Buy and Sell Stock                   | easy |   시간초과   |  14:18 | 09:49 |   25  | 2023/09/08 |                             |
+| 136. Single Number                                     | easy |    12    |  01:34 | 00:33 |   25  | 2023/09/08 |                       |
+| 163. Missing Ranges                                    | easy |    22    |  14:50 | 10:38 |   25  | 2023/09/08 |                 |
+| 169. Majority Element                                  | easy |    8     |  05:27 | 시간초과 |   25  | 2023/09/08 |    follow up 해결 못해서 답지 봄, 답지가 진짜 쉽게 follow up 해결함    |
 
 
 </details>
