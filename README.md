@@ -235,7 +235,7 @@
 </details>
 
 <details>
-<summary>3회독(현재 28문제)</summary>
+<summary>3회독(현재 32문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                          |
@@ -268,6 +268,9 @@
 | 136. Single Number                                     | easy |    12    |  01:34 | 00:33 |   25  | 2023/09/08 |                       |
 | 163. Missing Ranges                                    | easy |    22    |  14:50 | 10:38 |   25  | 2023/09/08 |                 |
 | 169. Majority Element                                  | easy |    8     |  05:27 | 시간초과 |   25  | 2023/09/08 |    follow up 해결 못해서 답지 봄, 답지가 진짜 쉽게 follow up 해결함    |
-
+| 170. Two Sum III - Data structure design               | easy |    14    |  08:52 | 15:44 |   25  | 2023/09/09 |    코드 잘못봐서 다 풀고 시간 오래 걸림   |
+| 217. Contains Duplicate                                | easy |    8     |  06:46 | 01:30 |   25  | 2023/09/09 |                                                                                |
+| 219. Contains Duplicate II                             | easy |    17    |  10:36 | 05:04 |   25  | 2023/09/09 |                                                                                |
+| 228. Summary Ranges                                    | easy |    23    |  10:06 | 10:49 |   25  | 2023/09/09 |                                                                                |
 
 </details>
