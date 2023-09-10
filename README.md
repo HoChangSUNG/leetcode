@@ -272,5 +272,9 @@
 | 217. Contains Duplicate                                | easy |    8     |  06:46 | 01:30 |   25  | 2023/09/09 |                                                                                |
 | 219. Contains Duplicate II                             | easy |    17    |  10:36 | 05:04 |   25  | 2023/09/09 |                                                                                |
 | 228. Summary Ranges                                    | easy |    23    |  10:06 | 10:49 |   25  | 2023/09/09 |                                                                                |
+| 243. Shortest Word Distance                            | easy |    13    |  09:41 | 07:22 |   25  | 2023/09/10 |               |
+| 252. Meeting Rooms                                     | easy |   시간초과   |  10:10 | 08:38 |   25  | 2023/09/10 |        |
+| 268. Missing Number                                    | easy |    9     |  01:19 | 01:08 |   25  | 2023/09/10 |          |
+| 283. Move Zeroes                                       | easy |    17    |  08:08 | 03:04 |   25  | 2023/09/10 |         |
 
 </details>
