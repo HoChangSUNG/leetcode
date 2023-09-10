@@ -235,7 +235,7 @@
 </details>
 
 <details>
-<summary>3회독(현재 32문제)</summary>
+<summary>3회독(현재 36문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                          |
