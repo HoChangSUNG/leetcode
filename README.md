@@ -235,7 +235,7 @@
 </details>
 
 <details>
-<summary>3회독(현재 36문제)</summary>
+<summary>3회독(현재 40문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                          |
@@ -276,5 +276,9 @@
 | 252. Meeting Rooms                                     | easy |   시간초과   |  10:10 | 08:38 |   25  | 2023/09/10 |        |
 | 268. Missing Number                                    | easy |    9     |  01:19 | 01:08 |   25  | 2023/09/10 |          |
 | 283. Move Zeroes                                       | easy |    17    |  08:08 | 03:04 |   25  | 2023/09/10 |         |
+| 303.Range Sum Query - Immutable                        | easy |    4     |  04:31 | 02:56 |   25  | 2023/09/11 |                                                                                |
+| 346. Moving Average from Data Stream                   | easy |   시간초과   |  13:34 | 06:28 |   25  | 2023/09/11 |                                                                                |
+| 349. Intersection of Two Arrays                        | easy |    9     |  03:21 | 04:37 |   25  | 2023/09/11 |                                                                                |
+| 350. Intersection of Two Arrays II                     | easy |    9     |  09:38 | 10:22 |   25  | 2023/09/11 |                                                                                |
 
 </details>
