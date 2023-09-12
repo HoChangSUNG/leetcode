@@ -280,8 +280,8 @@
 | 346. Moving Average from Data Stream                   | easy |   시간초과   |  13:34 | 06:28 |  25   | 2023/09/11 |                                                   |
 | 349. Intersection of Two Arrays                        | easy |    9     |  03:21 | 04:37 |  25   | 2023/09/11 |                                                   |
 | 350. Intersection of Two Arrays II                     | easy |    9     |  09:38 | 10:22 |  25   | 2023/09/11 |                                                   |
-| 414. Third Maximum Number                              | easy |    9     |   시간초과   |   25 |   14:44    | 2023/09/12 |                                                   |
-| 422. Valid Word Square                                 | easy |   시간초과   |  16:01   |   25 |   10:50    | 2023/09/12 |                                                   |
-| 448. Find All Numbers Disappeared in an Array          | easy |    13    |  24:54   |   25 |   12:05    | 2023/09/12 |                   |
+| 414. Third Maximum Number                              | easy |    9     |   시간초과   |  14:44    |  25 |   2023/09/12 |                                                   |
+| 422. Valid Word Square                                 | easy |   시간초과   |  16:01   |  10:50    |   25 |  2023/09/12 |                                                   |
+| 448. Find All Numbers Disappeared in an Array          | easy |    13    |  24:54  |   12:05 |   25     | 2023/09/12 |                   |
 
 </details>
