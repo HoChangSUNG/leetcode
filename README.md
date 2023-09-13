@@ -235,7 +235,7 @@
 </details>
 
 <details>
-<summary>3회독(현재 43문제)</summary>
+<summary>3회독(현재 46문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                               |
@@ -260,28 +260,31 @@
 | 94. Binary Tree Inorder Traversal                      | easy |    12    |   시간초과 |   시간초과   |  25   | 2023/09/06 | follow up 해결하려 스택으로 해보려고 했는데, 로직을 잘못 작성해서 계속 실패함. |
 | 100. Same Tree                                         | easy |    11    |  07:09   |  05:25   |  25   | 2023/09/06 |                                                   |
 | 101. Symmetric Tree                                    | easy |    10    |  06:39   |  03:12   |  25   | 2023/09/06 |                                                   |
-| 104. Maximum Depth of Binary Tree                      | easy |    4     |  01:54   |     00:58     |  25   | 2023/09/07 |                                                   |
-| 108. Convert Sorted Array to Binary Search Tree        | easy |   시간초과   |  18:31   |     16:45     |  25   | 2023/09/07 | 코드에서 변수 잘못 쓴 거 못찾아서 오래 걸림                         |
-| 118. Pascal's Triangle                                 | easy |    4     |  14:00   |    05:46      |  25   | 2023/09/07 |                                                   |
-| 119. Pascal's Triangle II                              | easy |    4     |  12:43   |    17:22      |  25   | 2023/09/07 | 코드 잘못 봐서 오래 걸림                                    |
-| 121. Best Time to Buy and Sell Stock                   | easy |   시간초과   |  14:18 | 09:49 |  25   | 2023/09/08 |                                                   |
-| 136. Single Number                                     | easy |    12    |  01:34 | 00:33 |  25   | 2023/09/08 |                                                   |
-| 163. Missing Ranges                                    | easy |    22    |  14:50 | 10:38 |  25   | 2023/09/08 |                                                   |
-| 169. Majority Element                                  | easy |    8     |  05:27 | 시간초과 |  25   | 2023/09/08 | follow up 해결 못해서 답지 봄, 답지가 진짜 쉽게 follow up 해결함    |
-| 170. Two Sum III - Data structure design               | easy |    14    |  08:52 | 15:44 |  25   | 2023/09/09 | 코드 잘못봐서 다 풀고 시간 오래 걸림                             |
-| 217. Contains Duplicate                                | easy |    8     |  06:46 | 01:30 |  25   | 2023/09/09 |                                                   |
-| 219. Contains Duplicate II                             | easy |    17    |  10:36 | 05:04 |  25   | 2023/09/09 |                                                   |
-| 228. Summary Ranges                                    | easy |    23    |  10:06 | 10:49 |  25   | 2023/09/09 |                                                   |
-| 243. Shortest Word Distance                            | easy |    13    |  09:41 | 07:22 |  25   | 2023/09/10 |                                                   |
-| 252. Meeting Rooms                                     | easy |   시간초과   |  10:10 | 08:38 |  25   | 2023/09/10 |                                                   |
-| 268. Missing Number                                    | easy |    9     |  01:19 | 01:08 |  25   | 2023/09/10 |                                                   |
-| 283. Move Zeroes                                       | easy |    17    |  08:08 | 03:04 |  25   | 2023/09/10 |                                                   |
-| 303.Range Sum Query - Immutable                        | easy |    4     |  04:31 | 02:56 |  25   | 2023/09/11 |                                                   |
-| 346. Moving Average from Data Stream                   | easy |   시간초과   |  13:34 | 06:28 |  25   | 2023/09/11 |                                                   |
-| 349. Intersection of Two Arrays                        | easy |    9     |  03:21 | 04:37 |  25   | 2023/09/11 |                                                   |
-| 350. Intersection of Two Arrays II                     | easy |    9     |  09:38 | 10:22 |  25   | 2023/09/11 |                                                   |
-| 414. Third Maximum Number                              | easy |    9     |   시간초과   |  14:44    |  25 |   2023/09/12 |                                                   |
-| 422. Valid Word Square                                 | easy |   시간초과   |  16:01   |  10:50    |   25 |  2023/09/12 |                                                   |
-| 448. Find All Numbers Disappeared in an Array          | easy |    13    |  24:54  |   12:05 |   25     | 2023/09/12 |                   |
+| 104. Maximum Depth of Binary Tree                      | easy |    4     |  01:54   |  00:58   |  25   | 2023/09/07 |                                                   |
+| 108. Convert Sorted Array to Binary Search Tree        | easy |   시간초과   |  18:31   |  16:45   |  25   | 2023/09/07 | 코드에서 변수 잘못 쓴 거 못찾아서 오래 걸림                         |
+| 118. Pascal's Triangle                                 | easy |    4     |  14:00   |  05:46   |  25   | 2023/09/07 |                                                   |
+| 119. Pascal's Triangle II                              | easy |    4     |  12:43   |  17:22   |  25   | 2023/09/07 | 코드 잘못 봐서 오래 걸림                                    |
+| 121. Best Time to Buy and Sell Stock                   | easy |   시간초과   |  14:18 |  09:49   |  25   | 2023/09/08 |                                                   |
+| 136. Single Number                                     | easy |    12    |  01:34 |  00:33   |  25   | 2023/09/08 |                                                   |
+| 163. Missing Ranges                                    | easy |    22    |  14:50 |  10:38   |  25   | 2023/09/08 |                                                   |
+| 169. Majority Element                                  | easy |    8     |  05:27 |   시간초과   |  25   | 2023/09/08 | follow up 해결 못해서 답지 봄, 답지가 진짜 쉽게 follow up 해결함    |
+| 170. Two Sum III - Data structure design               | easy |    14    |  08:52 |  15:44   |  25   | 2023/09/09 | 코드 잘못봐서 다 풀고 시간 오래 걸림                             |
+| 217. Contains Duplicate                                | easy |    8     |  06:46 |  01:30   |  25   | 2023/09/09 |                                                   |
+| 219. Contains Duplicate II                             | easy |    17    |  10:36 |  05:04   |  25   | 2023/09/09 |                                                   |
+| 228. Summary Ranges                                    | easy |    23    |  10:06 |  10:49   |  25   | 2023/09/09 |                                                   |
+| 243. Shortest Word Distance                            | easy |    13    |  09:41 |  07:22   |  25   | 2023/09/10 |                                                   |
+| 252. Meeting Rooms                                     | easy |   시간초과   |  10:10 |  08:38   |  25   | 2023/09/10 |                                                   |
+| 268. Missing Number                                    | easy |    9     |  01:19 |  01:08   |  25   | 2023/09/10 |                                                   |
+| 283. Move Zeroes                                       | easy |    17    |  08:08 |  03:04   |  25   | 2023/09/10 |                                                   |
+| 303.Range Sum Query - Immutable                        | easy |    4     |  04:31 |  02:56   |  25   | 2023/09/11 |                                                   |
+| 346. Moving Average from Data Stream                   | easy |   시간초과   |  13:34 |  06:28   |  25   | 2023/09/11 |                                                   |
+| 349. Intersection of Two Arrays                        | easy |    9     |  03:21 |  04:37   |  25   | 2023/09/11 |                                                   |
+| 350. Intersection of Two Arrays II                     | easy |    9     |  09:38 |  10:22   |  25   | 2023/09/11 |                                                   |
+| 414. Third Maximum Number                              | easy |    9     |   시간초과   |  14:44   |  25 | 2023/09/12 |                                                   |
+| 422. Valid Word Square                                 | easy |   시간초과   |  16:01   |  10:50   |   25 | 2023/09/12 |                                                   |
+| 448. Find All Numbers Disappeared in an Array          | easy |    13    |  24:54  |  12:05   |   25     | 2023/09/12 |                   |
+| 455. Assign Cookies                                    | easy |    9     |  10:43 | 04:22 |   25  | 2023/09/13 |                                                                                |
+| 463. Island Perimeter                                  | easy |    20    |  11:18  | 08:23 |    25    | 2023/09/13 |                                                                                |
+| 485. Max Consecutive Ones                              | easy |   시간초과   |  21:49  | 07:13 |    25    | 2023/09/13 |        |
 
 </details>
