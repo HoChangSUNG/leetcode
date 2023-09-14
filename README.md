@@ -287,4 +287,8 @@
 | 463. Island Perimeter                                  | easy |    20    |  11:18  | 08:23 |    25    | 2023/09/13 |                                                                                |
 | 485. Max Consecutive Ones                              | easy |   시간초과   |  21:49  | 07:13 |    25    | 2023/09/13 |        |
 
+| 496. Next Greater Element I                            | easy |    22    |   시간초과   | 시간초과 | 25  | 2023/09/14 |        |
+| 500. Keyboard Row                                      | easy |    18    |  12:26   | 16:23 | 25  | 2023/09/14 |    대문자를 소문자로 안바꿔서 시간 오래 걸림             |
+| 506. Relative Ranks                                    | easy |    24    |  16:17   | 13:05 | 25  | 2023/09/14 |                                                                                |
+
 </details>
