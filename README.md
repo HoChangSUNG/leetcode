@@ -235,7 +235,7 @@
 </details>
 
 <details>
-<summary>3회독(현재 49문제)</summary>
+<summary>3회독(현재 53문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                               |
@@ -289,5 +289,9 @@
 | 496. Next Greater Element I                            | easy |    22    |   시간초과   | 시간초과 | 25  | 2023/09/14 |        |
 | 500. Keyboard Row                                      | easy |    18    |  12:26   | 16:23 | 25  | 2023/09/14 |    대문자를 소문자로 안바꿔서 시간 오래 걸림             |
 | 506. Relative Ranks                                    | easy |    24    |  16:17   | 13:05 | 25  | 2023/09/14 |                                                                                |
+| 561. Array Partition                                   | easy |    6     |   6:20 | 03:34 |   25  | 2023/09/15 |                                                                                |
+| 566. Reshape the Matrix                                | easy |    9     |  08:16 | 05:43 |   25  | 2023/09/15 |                                                                                |
+| 575. Distribute Candies                                | easy |    8     |  06:18 | 03:02 |   25  | 2023/09/15 |                  |
+| 594. Longest Harmonious Subsequence                    | easy |   시간초과   |  12:32 | 11:30 |   25  | 2023/09/15 |                                                                                |
 
 </details>
