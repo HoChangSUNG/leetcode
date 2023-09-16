@@ -293,5 +293,9 @@
 | 566. Reshape the Matrix                                | easy |    9     |  08:16 | 05:43 |   25  | 2023/09/15 |                                                                                |
 | 575. Distribute Candies                                | easy |    8     |  06:18 | 03:02 |   25  | 2023/09/15 |                  |
 | 594. Longest Harmonious Subsequence                    | easy |   시간초과   |  12:32 | 11:30 |   25  | 2023/09/15 |                                                                                |
+| 598. Range Addition II                                 | easy |    8     |  03:37 | 01:28 |   25  | 2023/09/16 |                                                                                |
+| 599. Minimum Index Sum of Two Lists                    | easy |    17    |  12:16 | 10:04 |   25  | 2023/09/16 |                                                                                |
+| 604. Design Compressed String Iterator                 | easy |   시간초과   |   시간초과 | 시간초과 |   25  | 2023/09/16 |       |
+| 605. Can Place Flowers                                 | easy |    23    |  12:37 | 08:26 |   25  | 2023/09/16 |      |
 
 </details>
