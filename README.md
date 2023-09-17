@@ -235,7 +235,7 @@
 </details>
 
 <details>
-<summary>3회독(현재 53문제)</summary>
+<summary>3회독(현재 61문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                               |
@@ -297,5 +297,9 @@
 | 599. Minimum Index Sum of Two Lists                    | easy |    17    |  12:16 | 10:04 |   25  | 2023/09/16 |                                                                                |
 | 604. Design Compressed String Iterator                 | easy |   시간초과   |   시간초과 | 시간초과 |   25  | 2023/09/16 |       |
 | 605. Can Place Flowers                                 | easy |    23    |  12:37 | 08:26 |   25  | 2023/09/16 |      |
-
+| 628. Maximum Product of Three Numbers                  | easy |   시간초과   |  04:09 | 05:22 |   25  | 2023/09/17 |          |
+| 643. Maximum Average Subarray I                        | easy |    19    |  18:33  | 09:00 |   25  | 2023/09/17 |       |
+| 645. Set Mismatch                                      | easy |    11    |  09:30 | 11:14 |   25  | 2023/09/17 |              |
+| 661. Image Smoother                                    | easy |   시간초과   |   시간초과 | 10:02 |   25  | 2023/09/17 |                |
+|
 </details>
