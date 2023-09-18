@@ -235,7 +235,7 @@
 </details>
 
 <details>
-<summary>3회독(현재 61문제)</summary>
+<summary>3회독(현재 65문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                               |
@@ -280,26 +280,30 @@
 | 346. Moving Average from Data Stream                   | easy |   시간초과   |  13:34 |  06:28   |  25   | 2023/09/11 |                                                   |
 | 349. Intersection of Two Arrays                        | easy |    9     |  03:21 |  04:37   |  25   | 2023/09/11 |                                                   |
 | 350. Intersection of Two Arrays II                     | easy |    9     |  09:38 |  10:22   |  25   | 2023/09/11 |                                                   |
-| 414. Third Maximum Number                              | easy |    9     |   시간초과   |  14:44   |  25 | 2023/09/12 |                                                   |
-| 422. Valid Word Square                                 | easy |   시간초과   |  16:01   |  10:50   |   25 | 2023/09/12 |                                                   |
-| 448. Find All Numbers Disappeared in an Array          | easy |    13    |  24:54  |  12:05   |   25     | 2023/09/12 |                   |
-| 455. Assign Cookies                                    | easy |    9     |  10:43 | 04:22 |   25  | 2023/09/13 |                                                                                |
-| 463. Island Perimeter                                  | easy |    20    |  11:18  | 08:23 |    25    | 2023/09/13 |                                                                                |
-| 485. Max Consecutive Ones                              | easy |   시간초과   |  21:49  | 07:13 |    25    | 2023/09/13 |        |
-| 496. Next Greater Element I                            | easy |    22    |   시간초과   | 시간초과 | 25  | 2023/09/14 |        |
-| 500. Keyboard Row                                      | easy |    18    |  12:26   | 16:23 | 25  | 2023/09/14 |    대문자를 소문자로 안바꿔서 시간 오래 걸림             |
-| 506. Relative Ranks                                    | easy |    24    |  16:17   | 13:05 | 25  | 2023/09/14 |                                                                                |
-| 561. Array Partition                                   | easy |    6     |   6:20 | 03:34 |   25  | 2023/09/15 |                                                                                |
-| 566. Reshape the Matrix                                | easy |    9     |  08:16 | 05:43 |   25  | 2023/09/15 |                                                                                |
-| 575. Distribute Candies                                | easy |    8     |  06:18 | 03:02 |   25  | 2023/09/15 |                  |
-| 594. Longest Harmonious Subsequence                    | easy |   시간초과   |  12:32 | 11:30 |   25  | 2023/09/15 |                                                                                |
-| 598. Range Addition II                                 | easy |    8     |  03:37 | 01:28 |   25  | 2023/09/16 |                                                                                |
-| 599. Minimum Index Sum of Two Lists                    | easy |    17    |  12:16 | 10:04 |   25  | 2023/09/16 |                                                                                |
-| 604. Design Compressed String Iterator                 | easy |   시간초과   |   시간초과 | 시간초과 |   25  | 2023/09/16 |       |
-| 605. Can Place Flowers                                 | easy |    23    |  12:37 | 08:26 |   25  | 2023/09/16 |      |
-| 628. Maximum Product of Three Numbers                  | easy |   시간초과   |  04:09 | 05:22 |   25  | 2023/09/17 |          |
-| 643. Maximum Average Subarray I                        | easy |    19    |  18:33  | 09:00 |   25  | 2023/09/17 |       |
-| 645. Set Mismatch                                      | easy |    11    |  09:30 | 11:14 |   25  | 2023/09/17 |              |
-| 661. Image Smoother                                    | easy |   시간초과   |   시간초과 | 10:02 |   25  | 2023/09/17 |                |
-|
+| 414. Third Maximum Number                              | easy |    9     |   시간초과   |  14:44   |  25   | 2023/09/12 |                                                   |
+| 422. Valid Word Square                                 | easy |   시간초과   |  16:01   |  10:50   |  25   | 2023/09/12 |                                                   |
+| 448. Find All Numbers Disappeared in an Array          | easy |    13    |  24:54  |  12:05   |  25   | 2023/09/12 |                   |
+| 455. Assign Cookies                                    | easy |    9     |  10:43 |  04:22   |  25   | 2023/09/13 |                                                                                |
+| 463. Island Perimeter                                  | easy |    20    |  11:18  |  08:23   |  25   | 2023/09/13 |                                                                                |
+| 485. Max Consecutive Ones                              | easy |   시간초과   |  21:49  |  07:13   |  25   | 2023/09/13 |        |
+| 496. Next Greater Element I                            | easy |    22    |   시간초과   |   시간초과   |  25   | 2023/09/14 |        |
+| 500. Keyboard Row                                      | easy |    18    |  12:26   |  16:23   |  25   | 2023/09/14 |    대문자를 소문자로 안바꿔서 시간 오래 걸림             |
+| 506. Relative Ranks                                    | easy |    24    |  16:17   |  13:05   |  25   | 2023/09/14 |                                                                                |
+| 561. Array Partition                                   | easy |    6     |   6:20 |  03:34   |  25   | 2023/09/15 |                                                                                |
+| 566. Reshape the Matrix                                | easy |    9     |  08:16 |  05:43   |  25   | 2023/09/15 |                                                                                |
+| 575. Distribute Candies                                | easy |    8     |  06:18 |  03:02   |  25   | 2023/09/15 |                  |
+| 594. Longest Harmonious Subsequence                    | easy |   시간초과   |  12:32 |  11:30   |  25   | 2023/09/15 |                                                                                |
+| 598. Range Addition II                                 | easy |    8     |  03:37 |  01:28   |  25   | 2023/09/16 |                                                                                |
+| 599. Minimum Index Sum of Two Lists                    | easy |    17    |  12:16 |  10:04   |  25   | 2023/09/16 |                                                                                |
+| 604. Design Compressed String Iterator                 | easy |   시간초과   |   시간초과 |   시간초과   |  25   | 2023/09/16 |       |
+| 605. Can Place Flowers                                 | easy |    23    |  12:37 |  08:26   |  25   | 2023/09/16 |      |
+| 628. Maximum Product of Three Numbers                  | easy |   시간초과   |  04:09 |  05:22   |  25   | 2023/09/17 |          |
+| 643. Maximum Average Subarray I                        | easy |    19    |  18:33  |  09:00   |  25   | 2023/09/17 |       |
+| 645. Set Mismatch                                      | easy |    11    |  09:30 |  11:14   |  25   | 2023/09/17 |              |
+| 661. Image Smoother                                    | easy |   시간초과   |   시간초과 |  10:02   |  25   | 2023/09/17 |                |
+| 674. Longest Continuous Increasing Subsequence         | easy |  08:50   |  04:20   |  25:00 | 02:30 | 2023/09/18 |                                  |
+| 682. Baseball Game                                     | easy |  12:41   |  11:07   |  25:00 | 06:55 | 2023/09/18 |                           |
+| 697. Degree of an Array                                | easy |   시간초과   |  14:52 | 23:55 | 25:00 | 2023/09/18 |                                     |
+| 717. 1-bit and 2-bit Characters                        | easy |   시간초과   |  09:34 | 03:26 | 25:00 | 2023/09/18 |                       |
+
 </details>
