@@ -235,7 +235,7 @@
 </details>
 
 <details>
-<summary>3회독(현재 65문제)</summary>
+<summary>3회독(현재 69문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                               |
@@ -305,5 +305,9 @@
 | 682. Baseball Game                                     | easy |  12:41   |  11:07   |  25:00 | 06:55 | 2023/09/18 |                           |
 | 697. Degree of an Array                                | easy |   시간초과   |  14:52 | 23:55 | 25:00 | 2023/09/18 |                                     |
 | 717. 1-bit and 2-bit Characters                        | easy |   시간초과   |  09:34 | 03:26 | 25:00 | 2023/09/18 |                       |
+| 724. Find Pivot Index                                  | easy |  11:00   |  23:52 | 10:36 | 25:00 | 2023/09/19 |            |
+| 733. Flood Fill                                        | easy |  13:00   |  17:19 | 08:45 | 25:00 | 2023/09/19 |         |
+| 734. Sentence Similarity                               | easy |   시간초과   |   시간초과 | 시간초과 | 25:00 | 2023/09/19 |            |
+| 744. Find Smallest Letter Greater Than Target          | easy |  05:29   |  15:01 | 04:47 | 25:00 | 2023/09/19 |             |
 
 </details>
