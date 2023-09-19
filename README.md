@@ -235,7 +235,7 @@
 </details>
 
 <details>
-<summary>3회독(현재 69문제)</summary>
+<summary>3회독(현재 72문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                               |
@@ -301,13 +301,16 @@
 | 643. Maximum Average Subarray I                        | easy |    19    |  18:33  |  09:00   |  25   | 2023/09/17 |       |
 | 645. Set Mismatch                                      | easy |    11    |  09:30 |  11:14   |  25   | 2023/09/17 |              |
 | 661. Image Smoother                                    | easy |   시간초과   |   시간초과 |  10:02   |  25   | 2023/09/17 |                |
-| 674. Longest Continuous Increasing Subsequence         | easy |  08:50   |  04:20   |  25:00 | 02:30 | 2023/09/18 |                                  |
-| 682. Baseball Game                                     | easy |  12:41   |  11:07   |  25:00 | 06:55 | 2023/09/18 |                           |
-| 697. Degree of an Array                                | easy |   시간초과   |  14:52 | 23:55 | 25:00 | 2023/09/18 |                                     |
-| 717. 1-bit and 2-bit Characters                        | easy |   시간초과   |  09:34 | 03:26 | 25:00 | 2023/09/18 |                       |
-| 724. Find Pivot Index                                  | easy |  11:00   |  23:52 | 10:36 | 25:00 | 2023/09/19 |            |
-| 733. Flood Fill                                        | easy |  13:00   |  17:19 | 08:45 | 25:00 | 2023/09/19 |         |
-| 734. Sentence Similarity                               | easy |   시간초과   |   시간초과 | 시간초과 | 25:00 | 2023/09/19 |            |
-| 744. Find Smallest Letter Greater Than Target          | easy |  05:29   |  15:01 | 04:47 | 25:00 | 2023/09/19 |             |
+| 674. Longest Continuous Increasing Subsequence         | easy |  08:50   |  04:20   |  25:00   | 02:30 | 2023/09/18 |                                  |
+| 682. Baseball Game                                     | easy |  12:41   |  11:07   |  25:00   | 06:55 | 2023/09/18 |                           |
+| 697. Degree of an Array                                | easy |   시간초과   |  14:52 |  23:55   | 25:00 | 2023/09/18 |                                     |
+| 717. 1-bit and 2-bit Characters                        | easy |   시간초과   |  09:34 |  03:26   | 25:00 | 2023/09/18 |                       |
+| 724. Find Pivot Index                                  | easy |  11:00   |  23:52 |  10:36   | 25:00 | 2023/09/19 |            |
+| 733. Flood Fill                                        | easy |  13:00   |  17:19 |  08:45   | 25:00 | 2023/09/19 |         |
+| 734. Sentence Similarity                               | easy |   시간초과   |   시간초과 |   시간초과   | 25:00 | 2023/09/19 |            |
+| 744. Find Smallest Letter Greater Than Target          | easy |  05:29   |  15:01 |  04:47   | 25:00 | 2023/09/19 |             |
+| 746. Min Cost Climbing Stairs                          | easy |  09:53   |  07:05 |  08:44  | 25:00 | 2023/09/20 |                                                                                |
+| 747. Largest Number At Least Twice of Others           | easy |  13:58   |  18:48 | 07:49 |  25:00   | 2023/09/20 |                                |
+| 748. Shortest Completing Word                          | easy |  24:26   |  23:49 | 15:19 |  25:00   | 2023/09/20 |                     |
 
 </details>
