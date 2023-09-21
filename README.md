@@ -312,5 +312,9 @@
 | 746. Min Cost Climbing Stairs                          | easy |  09:53   |  07:05 |  08:44  | 25:00 | 2023/09/20 |                                                                                |
 | 747. Largest Number At Least Twice of Others           | easy |  13:58   |  18:48 | 07:49 |  25:00   | 2023/09/20 |                                |
 | 748. Shortest Completing Word                          | easy |  24:26   |  23:49 | 15:19 |  25:00   | 2023/09/20 |                     |
+| 760. Find Anagram Mappings                             | easy |  08:06   |  09:24 | 12:04 | 25:00 | 2023/09/21 |              |
+| 766. Toeplitz Matrix                                   | easy |  19:37   |  07:56 | 04:19 | 25:00 | 2023/09/21 |                                    |
+| 704. Binary Search                                     | easy |  03:05   |  01:58 | 04:02 | 25:00 | 2023/09/21 |                                |
+| 705. Design HashSet                                    | easy |  11:28   |  12:30 | 10:08 | 25:00 | 2023/09/21 | 해시 충돌시 체이닝으로 해결함      |
 
 </details>
