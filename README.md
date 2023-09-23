@@ -235,7 +235,7 @@
 </details>
 
 <details>
-<summary>3회독(현재 80문제)</summary>
+<summary>3회독(현재 84문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 |   제한시간	    |     날짜     | 코멘트                                               |
@@ -320,5 +320,9 @@
 | 804. Unique Morse Code Words                           | easy |  10:05   |  03:44 | 02:55 |  25:00   | 2023/09/22 |                                                                                |
 | 806. Number of Lines To Write String                   | easy |  09:32   |  11:49 | 03:49 |  25:00   | 2023/09/22 |                                                                                |
 | 812. Largest Triangle Area                             | easy |   시간초과   |  19:53 | 12:24 |  25:00   | 2023/09/22 |                                                                                |
+| 821. Shortest Distance to a Character                  | easy |  19:59   |   시간초과 | 13:03 |  25:00   | 2023/09/23 |                       |
+| 832. Flipping an Image                                 | easy |  13:13   |  07:38 | 11:20 |  25:00   | 2023/09/23 |                                                |
+| 860. Lemonade Change                                   | easy |  24:35   |  11:58 | 07:29 | 25:00 | 2023/09/23 |                         |
+| 867. Transpose Matrix                                  | easy |  05:09   |  03:20 | 02:37 |  25:00   | 2023/09/23 |          |
 
 </details>
