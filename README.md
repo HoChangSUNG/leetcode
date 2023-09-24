@@ -235,7 +235,7 @@
 </details>
 
 <details>
-<summary>3회독(현재 84문제)</summary>
+<summary>3회독(현재 88문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 |   제한시간	    |     날짜     | 코멘트                                               |
@@ -324,5 +324,9 @@
 | 832. Flipping an Image                                 | easy |  13:13   |  07:38 | 11:20 |  25:00   | 2023/09/23 |                                                |
 | 860. Lemonade Change                                   | easy |  24:35   |  11:58 | 07:29 | 25:00 | 2023/09/23 |                         |
 | 867. Transpose Matrix                                  | easy |  05:09   |  03:20 | 02:37 |  25:00   | 2023/09/23 |          |
+| 883. Projection Area of 3D Shapes                      | easy |  19:47   |  07:17 | 04:33 |  25:00   | 2023/09/24 |                                                                                |
+| 888. Fair Candy Swap                                   | easy |   시간초과   |   시간초과 | 16:52 | 25:00 | 2023/09/24 |                                 |
+| 892. Surface Area of 3D Shapes                         | easy |   시간초과   |  15:20 | 12:02 |  25:00   | 2023/09/24 |                                                                                |
+| 896. Monotonic Array                                   | easy |  14:15   |  06:32 | 12:40 |  25:00   | 2023/09/24 |       문제 잘못 봄              |
 
 </details>
