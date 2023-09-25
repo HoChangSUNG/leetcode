@@ -328,5 +328,9 @@
 | 888. Fair Candy Swap                                   | easy |   시간초과   |   시간초과 | 16:52 | 25:00 | 2023/09/24 |                                 |
 | 892. Surface Area of 3D Shapes                         | easy |   시간초과   |  15:20 | 12:02 |  25:00   | 2023/09/24 |                                                                                |
 | 896. Monotonic Array                                   | easy |  14:15   |  06:32 | 12:40 |  25:00   | 2023/09/24 |       문제 잘못 봄              |
+| 905. Sort Array By Parity                              | easy |  07:51   |  03:51 | 02:54 | 25:00 | 2023/09/25 |      |
+| 908. Smallest Range I                                  | easy |  20:37   |  09:55 | 05:57 | 25:00 | 2023/09/25 |           |
+| 914. X of a Kind in a Deck of Cards                    | easy |   시간초과   |   시간초과 | 05:59 | 25:00 | 2023/09/25 |                    |
+| 922. Sort Array By Parity II                           | easy |  15:30   |   시간초과 | 06:21 | 25:00 | 2023/09/25 |       |
 
 </details>
