@@ -235,7 +235,7 @@
 </details>
 
 <details>
-<summary>3회독(현재 88문제)</summary>
+<summary>3회독(현재 100문제)</summary>
 <br>
 
 | 문제	                                                    | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 |   제한시간	    |     날짜     | 코멘트                                                                          |
@@ -316,25 +316,29 @@
 | 766. Toeplitz Matrix                                   | easy |  19:37   |  07:56   |  04:19   |   25:00    | 2023/09/21 |                                                                              |
 | 704. Binary Search                                     | easy |  03:05   |  01:58   |  04:02   |   25:00    | 2023/09/21 |                                                                              |
 | 705. Design HashSet                                    | easy |  11:28   |  12:30   |  10:08   |   25:00    | 2023/09/21 | 해시 충돌시 체이닝으로 해결함                                                             |
-| 706. Design HashMap                                    | easy |  04:48   |  05:27   |  15:02   | 25:00 | 2023/09/22 | 해시테이블 크기 제한하고, 체이닝으로 만들어서 시간 오래 걸림                                           |
-| 804. Unique Morse Code Words                           | easy |  10:05   |  03:44   |  02:55   |  25:00   | 2023/09/22 |                                                                              |
-| 806. Number of Lines To Write String                   | easy |  09:32   |  11:49   |  03:49   |  25:00   | 2023/09/22 |                                                                              |
-| 812. Largest Triangle Area                             | easy |   시간초과   |  19:53   |  12:24   |  25:00   | 2023/09/22 |                                                                              |
-| 821. Shortest Distance to a Character                  | easy |  19:59   |   시간초과   |  13:03   |  25:00   | 2023/09/23 |                                                                              |
-| 832. Flipping an Image                                 | easy |  13:13   |  07:38   |  11:20   |  25:00   | 2023/09/23 |                                                                              |
-| 860. Lemonade Change                                   | easy |  24:35   |  11:58   |  07:29   | 25:00 | 2023/09/23 |                                                                              |
-| 867. Transpose Matrix                                  | easy |  05:09   |  03:20   |  02:37   |  25:00   | 2023/09/23 |                                                                              |
-| 883. Projection Area of 3D Shapes                      | easy |  19:47   |  07:17   |  04:33   |  25:00   | 2023/09/24 |                                                                              |
-| 888. Fair Candy Swap                                   | easy |   시간초과   |   시간초과   |  16:52   | 25:00 | 2023/09/24 |                                                                              |
-| 892. Surface Area of 3D Shapes                         | easy |   시간초과   |  15:20   |  12:02   |  25:00   | 2023/09/24 |                                                                              |
-| 896. Monotonic Array                                   | easy |  14:15   |  06:32   |  12:40   |  25:00   | 2023/09/24 | 문제 잘못 봄                                                                      |
-| 905. Sort Array By Parity                              | easy |  07:51   |  03:51   |  02:54   | 25:00 | 2023/09/25 |                                                                              |
-| 908. Smallest Range I                                  | easy |  20:37   |  09:55   |  05:57   | 25:00 | 2023/09/25 |                                                                              |
-| 914. X of a Kind in a Deck of Cards                    | easy |   시간초과   |   시간초과   |  05:59   | 25:00 | 2023/09/25 |                                                                              |
-| 922. Sort Array By Parity II                           | easy |  15:30   |   시간초과   |  06:21   | 25:00 | 2023/09/25 |                                                                              |
-| 929. Unique Email Addresses                            | easy |   시간초과   |  10:15   |    06:32      | 25:00 | 2023/09/26 |                                                                              |
-| 941. Valid Mountain Array                              | easy |  09:52   |  04:37   |    03:34      |  25:00   | 2023/09/26 |                                                                              |
-| 942. DI String Match                                   | easy |  시간초과 |  08:21 |     05:43     |  25:00   | 2023/09/26 |                                                                              |
-| 944. Delete Columns to Make Sorted                     | easy |  07:55 |  10:10 |    05:43      |  25:00   | 2023/09/26 |                                                                              |
+| 706. Design HashMap                                    | easy |  04:48   |  05:27   |  15:02   |   25:00    | 2023/09/22 | 해시테이블 크기 제한하고, 체이닝으로 만들어서 시간 오래 걸림                                           |
+| 804. Unique Morse Code Words                           | easy |  10:05   |  03:44   |  02:55   |   25:00    | 2023/09/22 |                                                                              |
+| 806. Number of Lines To Write String                   | easy |  09:32   |  11:49   |  03:49   |   25:00    | 2023/09/22 |                                                                              |
+| 812. Largest Triangle Area                             | easy |   시간초과   |  19:53   |  12:24   |   25:00    | 2023/09/22 |                                                                              |
+| 821. Shortest Distance to a Character                  | easy |  19:59   |   시간초과   |  13:03   |   25:00    | 2023/09/23 |                                                                              |
+| 832. Flipping an Image                                 | easy |  13:13   |  07:38   |  11:20   |   25:00    | 2023/09/23 |                                                                              |
+| 860. Lemonade Change                                   | easy |  24:35   |  11:58   |  07:29   |   25:00    | 2023/09/23 |                                                                              |
+| 867. Transpose Matrix                                  | easy |  05:09   |  03:20   |  02:37   |   25:00    | 2023/09/23 |                                                                              |
+| 883. Projection Area of 3D Shapes                      | easy |  19:47   |  07:17   |  04:33   |   25:00    | 2023/09/24 |                                                                              |
+| 888. Fair Candy Swap                                   | easy |   시간초과   |   시간초과   |  16:52   |   25:00    | 2023/09/24 |                                                                              |
+| 892. Surface Area of 3D Shapes                         | easy |   시간초과   |  15:20   |  12:02   |   25:00    | 2023/09/24 |                                                                              |
+| 896. Monotonic Array                                   | easy |  14:15   |  06:32   |  12:40   |   25:00    | 2023/09/24 | 문제 잘못 봄                                                                      |
+| 905. Sort Array By Parity                              | easy |  07:51   |  03:51   |  02:54   |   25:00    | 2023/09/25 |                                                                              |
+| 908. Smallest Range I                                  | easy |  20:37   |  09:55   |  05:57   |   25:00    | 2023/09/25 |                                                                              |
+| 914. X of a Kind in a Deck of Cards                    | easy |   시간초과   |   시간초과   |  05:59   |   25:00    | 2023/09/25 |                                                                              |
+| 922. Sort Array By Parity II                           | easy |  15:30   |   시간초과   |  06:21   |   25:00    | 2023/09/25 |                                                                              |
+| 929. Unique Email Addresses                            | easy |   시간초과   |  10:15   |  06:32   |   25:00    | 2023/09/26 |                                                                              |
+| 941. Valid Mountain Array                              | easy |  09:52   |  04:37   |  03:34   |   25:00    | 2023/09/26 |                                                                              |
+| 942. DI String Match                                   | easy |  시간초과 |  08:21   |  05:43   |   25:00    | 2023/09/26 |                                                                              |
+| 944. Delete Columns to Make Sorted                     | easy |  07:55 |  10:10   |  05:43   |   25:00    | 2023/09/26 |                                                                              |
+| 953. Verifying an Alien Dictionary                     | easy |  21:12 |  16:38 | 11:50 |  25:00   | 2023/09/27 |    |
+| 961. N-Repeated Element in Size 2N Array               | easy | 06:20 | 04:29 | 07:03 | 25:00 | 2023/09/27 |      |
+| 976. Largest Perimeter Triangle                        | easy | 15:42 |  12:04 | 04:07 |  25:00   | 2023/09/27 |       |
+| 977. Squares of a Sorted Array                         | easy | 17:12 |  13:02 | 07:34 |  25:00   | 2023/09/27 |     |
 
 </details>
