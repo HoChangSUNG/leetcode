@@ -345,7 +345,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(12문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(15문제)</summary>
 <br>
 
 | 문제	                                                         |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                              |
@@ -359,8 +359,11 @@
 | 34. Find First and Last Position of Element in Sorted Array | medium  |  23:06   |  30   | 2023/09/30 | binary search를 두번만 하면 되는데 어렵게 해결함 |
 | 36. Valid Sudoku                                            | medium  |  시간초과   |  30   | 2023/09/30 | 쉬운 문제인데 어렵게 생각함 |
 | 39. Combination Sum                                         | medium  | 14:04  |  30   | 2023/09/30 |   |
-| 40. Combination Sum II | medium  |  시간초과   |  30   | 2023/10/01 | 위 문제와 방식 비슷한데 계속 시간 초과 뜸, 동일한 요소를 어떻게 하면 중복을 없앨지 고민해야 함 |
+| 40. Combination Sum II                                      | medium  |  시간초과   |  30   | 2023/10/01 | 위 문제와 방식 비슷한데 계속 시간 초과 뜸, 동일한 요소를 어떻게 하면 중복을 없앨지 고민해야 함 |
 | 45. Jump Game II                                            | medium  |  05:41   |  30   | 2023/10/01 | o(n^2) 그리디로 풀음, o(n)으로 풀수 있음 |
-| 346. Permutations                                         | medium  | 10:05  |  30   | 2023/10/01 | 코드 좀 더 깔끔하게 줄일 수 있음  |
+| 346. Permutations                                           | medium  | 10:05  |  30   | 2023/10/01 | 코드 좀 더 깔끔하게 줄일 수 있음  |
+| 47. Permutations II                                         | medium  |  15:44   |  30   | 2023/10/02 | 코드 좀 더 깔끔하게 줄일 수 있음 |
+| 48. Rotate Image                                            | medium  |  28:03   |  30   | 2023/10/02 | 다 풀어놓고 코드 연산자 하나 잘못 써서 오래 걸림 |
+| 49. Group Anagrams                                          | medium  | 17:45  |  30   | 2023/10/02 |   |
 
 </details>
