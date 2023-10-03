@@ -345,7 +345,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(15문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(18문제)</summary>
 <br>
 
 | 문제	                                                         |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                              |
@@ -365,5 +365,9 @@
 | 47. Permutations II                                         | medium  |  15:44   |  30   | 2023/10/02 | 코드 좀 더 깔끔하게 줄일 수 있음 |
 | 48. Rotate Image                                            | medium  |  28:03   |  30   | 2023/10/02 | 다 풀어놓고 코드 연산자 하나 잘못 써서 오래 걸림 |
 | 49. Group Anagrams                                          | medium  | 17:45  |  30   | 2023/10/02 |   |
+| 53. Maximum Subarray                                       | medium  |  07:16   |  30   | 2023/10/03 | follow up 해보기 |
+| 54. Spiral Matrix                                            | medium  |  17:22   |  30   | 2023/10/03 |  |
+| 55. Jump Game                                          | medium  | 18:43  |  30   | 2023/10/03 |   |
+
 
 </details>
