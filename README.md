@@ -345,7 +345,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(21문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(23문제)</summary>
 <br>
 
 | 문제	                                                         |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                              |
@@ -371,5 +371,7 @@
 | 56. Merge Intervals                                       | medium  |  20:41   |  30   | 2023/10/04 |  |
 | 57. Insert Interval                                         | medium  |  27:42   |  30   | 2023/10/04 | insert 하는 배열 합친 배열 만들고 거기서 다시 overlapping되는거 걸러서 해결함 , o(n)으로 해결해야 함 |
 | 59. Spiral Matrix II                                         | medium  | 10:42  |  30   | 2023/10/04 |   |
+| 63. Unique Paths II                                         | medium  |  18:23   |  30   | 2023/10/05 |  |
+| 64. Minimum Path Sum                                         | medium  | 10:05  |  30   | 2023/10/05 |   |
 
 </details>
