@@ -365,16 +365,18 @@
 | 47. Permutations II                                         | medium  |  15:44   |  30   | 2023/10/02 | 코드 좀 더 깔끔하게 줄일 수 있음 |
 | 48. Rotate Image                                            | medium  |  28:03   |  30   | 2023/10/02 | 다 풀어놓고 코드 연산자 하나 잘못 써서 오래 걸림 |
 | 49. Group Anagrams                                          | medium  | 17:45  |  30   | 2023/10/02 |   |
-| 53. Maximum Subarray                                       | medium  |  07:16   |  30   | 2023/10/03 | follow up 해보기 |
-| 54. Spiral Matrix                                            | medium  |  17:22   |  30   | 2023/10/03 |  |
-| 55. Jump Game                                          | medium  | 18:43  |  30   | 2023/10/03 |   |
-| 56. Merge Intervals                                       | medium  |  20:41   |  30   | 2023/10/04 |  |
+| 53. Maximum Subarray                                        | medium  |  07:16   |  30   | 2023/10/03 | follow up 해보기 |
+| 54. Spiral Matrix                                           | medium  |  17:22   |  30   | 2023/10/03 |  |
+| 55. Jump Game                                               | medium  | 18:43  |  30   | 2023/10/03 |   |
+| 56. Merge Intervals                                         | medium  |  20:41   |  30   | 2023/10/04 |  |
 | 57. Insert Interval                                         | medium  |  27:42   |  30   | 2023/10/04 | insert 하는 배열 합친 배열 만들고 거기서 다시 overlapping되는거 걸러서 해결함 , o(n)으로 해결해야 함 |
-| 59. Spiral Matrix II                                         | medium  | 10:42  |  30   | 2023/10/04 |   |
+| 59. Spiral Matrix II                                        | medium  | 10:42  |  30   | 2023/10/04 |   |
 | 63. Unique Paths II                                         | medium  |  18:23   |  30   | 2023/10/05 |  |
-| 64. Minimum Path Sum                                         | medium  | 10:05  |  30   | 2023/10/05 |   |
-| 73. Set Matrix Zeroes                                         | medium  | 14:03  |  30   | 2023/10/06 |   |
-| 74. Search a 2D Matrix                                         | medium  |  08:53   |  30   | 2023/10/06 |  |
-| 75. Sort Colors                                  | medium  | 12:03  |  30   | 2023/10/06 |   |
+| 64. Minimum Path Sum                                        | medium  | 10:05  |  30   | 2023/10/05 |   |
+| 73. Set Matrix Zeroes                                       | medium  | 14:03  |  30   | 2023/10/06 |   |
+| 74. Search a 2D Matrix                                      | medium  |  08:53   |  30   | 2023/10/06 |  |
+| 75. Sort Colors                                             | medium  | 12:03  |  30   | 2023/10/06 |   |
+| 5. Longest Palindromic Substring                            | medium  |  시간초과   |  30   | 2023/10/07 | editorial 보고 해결함 |
+| 22. Generate Parentheses                                    | medium  | 시간초과  |  30   | 2023/10/07 | solution 보고 해결함. dp로 풀 생각 말고 일단 brute force로 해결해보기  |
 
 </details>
