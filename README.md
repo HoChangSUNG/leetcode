@@ -345,7 +345,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(26문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(31문제)</summary>
 <br>
 
 | 문제	                                                         |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                              |
@@ -378,5 +378,9 @@
 | 75. Sort Colors                                             | medium  | 12:03  |  30   | 2023/10/06 |   |
 | 5. Longest Palindromic Substring                            | medium  |  시간초과   |  30   | 2023/10/07 | editorial 보고 해결함 |
 | 22. Generate Parentheses                                    | medium  | 시간초과  |  30   | 2023/10/07 | solution 보고 해결함. dp로 풀 생각 말고 일단 brute force로 해결해보기  |
+| 62. Unique Paths                                             | medium  | 06:28  |  30   | 2023/10/08 |   |
+| 72. Edit Distance                            | medium  |  시간초과   |  30   | 2023/10/08 | 답지 봐도 도저히 모르겠음 |
+| 91.Decode Ways                                    | medium  | 시간초과  |  30   | 2023/10/08 | brute force로 해서 시간 초과  |
+
 
 </details>
