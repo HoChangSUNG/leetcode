@@ -383,5 +383,7 @@
 | 91.Decode Ways                                    | medium  | 시간초과  |  30   | 2023/10/08 | brute force로 해서 시간 초과  |
 | 338. Counting Bits                            | easy  |  시간초과   |  30   | 2023/10/09 | 답지 보고 해결함 |
 | 80. Remove Duplicates from Sorted Array II                                   | medium  | 12:56  |  30   | 2023/10/09 |   |
+| 189. Rotate Array                           | medium  |  14:50   |  30   | 2023/10/10 | follow up 해결 못함 |
+| 122. Best Time to Buy and Sell Stock II                                   | medium  | 시간초과  |  30   | 2023/10/10 | 답지 봐도 잘 모르겠음  |
 
 </details>
