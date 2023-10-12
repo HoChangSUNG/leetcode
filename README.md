@@ -345,7 +345,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(37문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(39문제)</summary>
 <br>
 
 | 문제	                                                         |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                              |
@@ -387,5 +387,7 @@
 | 122. Best Time to Buy and Sell Stock II                                   | medium  | 시간초과  |  30   | 2023/10/10 | 답지 봐도 잘 모르겠음  |
 | 274. H-Index                           | medium  |  시간초과   |  30   | 2023/10/11 | 답지 봐도 잘 모르겠음 |
 | 380. Insert Delete GetRandom O(1)                                   | medium  | 시간초과  |  30   | 2023/10/11 |   |
+| 238. Product of Array Except Self                           | medium  |  시간초과   |  30   | 2023/10/12 | 답지에서 힌트 얻어서 followup까지 했음 |
+| 134. Gas Station                                   | medium  | 시간초과  |  30   | 2023/10/12 | 답지봐서 어느정도 이해함  |
 
 </details>
