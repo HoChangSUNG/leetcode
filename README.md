@@ -345,7 +345,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(39문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(41문제)</summary>
 <br>
 
 | 문제	                                                         |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                              |
@@ -389,5 +389,7 @@
 | 380. Insert Delete GetRandom O(1)                                   | medium  | 시간초과  |  30   | 2023/10/11 |   |
 | 238. Product of Array Except Self                           | medium  |  시간초과   |  30   | 2023/10/12 | 답지에서 힌트 얻어서 followup까지 했음 |
 | 134. Gas Station                                   | medium  | 시간초과  |  30   | 2023/10/12 | 답지봐서 어느정도 이해함  |
+| 12. Integer to Roman                          | medium  |  시간초과   |  30   | 2023/10/15 | 시간 초과하고 나서 해결함 |
+| 151. Reverse Words in a String                                   | medium  | 28:03  |  30   | 2023/10/15 |  |
 
 </details>
