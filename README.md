@@ -347,7 +347,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(45문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(47문제)</summary>
 <br>
 
 | 문제	                                                         |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                              |
@@ -397,5 +397,7 @@
 | 167. Two Sum II - Input Array Is Sorted                     | medium  | 08:04  |  30   | 2023/10/16 |  |
 | 209. Minimum Size Subarray Sum                              | medium  |  23:04   |  30   | 2023/10/17 |  |
 | 3. Longest Substring Without Repeating Characters           | medium  | 15:34  |  30   | 2023/10/17 |  |
+| 289. Game of Life                              | medium  |  23:45   |  30   | 2023/10/18 | follow up은 남은 시간이 얼마 없어서 못함 |
+| 128. Longest Consecutive Sequence          | medium  | 시간초과  |  30   | 2023/10/18 | set으로 풀어야 한다고는 생각도 못함 |
 
 </details>
