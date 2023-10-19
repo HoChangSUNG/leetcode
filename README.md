@@ -347,7 +347,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(49문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(51문제)</summary>
 <br>
 
 | 문제	                                                         |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                              |
@@ -401,5 +401,7 @@
 | 128. Longest Consecutive Sequence          | medium  | 시간초과  |  30   | 2023/10/18 | set으로 풀어야 한다고는 생각도 못함 |
 | 452. Minimum Number of Arrows to Burst Balloons                             | medium  | 시간초과   |  30   | 2023/10/19 | 방식은 맞았으나 코딩을 잘못함 |
 | 71. Simplify Path          | medium  | 16:55  |  30   | 2023/10/19 |  |
+| 155. Min Stack                             | medium  | 17:50   |  30   | 2023/10/20 | |
+| 150. Evaluate Reverse Polish Notation         | medium  | 22:32  |  30   | 2023/10/20 |  |
 
 </details>
