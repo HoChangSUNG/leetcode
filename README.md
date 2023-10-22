@@ -405,5 +405,6 @@
 | 150. Evaluate Reverse Polish Notation         | medium  | 22:32  |  30   | 2023/10/20 |  |
 | 2. Add Two Numbers                             | medium  | 시간초과   |  30   | 2023/10/21 | |
 | 138. Copy List with Random Pointer         | medium  | 시간초과  |  30   | 2023/10/21 |  |
+| 92. Reverse Linked List II         | medium  | 시간초과  |  30   | 2023/10/22 | 어떻게 풀지 감도 못잡음 |
 
 </details>
