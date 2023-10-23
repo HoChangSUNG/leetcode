@@ -347,7 +347,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(53문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(57문제)</summary>
 <br>
 
 | 문제	                                                         |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                              |
@@ -407,5 +407,7 @@
 | 138. Copy List with Random Pointer         | medium  | 시간초과  |  30   | 2023/10/21 |  |
 | 92. Reverse Linked List II         | medium  | 시간초과  |  30   | 2023/10/22 | 어떻게 풀지 감도 못잡음 |
 | 19. Remove Nth Node From End of List         | medium  | 17:40  |  30   | 2023/10/23 | followup은 해결 못함 |
+| 82. Remove Duplicates from Sorted List II         | medium  | 시간초과  |  30   | 2023/10/24 | 방식은 맞았으나 노드 연결을 중간에 잘못해서 시간 초과 이후에 해결 |
+| 61. Rotate List         | medium  | 18:32  |  30   | 2023/10/24 |  |
 
 </details>
