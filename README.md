@@ -406,5 +406,6 @@
 | 2. Add Two Numbers                             | medium  | 시간초과   |  30   | 2023/10/21 | |
 | 138. Copy List with Random Pointer         | medium  | 시간초과  |  30   | 2023/10/21 |  |
 | 92. Reverse Linked List II         | medium  | 시간초과  |  30   | 2023/10/22 | 어떻게 풀지 감도 못잡음 |
+| 19. Remove Nth Node From End of List         | medium  | 17:40  |  30   | 2023/10/23 | followup은 해결 못함 |
 
 </details>
