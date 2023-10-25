@@ -347,8 +347,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(57
-문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(59문제)</summary>
 <br>
 
 | 문제	                                                         |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                              |
@@ -410,7 +409,6 @@
 | 19. Remove Nth Node From End of List         | medium  | 17:40  |  30   | 2023/10/23 | followup은 해결 못함 |
 | 82. Remove Duplicates from Sorted List II         | medium  | 시간초과  |  30   | 2023/10/24 | 방식은 맞았으나 노드 연결을 중간에 잘못해서 시간 초과 이후에 해결 |
 | 61. Rotate List         | medium  | 18:32  |  30   | 2023/10/24 |  |
-
 | 86. Partition List         | medium  | 20:03  |  30   | 2023/10/25 |  |
 | 146. LRU Cache        | medium  | 시간초과  |  30   | 2023/10/25 | 리스트 중간에 저장된 값을 o(1) 시간에 꺼낼 수 있는 방법을 잘 생각해봐야 함 |
 
