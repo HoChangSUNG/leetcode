@@ -347,7 +347,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(59문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(61문제)</summary>
 <br>
 
 | 문제	                                                         |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                              |
@@ -411,5 +411,7 @@
 | 61. Rotate List         | medium  | 18:32  |  30   | 2023/10/24 |  |
 | 86. Partition List         | medium  | 20:03  |  30   | 2023/10/25 |  |
 | 146. LRU Cache        | medium  | 시간초과  |  30   | 2023/10/25 | 리스트 중간에 저장된 값을 o(1) 시간에 꺼낼 수 있는 방법을 잘 생각해봐야 함 |
+| 105. Construct Binary Tree from Preorder and Inorder Traversal         | medium  | 시간초과  |  30   | 2023/10/26 | preorder와 inorder의 위치가 뭘 뜻하는지 잘 생각해봐야 함 |
+| 106. Construct Binary Tree from Inorder and Postorder Traversal        | medium  | 20:57  |  30   | 2023/10/26 | 위 문제의 변형 |
 
 </details>
