@@ -347,7 +347,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(63문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(65문제)</summary>
 <br>
 
 | 문제	                                                         |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                              |
@@ -413,7 +413,9 @@
 | 146. LRU Cache        | medium  | 시간초과  |  30   | 2023/10/25 | 리스트 중간에 저장된 값을 o(1) 시간에 꺼낼 수 있는 방법을 잘 생각해봐야 함 |
 | 105. Construct Binary Tree from Preorder and Inorder Traversal         | medium  | 시간초과  |  30   | 2023/10/26 | preorder와 inorder의 위치가 뭘 뜻하는지 잘 생각해봐야 함 |
 | 106. Construct Binary Tree from Inorder and Postorder Traversal        | medium  | 20:57  |  30   | 2023/10/26 | 위 문제의 변형 |
-| 117. Populating Next Right Pointers in Each Node II         | medium  | 시간초과  |  30   | 2023/10/27 |  |
-| 114. Flatten Binary Tree to Linked List        | medium  | 15:40  |  30   | 2023/10/27 |  |
+| 117. Populating Next Right Pointers in Each Node II         | medium  | 시간초과  |  30   | 2023/10/27 | bfs로 풀면 금방 푸는 건데….  너무 어렵게 생각함 |
+| 114. Flatten Binary Tree to Linked List        | medium  | 15:40  |  30   | 2023/10/27 | follow up 해결 못함 |
+| 129. Sum Root to Leaf Numbers         | medium  | 19:50  |  30   | 2023/10/28 |  |
+| 173. Binary Search Tree Iterator        | medium  | 10:04  |  30   | 2023/10/28 |  |
 
 </details>
