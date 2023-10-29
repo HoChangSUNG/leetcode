@@ -347,75 +347,77 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(65문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(67문제)</summary>
 <br>
 
-| 문제	                                                         |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                              |
-|:------------------------------------------------------------|:-------:|:-----:|:-----:|:----------:|:-------------------------------------------------|
-| 11. Container With Most Water                               | medium  |  시간초과   |  30   | 2023/09/28 | 이중 for문으로  풀면 time limit 넘어감. 처음에 투 포인터 생각했었는데…. |
-| 15. 3Sum                                                    | medium  |  29:30   |  30   | 2023/09/28 | 통과하긴 했는데 시간 복잡도가 너무 오래걸림 |
-| 16. 3Sum Closest                                            | medium  | 시간초과  |  30   | 2023/09/28 | 방법 몰라서 답지 봄  |
-| 18. 4Sum                                                    | medium  |  시간초과   |  30   | 2023/09/29 | 제한 시간 지나고 품. 범위를 벗어나는 값 때문에 계속 실패함. 다음에 풀때는 솔루션 참고해야 할듯 |
-| 31. Next Permutation                                        | medium  |  시간초과   |  30   | 2023/09/29 | 감조차 못잡음. 그냥 brute force로는 어짜피 시간복잡도 초과해서 안됨 |
-| 33. Search in Rotated Sorted Array                          | medium  | 시간초과  |  30   | 2023/09/29 |  방식은 답에 근접했음, 분할하는 구간을 잘못 잡음, editorial 에서 Approach 3: One Binary Search 답지 참고함 |
-| 34. Find First and Last Position of Element in Sorted Array | medium  |  23:06   |  30   | 2023/09/30 | binary search를 두번만 하면 되는데 어렵게 해결함 |
-| 36. Valid Sudoku                                            | medium  |  시간초과   |  30   | 2023/09/30 | 쉬운 문제인데 어렵게 생각함 |
-| 39. Combination Sum                                         | medium  | 14:04  |  30   | 2023/09/30 |   |
-| 40. Combination Sum II                                      | medium  |  시간초과   |  30   | 2023/10/01 | 위 문제와 방식 비슷한데 계속 시간 초과 뜸, 동일한 요소를 어떻게 하면 중복을 없앨지 고민해야 함 |
-| 45. Jump Game II                                            | medium  |  05:41   |  30   | 2023/10/01 | o(n^2) 그리디로 풀음, o(n)으로 풀수 있음 |
-| 346. Permutations                                           | medium  | 10:05  |  30   | 2023/10/01 | 코드 좀 더 깔끔하게 줄일 수 있음  |
-| 47. Permutations II                                         | medium  |  15:44   |  30   | 2023/10/02 | 코드 좀 더 깔끔하게 줄일 수 있음 |
-| 48. Rotate Image                                            | medium  |  28:03   |  30   | 2023/10/02 | 다 풀어놓고 코드 연산자 하나 잘못 써서 오래 걸림 |
-| 49. Group Anagrams                                          | medium  | 17:45  |  30   | 2023/10/02 |   |
-| 53. Maximum Subarray                                        | medium  |  07:16   |  30   | 2023/10/03 | follow up 해보기 |
-| 54. Spiral Matrix                                           | medium  |  17:22   |  30   | 2023/10/03 |  |
-| 55. Jump Game                                               | medium  | 18:43  |  30   | 2023/10/03 |   |
-| 56. Merge Intervals                                         | medium  |  20:41   |  30   | 2023/10/04 |  |
-| 57. Insert Interval                                         | medium  |  27:42   |  30   | 2023/10/04 | insert 하는 배열 합친 배열 만들고 거기서 다시 overlapping되는거 걸러서 해결함 , o(n)으로 해결해야 함 |
-| 59. Spiral Matrix II                                        | medium  | 10:42  |  30   | 2023/10/04 |   |
-| 63. Unique Paths II                                         | medium  |  18:23   |  30   | 2023/10/05 |  |
-| 64. Minimum Path Sum                                        | medium  | 10:05  |  30   | 2023/10/05 |   |
-| 73. Set Matrix Zeroes                                       | medium  | 14:03  |  30   | 2023/10/06 |   |
-| 74. Search a 2D Matrix                                      | medium  |  08:53   |  30   | 2023/10/06 |  |
-| 75. Sort Colors                                             | medium  | 12:03  |  30   | 2023/10/06 |   |
-| 5. Longest Palindromic Substring                            | medium  |  시간초과   |  30   | 2023/10/07 | editorial 보고 해결함 |
-| 22. Generate Parentheses                                    | medium  | 시간초과  |  30   | 2023/10/07 | solution 보고 해결함. dp로 풀 생각 말고 일단 brute force로 해결해보기  |
-| 62. Unique Paths                                            | medium  | 06:28  |  30   | 2023/10/08 |   |
-| 72. Edit Distance                                           | medium  |  시간초과   |  30   | 2023/10/08 | 답지 봐도 도저히 모르겠음 |
-| 91.Decode Ways                                              | medium  | 시간초과  |  30   | 2023/10/08 | brute force로 해서 시간 초과  |
-| 338. Counting Bits                                          | easy  |  시간초과   |  30   | 2023/10/09 | 답지 보고 해결함 |
-| 80. Remove Duplicates from Sorted Array II                  | medium  | 12:56  |  30   | 2023/10/09 |   |
-| 189. Rotate Array                                           | medium  |  14:50   |  30   | 2023/10/10 | follow up 해결 못함 |
-| 122. Best Time to Buy and Sell Stock II                     | medium  | 시간초과  |  30   | 2023/10/10 | 답지 봐도 잘 모르겠음  |
-| 274. H-Index                                                | medium  |  시간초과   |  30   | 2023/10/11 | 답지 봐도 잘 모르겠음 |
-| 380. Insert Delete GetRandom O(1)                           | medium  | 시간초과  |  30   | 2023/10/11 |   |
-| 238. Product of Array Except Self                           | medium  |  시간초과   |  30   | 2023/10/12 | 답지에서 힌트 얻어서 followup까지 했음 |
-| 134. Gas Station                                            | medium  | 시간초과  |  30   | 2023/10/12 | 답지봐서 어느정도 이해함  |
-| 12. Integer to Roman                                        | medium  |  시간초과   |  30   | 2023/10/15 | 시간 초과하고 나서 해결함 |
-| 151. Reverse Words in a String                              | medium  | 28:03  |  30   | 2023/10/15 |  |
-| 6. Zigzag Conversion                                        | medium  |  27:01   |  30   | 2023/10/16 |  |
-| 167. Two Sum II - Input Array Is Sorted                     | medium  | 08:04  |  30   | 2023/10/16 |  |
-| 209. Minimum Size Subarray Sum                              | medium  |  23:04   |  30   | 2023/10/17 |  |
-| 3. Longest Substring Without Repeating Characters           | medium  | 15:34  |  30   | 2023/10/17 |  |
-| 289. Game of Life                              | medium  |  23:45   |  30   | 2023/10/18 | follow up은 남은 시간이 얼마 없어서 못함 |
-| 128. Longest Consecutive Sequence          | medium  | 시간초과  |  30   | 2023/10/18 | set으로 풀어야 한다고는 생각도 못함 |
-| 452. Minimum Number of Arrows to Burst Balloons                             | medium  | 시간초과   |  30   | 2023/10/19 | 방식은 맞았으나 코딩을 잘못함 |
-| 71. Simplify Path          | medium  | 16:55  |  30   | 2023/10/19 |  |
-| 155. Min Stack                             | medium  | 17:50   |  30   | 2023/10/20 | |
-| 150. Evaluate Reverse Polish Notation         | medium  | 22:32  |  30   | 2023/10/20 |  |
-| 2. Add Two Numbers                             | medium  | 시간초과   |  30   | 2023/10/21 | |
-| 138. Copy List with Random Pointer         | medium  | 시간초과  |  30   | 2023/10/21 |  |
-| 92. Reverse Linked List II         | medium  | 시간초과  |  30   | 2023/10/22 | 어떻게 풀지 감도 못잡음 |
-| 19. Remove Nth Node From End of List         | medium  | 17:40  |  30   | 2023/10/23 | followup은 해결 못함 |
-| 82. Remove Duplicates from Sorted List II         | medium  | 시간초과  |  30   | 2023/10/24 | 방식은 맞았으나 노드 연결을 중간에 잘못해서 시간 초과 이후에 해결 |
-| 61. Rotate List         | medium  | 18:32  |  30   | 2023/10/24 |  |
-| 86. Partition List         | medium  | 20:03  |  30   | 2023/10/25 |  |
-| 146. LRU Cache        | medium  | 시간초과  |  30   | 2023/10/25 | 리스트 중간에 저장된 값을 o(1) 시간에 꺼낼 수 있는 방법을 잘 생각해봐야 함 |
-| 105. Construct Binary Tree from Preorder and Inorder Traversal         | medium  | 시간초과  |  30   | 2023/10/26 | preorder와 inorder의 위치가 뭘 뜻하는지 잘 생각해봐야 함 |
-| 106. Construct Binary Tree from Inorder and Postorder Traversal        | medium  | 20:57  |  30   | 2023/10/26 | 위 문제의 변형 |
-| 117. Populating Next Right Pointers in Each Node II         | medium  | 시간초과  |  30   | 2023/10/27 | bfs로 풀면 금방 푸는 건데….  너무 어렵게 생각함 |
-| 114. Flatten Binary Tree to Linked List        | medium  | 15:40  |  30   | 2023/10/27 | follow up 해결 못함 |
-| 129. Sum Root to Leaf Numbers         | medium  | 19:50  |  30   | 2023/10/28 |  |
-| 173. Binary Search Tree Iterator        | medium  | 10:04  |  30   | 2023/10/28 |  |
+| 문제	                                                             |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                              |
+|:----------------------------------------------------------------|:-------:|:-----:|:-----:|:----------:|:-------------------------------------------------|
+| 11. Container With Most Water                                   | medium  |  시간초과   |  30   | 2023/09/28 | 이중 for문으로  풀면 time limit 넘어감. 처음에 투 포인터 생각했었는데…. |
+| 15. 3Sum                                                        | medium  |  29:30   |  30   | 2023/09/28 | 통과하긴 했는데 시간 복잡도가 너무 오래걸림 |
+| 16. 3Sum Closest                                                | medium  | 시간초과  |  30   | 2023/09/28 | 방법 몰라서 답지 봄  |
+| 18. 4Sum                                                        | medium  |  시간초과   |  30   | 2023/09/29 | 제한 시간 지나고 품. 범위를 벗어나는 값 때문에 계속 실패함. 다음에 풀때는 솔루션 참고해야 할듯 |
+| 31. Next Permutation                                            | medium  |  시간초과   |  30   | 2023/09/29 | 감조차 못잡음. 그냥 brute force로는 어짜피 시간복잡도 초과해서 안됨 |
+| 33. Search in Rotated Sorted Array                              | medium  | 시간초과  |  30   | 2023/09/29 |  방식은 답에 근접했음, 분할하는 구간을 잘못 잡음, editorial 에서 Approach 3: One Binary Search 답지 참고함 |
+| 34. Find First and Last Position of Element in Sorted Array     | medium  |  23:06   |  30   | 2023/09/30 | binary search를 두번만 하면 되는데 어렵게 해결함 |
+| 36. Valid Sudoku                                                | medium  |  시간초과   |  30   | 2023/09/30 | 쉬운 문제인데 어렵게 생각함 |
+| 39. Combination Sum                                             | medium  | 14:04  |  30   | 2023/09/30 |   |
+| 40. Combination Sum II                                          | medium  |  시간초과   |  30   | 2023/10/01 | 위 문제와 방식 비슷한데 계속 시간 초과 뜸, 동일한 요소를 어떻게 하면 중복을 없앨지 고민해야 함 |
+| 45. Jump Game II                                                | medium  |  05:41   |  30   | 2023/10/01 | o(n^2) 그리디로 풀음, o(n)으로 풀수 있음 |
+| 346. Permutations                                               | medium  | 10:05  |  30   | 2023/10/01 | 코드 좀 더 깔끔하게 줄일 수 있음  |
+| 47. Permutations II                                             | medium  |  15:44   |  30   | 2023/10/02 | 코드 좀 더 깔끔하게 줄일 수 있음 |
+| 48. Rotate Image                                                | medium  |  28:03   |  30   | 2023/10/02 | 다 풀어놓고 코드 연산자 하나 잘못 써서 오래 걸림 |
+| 49. Group Anagrams                                              | medium  | 17:45  |  30   | 2023/10/02 |   |
+| 53. Maximum Subarray                                            | medium  |  07:16   |  30   | 2023/10/03 | follow up 해보기 |
+| 54. Spiral Matrix                                               | medium  |  17:22   |  30   | 2023/10/03 |  |
+| 55. Jump Game                                                   | medium  | 18:43  |  30   | 2023/10/03 |   |
+| 56. Merge Intervals                                             | medium  |  20:41   |  30   | 2023/10/04 |  |
+| 57. Insert Interval                                             | medium  |  27:42   |  30   | 2023/10/04 | insert 하는 배열 합친 배열 만들고 거기서 다시 overlapping되는거 걸러서 해결함 , o(n)으로 해결해야 함 |
+| 59. Spiral Matrix II                                            | medium  | 10:42  |  30   | 2023/10/04 |   |
+| 63. Unique Paths II                                             | medium  |  18:23   |  30   | 2023/10/05 |  |
+| 64. Minimum Path Sum                                            | medium  | 10:05  |  30   | 2023/10/05 |   |
+| 73. Set Matrix Zeroes                                           | medium  | 14:03  |  30   | 2023/10/06 |   |
+| 74. Search a 2D Matrix                                          | medium  |  08:53   |  30   | 2023/10/06 |  |
+| 75. Sort Colors                                                 | medium  | 12:03  |  30   | 2023/10/06 |   |
+| 5. Longest Palindromic Substring                                | medium  |  시간초과   |  30   | 2023/10/07 | editorial 보고 해결함 |
+| 22. Generate Parentheses                                        | medium  | 시간초과  |  30   | 2023/10/07 | solution 보고 해결함. dp로 풀 생각 말고 일단 brute force로 해결해보기  |
+| 62. Unique Paths                                                | medium  | 06:28  |  30   | 2023/10/08 |   |
+| 72. Edit Distance                                               | medium  |  시간초과   |  30   | 2023/10/08 | 답지 봐도 도저히 모르겠음 |
+| 91.Decode Ways                                                  | medium  | 시간초과  |  30   | 2023/10/08 | brute force로 해서 시간 초과  |
+| 338. Counting Bits                                              | easy  |  시간초과   |  30   | 2023/10/09 | 답지 보고 해결함 |
+| 80. Remove Duplicates from Sorted Array II                      | medium  | 12:56  |  30   | 2023/10/09 |   |
+| 189. Rotate Array                                               | medium  |  14:50   |  30   | 2023/10/10 | follow up 해결 못함 |
+| 122. Best Time to Buy and Sell Stock II                         | medium  | 시간초과  |  30   | 2023/10/10 | 답지 봐도 잘 모르겠음  |
+| 274. H-Index                                                    | medium  |  시간초과   |  30   | 2023/10/11 | 답지 봐도 잘 모르겠음 |
+| 380. Insert Delete GetRandom O(1)                               | medium  | 시간초과  |  30   | 2023/10/11 |   |
+| 238. Product of Array Except Self                               | medium  |  시간초과   |  30   | 2023/10/12 | 답지에서 힌트 얻어서 followup까지 했음 |
+| 134. Gas Station                                                | medium  | 시간초과  |  30   | 2023/10/12 | 답지봐서 어느정도 이해함  |
+| 12. Integer to Roman                                            | medium  |  시간초과   |  30   | 2023/10/15 | 시간 초과하고 나서 해결함 |
+| 151. Reverse Words in a String                                  | medium  | 28:03  |  30   | 2023/10/15 |  |
+| 6. Zigzag Conversion                                            | medium  |  27:01   |  30   | 2023/10/16 |  |
+| 167. Two Sum II - Input Array Is Sorted                         | medium  | 08:04  |  30   | 2023/10/16 |  |
+| 209. Minimum Size Subarray Sum                                  | medium  |  23:04   |  30   | 2023/10/17 |  |
+| 3. Longest Substring Without Repeating Characters               | medium  | 15:34  |  30   | 2023/10/17 |  |
+| 289. Game of Life                                               | medium  |  23:45   |  30   | 2023/10/18 | follow up은 남은 시간이 얼마 없어서 못함 |
+| 128. Longest Consecutive Sequence                               | medium  | 시간초과  |  30   | 2023/10/18 | set으로 풀어야 한다고는 생각도 못함 |
+| 452. Minimum Number of Arrows to Burst Balloons                 | medium  | 시간초과   |  30   | 2023/10/19 | 방식은 맞았으나 코딩을 잘못함 |
+| 71. Simplify Path                                               | medium  | 16:55  |  30   | 2023/10/19 |  |
+| 155. Min Stack                                                  | medium  | 17:50   |  30   | 2023/10/20 | |
+| 150. Evaluate Reverse Polish Notation                           | medium  | 22:32  |  30   | 2023/10/20 |  |
+| 2. Add Two Numbers                                              | medium  | 시간초과   |  30   | 2023/10/21 | |
+| 138. Copy List with Random Pointer                              | medium  | 시간초과  |  30   | 2023/10/21 |  |
+| 92. Reverse Linked List II                                      | medium  | 시간초과  |  30   | 2023/10/22 | 어떻게 풀지 감도 못잡음 |
+| 19. Remove Nth Node From End of List                            | medium  | 17:40  |  30   | 2023/10/23 | followup은 해결 못함 |
+| 82. Remove Duplicates from Sorted List II                       | medium  | 시간초과  |  30   | 2023/10/24 | 방식은 맞았으나 노드 연결을 중간에 잘못해서 시간 초과 이후에 해결 |
+| 61. Rotate List                                                 | medium  | 18:32  |  30   | 2023/10/24 |  |
+| 86. Partition List                                              | medium  | 20:03  |  30   | 2023/10/25 |  |
+| 146. LRU Cache                                                  | medium  | 시간초과  |  30   | 2023/10/25 | 리스트 중간에 저장된 값을 o(1) 시간에 꺼낼 수 있는 방법을 잘 생각해봐야 함 |
+| 105. Construct Binary Tree from Preorder and Inorder Traversal  | medium  | 시간초과  |  30   | 2023/10/26 | preorder와 inorder의 위치가 뭘 뜻하는지 잘 생각해봐야 함 |
+| 106. Construct Binary Tree from Inorder and Postorder Traversal | medium  | 20:57  |  30   | 2023/10/26 | 위 문제의 변형 |
+| 117. Populating Next Right Pointers in Each Node II             | medium  | 시간초과  |  30   | 2023/10/27 | bfs로 풀면 금방 푸는 건데….  너무 어렵게 생각함 |
+| 114. Flatten Binary Tree to Linked List                         | medium  | 15:40  |  30   | 2023/10/27 | follow up 해결 못함 |
+| 129. Sum Root to Leaf Numbers                                   | medium  | 19:50  |  30   | 2023/10/28 |  |
+| 173. Binary Search Tree Iterator                                | medium  | 10:04  |  30   | 2023/10/28 |  |
+| 236. Lowest Common Ancestor of a Binary Tree                    | medium  | 25:53  |  30   | 2023/10/29 |  |
+| 199. Binary Tree Right Side Viewr                               | medium  | 14:49  |  30   | 2023/10/29 |  |
 
 </details>
