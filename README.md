@@ -418,6 +418,6 @@
 | 129. Sum Root to Leaf Numbers                                   | medium  | 19:50  |  30   | 2023/10/28 |  |
 | 173. Binary Search Tree Iterator                                | medium  | 10:04  |  30   | 2023/10/28 |  |
 | 236. Lowest Common Ancestor of a Binary Tree                    | medium  | 25:53  |  30   | 2023/10/29 |  |
-| 199. Binary Tree Right Side Viewr                               | medium  | 14:49  |  30   | 2023/10/29 |  |
+| 199. Binary Tree Right Side Viewr                               | medium  | 14:49  |  30   | 2023/10/29 | 이번에는 bfs 방식으로 풀었는데 다음에는 dfs 방식으로 한번 해보기 |
 
 </details>
