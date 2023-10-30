@@ -347,7 +347,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(67문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(69문제)</summary>
 <br>
 
 | 문제	                                                             |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                              |
@@ -419,5 +419,7 @@
 | 173. Binary Search Tree Iterator                                | medium  | 10:04  |  30   | 2023/10/28 |  |
 | 236. Lowest Common Ancestor of a Binary Tree                    | medium  | 25:53  |  30   | 2023/10/29 |  |
 | 199. Binary Tree Right Side Viewr                               | medium  | 14:49  |  30   | 2023/10/29 | 이번에는 bfs 방식으로 풀었는데 다음에는 dfs 방식으로 한번 해보기 |
+| 102. Binary Tree Level Order Traversal                          | medium  | 08:04  |  30   | 2023/10/30 |  |
+| 103. Binary Tree Zigzag Level Order Traversal                   | medium  | 29:34  |  30   | 2023/10/30 |  |
 
 </details>
