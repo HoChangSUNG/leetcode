@@ -347,7 +347,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(71문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(73문제)</summary>
 <br>
 
 | 문제	                                                             |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                              |
@@ -423,5 +423,7 @@
 | 103. Binary Tree Zigzag Level Order Traversal                   | medium  | 29:34  |  30   | 2023/10/30 |  |
 | 230. Kth Smallest Element in a BST                          | medium  | 10:05  |  30   | 2023/10/31 |  |
 | 98. Validate Binary Search Tree                   | medium  | 28:05  |  30   | 2023/10/31 |  |
+| 200. Number of Islands                         | medium  | 14:27  |  30   | 2023/11/01 |  |
+| 130. Surrounded Regions                 | medium  | 27:09  |  30   | 2023/11/01 | 모서리부터 공략하면 시간이나 코드가 더 깔끔해질 것임 |
 
 </details>
