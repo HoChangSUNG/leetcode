@@ -347,7 +347,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(75문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(77문제)</summary>
 <br>
 
 | 문제	                                                             |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                              |
@@ -427,5 +427,7 @@
 | 130. Surrounded Regions                 | medium  | 27:09  |  30   | 2023/11/01 | 모서리부터 공략하면 시간이나 코드가 더 깔끔해질 것임, surrond라는 뜻이 이 문제에서 뭔지를 잘 파악해야 함 |
 | 133. Clone Graph                         | medium  | 시간초과  |  30   | 2023/11/02 | dfs 해설 보고 풀었음, 단순하게 생각해야 함 |
 | 399. Evaluate Division                 | medium  | 시간초과  |  30   | 2023/11/02 | 푸는 방식은 맞는데 시간이 부족해서 못품 |
+| 207. Course Schedule                         | medium  | 시간초과  |  30   | 2023/11/03 | 어떻게 푸는지는 아는데 손이 코드를 못짬 |
+| 210. Course Schedule II                 | medium  | 14:04  |  30   | 2023/11/03 |  |
 
 </details>
