@@ -347,7 +347,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(77문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(79문제)</summary>
 <br>
 
 | 문제	                                                             |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                              |
@@ -429,5 +429,7 @@
 | 399. Evaluate Division                 | medium  | 시간초과  |  30   | 2023/11/02 | 푸는 방식은 맞는데 시간이 부족해서 못품 |
 | 207. Course Schedule                         | medium  | 시간초과  |  30   | 2023/11/03 | 어떻게 푸는지는 아는데 손이 코드를 못짬 |
 | 210. Course Schedule II                 | medium  | 14:04  |  30   | 2023/11/03 |  |
+| 909. Snakes and Ladders                         | medium  | 시간초과  |  30   | 2023/11/04 | 지그재그로 순서 정하는 부분을 어떻게 해결할지 해결 방법을 떠올리지 못함, row마다 col을 reverse 하는 방법을 생각해보자 |
+| 433. Minimum Genetic Mutation                 | medium  | 시간초과  |  30   | 2023/11/04 | 코드 한줄을 작성 안해서 계속 틀림,그래서 시간 초과 이후에 풀음  |
 
 </details>
