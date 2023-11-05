@@ -433,4 +433,6 @@
 | 433. Minimum Genetic Mutation                 | medium  | 시간초과  |  30   | 2023/11/04 | 코드 한줄을 작성 안해서 계속 틀림,그래서 시간 초과 이후에 풀음 |
 | 208. Implement Trie (Prefix Tree)                | medium  | 15:30 |  30   | 2023/11/05 |  |
 
+
+
 </details>
