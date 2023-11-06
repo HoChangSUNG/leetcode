@@ -347,7 +347,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(80문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(82문제)</summary>
 <br>
 
 | 문제	                                                             |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                             |
@@ -432,7 +432,8 @@
 | 909. Snakes and Ladders                         | medium  | 시간초과  |  30   | 2023/11/04 | 지그재그로 순서 정하는 부분을 어떻게 해결할지 해결 방법을 떠올리지 못함, row마다 col을 reverse 하는 방법을 생각해보자 |
 | 433. Minimum Genetic Mutation                 | medium  | 시간초과  |  30   | 2023/11/04 | 코드 한줄을 작성 안해서 계속 틀림,그래서 시간 초과 이후에 풀음 |
 | 208. Implement Trie (Prefix Tree)                | medium  | 15:30 |  30   | 2023/11/05 |  |
-
+| 211. Design Add and Search Words Data Structure                | medium  | 시간초과  |  30   | 2023/11/06 | trie를 공부해야 함 |
+| 17. Letter Combinations of a Phone Number                | medium  | 19:06 |  30   | 2023/11/06 |  |
 
 
 </details>
