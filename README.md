@@ -347,7 +347,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(82문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(84문제)</summary>
 <br>
 
 | 문제	                                                             |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                             |
@@ -434,6 +434,7 @@
 | 208. Implement Trie (Prefix Tree)                | medium  | 15:30 |  30   | 2023/11/05 |  |
 | 211. Design Add and Search Words Data Structure                | medium  | 시간초과  |  30   | 2023/11/06 | trie를 공부해야 함 |
 | 17. Letter Combinations of a Phone Number                | medium  | 19:06 |  30   | 2023/11/06 |  |
-
+| 77. Combinations                | medium  | 28:21  |  30   | 2023/11/07 |  |
+| 79. Word Search               | medium  | 19:47 |  30   | 2023/11/07 |  |
 
 </details>
