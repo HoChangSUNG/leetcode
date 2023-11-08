@@ -347,7 +347,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(84문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(86문제)</summary>
 <br>
 
 | 문제	                                                             |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                             |
@@ -436,5 +436,7 @@
 | 17. Letter Combinations of a Phone Number                | medium  | 19:06 |  30   | 2023/11/06 |  |
 | 77. Combinations                | medium  | 28:21  |  30   | 2023/11/07 |  |
 | 79. Word Search               | medium  | 19:47 |  30   | 2023/11/07 |  |
+| 148. Sort List               | medium  | 시간초과  |  30   | 2023/11/08 | o(n^2)으로 풀면 안됨, 답지 봤는데 이해가 안감 |
+| 427. Construct Quad Tree              | medium  | 시간초과 |  30   | 2023/11/08 | dive and conquer로 풀어야 하는건 알았는데 코드로 작성을 못함 |
 
 </details>
