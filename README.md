@@ -421,22 +421,24 @@
 | 199. Binary Tree Right Side Viewr                               | medium  | 14:49 |  30   | 2023/10/29 | 이번에는 bfs 방식으로 풀었는데 다음에는 dfs 방식으로 한번 해보기 |
 | 102. Binary Tree Level Order Traversal                          | medium  | 08:04 |  30   | 2023/10/30 |  |
 | 103. Binary Tree Zigzag Level Order Traversal                   | medium  | 29:34 |  30   | 2023/10/30 |  |
-| 230. Kth Smallest Element in a BST                          | medium  | 10:05 |  30   | 2023/10/31 |  |
-| 98. Validate Binary Search Tree                   | medium  | 28:05 |  30   | 2023/10/31 |  |
-| 200. Number of Islands                         | medium  | 14:27 |  30   | 2023/11/01 |  |
-| 130. Surrounded Regions                 | medium  | 27:09 |  30   | 2023/11/01 | 모서리부터 공략하면 시간이나 코드가 더 깔끔해질 것임, surrond라는 뜻이 이 문제에서 뭔지를 잘 파악해야 함 |
-| 133. Clone Graph                         | medium  | 시간초과  |  30   | 2023/11/02 | dfs 해설 보고 풀었음, 단순하게 생각해야 함 |
-| 399. Evaluate Division                 | medium  | 시간초과  |  30   | 2023/11/02 | 푸는 방식은 맞는데 시간이 부족해서 못품 |
-| 207. Course Schedule                         | medium  | 시간초과  |  30   | 2023/11/03 | 어떻게 푸는지는 아는데 손이 코드를 못짬 |
-| 210. Course Schedule II                 | medium  | 14:04 |  30   | 2023/11/03 |  |
-| 909. Snakes and Ladders                         | medium  | 시간초과  |  30   | 2023/11/04 | 지그재그로 순서 정하는 부분을 어떻게 해결할지 해결 방법을 떠올리지 못함, row마다 col을 reverse 하는 방법을 생각해보자 |
-| 433. Minimum Genetic Mutation                 | medium  | 시간초과  |  30   | 2023/11/04 | 코드 한줄을 작성 안해서 계속 틀림,그래서 시간 초과 이후에 풀음 |
-| 208. Implement Trie (Prefix Tree)                | medium  | 15:30 |  30   | 2023/11/05 |  |
-| 211. Design Add and Search Words Data Structure                | medium  | 시간초과  |  30   | 2023/11/06 | trie를 공부해야 함 |
-| 17. Letter Combinations of a Phone Number                | medium  | 19:06 |  30   | 2023/11/06 |  |
-| 77. Combinations                | medium  | 28:21  |  30   | 2023/11/07 |  |
-| 79. Word Search               | medium  | 19:47 |  30   | 2023/11/07 |  |
-| 148. Sort List               | medium  | 시간초과  |  30   | 2023/11/08 | o(n^2)으로 풀면 안됨, 답지 봤는데 이해가 안감 |
-| 427. Construct Quad Tree              | medium  | 시간초과 |  30   | 2023/11/08 | dive and conquer로 풀어야 하는건 알았는데 코드로 작성을 못함 |
+| 230. Kth Smallest Element in a BST                              | medium  | 10:05 |  30   | 2023/10/31 |  |
+| 98. Validate Binary Search Tree                                 | medium  | 28:05 |  30   | 2023/10/31 |  |
+| 200. Number of Islands                                          | medium  | 14:27 |  30   | 2023/11/01 |  |
+| 130. Surrounded Regions                                         | medium  | 27:09 |  30   | 2023/11/01 | 모서리부터 공략하면 시간이나 코드가 더 깔끔해질 것임, surrond라는 뜻이 이 문제에서 뭔지를 잘 파악해야 함 |
+| 133. Clone Graph                                                | medium  | 시간초과  |  30   | 2023/11/02 | dfs 해설 보고 풀었음, 단순하게 생각해야 함 |
+| 399. Evaluate Division                                          | medium  | 시간초과  |  30   | 2023/11/02 | 푸는 방식은 맞는데 시간이 부족해서 못품 |
+| 207. Course Schedule                                            | medium  | 시간초과  |  30   | 2023/11/03 | 어떻게 푸는지는 아는데 손이 코드를 못짬 |
+| 210. Course Schedule II                                         | medium  | 14:04 |  30   | 2023/11/03 |  |
+| 909. Snakes and Ladders                                         | medium  | 시간초과  |  30   | 2023/11/04 | 지그재그로 순서 정하는 부분을 어떻게 해결할지 해결 방법을 떠올리지 못함, row마다 col을 reverse 하는 방법을 생각해보자 |
+| 433. Minimum Genetic Mutation                                   | medium  | 시간초과  |  30   | 2023/11/04 | 코드 한줄을 작성 안해서 계속 틀림,그래서 시간 초과 이후에 풀음 |
+| 208. Implement Trie (Prefix Tree)                               | medium  | 15:30 |  30   | 2023/11/05 |  |
+| 211. Design Add and Search Words Data Structure                 | medium  | 시간초과  |  30   | 2023/11/06 | trie를 공부해야 함 |
+| 17. Letter Combinations of a Phone Number                       | medium  | 19:06 |  30   | 2023/11/06 |  |
+| 77. Combinations                                                | medium  | 28:21  |  30   | 2023/11/07 |  |
+| 79. Word Search                                                 | medium  | 19:47 |  30   | 2023/11/07 |  |
+| 148. Sort List                                                  | medium  | 시간초과  |  30   | 2023/11/08 | o(n^2)으로 풀면 안됨, 답지 봤는데 이해가 안감 |
+| 427. Construct Quad Tree                                        | medium  | 시간초과 |  30   | 2023/11/08 | dive and conquer로 풀어야 하는건 알았는데 코드로 작성을 못함 |
+| 918. Maximum Sum Circular Subarray                              | medium  | 시간초과  |  30   | 2023/11/09 |  |
+| 162. Find Peak Element                                          | medium  | 28:29 |  30   | 2023/11/09 | O(logn)으로는 못풀고 O(n)으로 풀음,다음에는 O(logn)으로 해결해보기  |
 
 </details>
