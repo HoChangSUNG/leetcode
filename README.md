@@ -347,7 +347,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(86문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(90문제)</summary>
 <br>
 
 | 문제	                                                             |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                             |
@@ -440,5 +440,7 @@
 | 427. Construct Quad Tree                                        | medium  | 시간초과 |  30   | 2023/11/08 | dive and conquer로 풀어야 하는건 알았는데 코드로 작성을 못함 |
 | 918. Maximum Sum Circular Subarray                              | medium  | 시간초과  |  30   | 2023/11/09 |  |
 | 162. Find Peak Element                                          | medium  | 28:29 |  30   | 2023/11/09 | O(logn)으로는 못풀고 O(n)으로 풀음,다음에는 O(logn)으로 해결해보기  |
+| 153. Find Minimum in Rotated Sorted Array                       | medium  | 29:30  |  30   | 2023/11/10 | 어제 풀었던 문제랑 어떻게 보면 비슷한 방식으로 풀 수 있을듯? |
+| 215. Kth Largest Element in an Array                            | medium  | 18:17 |  30   | 2023/11/10 |  |
 
 </details>
