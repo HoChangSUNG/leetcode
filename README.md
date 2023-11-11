@@ -442,5 +442,7 @@
 | 162. Find Peak Element                                          | medium  | 28:29 |  30   | 2023/11/09 | O(logn)으로는 못풀고 O(n)으로 풀음,다음에는 O(logn)으로 해결해보기  |
 | 153. Find Minimum in Rotated Sorted Array                       | medium  | 29:30  |  30   | 2023/11/10 | 어제 풀었던 문제랑 어떻게 보면 비슷한 방식으로 풀 수 있을듯? |
 | 215. Kth Largest Element in an Array                            | medium  | 18:17 |  30   | 2023/11/10 |  |
+| 73. Find K Pairs with Smallest Sums                       | medium  | 시간초과  |  30   | 2023/11/11 |  |
+| 137. Single Number II                            | medium  | 12:05 |  30   | 2023/11/11 | 공간 복잡도 o(1)로 못함 |
 
 </details>
