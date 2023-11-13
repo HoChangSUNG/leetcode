@@ -347,7 +347,7 @@
 
 ### 2023.9.28 ~ 
 <details>
-<summary>1회독 시간 및 문제 풀이 코멘트(90문제)</summary>
+<summary>1회독 시간 및 문제 풀이 코멘트(94문제)</summary>
 <br>
 
 | 문제	                                                             |   난이도   | 걸린시간  | 제한시간	 |     날짜     | 코멘트                                             |
@@ -445,5 +445,6 @@
 | 73. Find K Pairs with Smallest Sums                             | medium  | 시간초과  |  30   | 2023/11/11 |  |
 | 137. Single Number II                                           | medium  | 12:05 |  30   | 2023/11/11 | 공간 복잡도 o(1)로 못함 |
 | 201. Bitwise AND of Numbers Range                               | medium  | 시간초과  |  30   | 2023/11/12 | 문제가 생각 이상으로 쉬운 거였음,shift 해야 한다고 생각은 했는데, 좀 어렵게 풀려고 한 거 같음 |
+| 172. Factorial Trailing Zeroes | medium  | 시간초과  |  30   | 2023/11/13 |  |
 
 </details>
