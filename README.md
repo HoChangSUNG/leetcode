@@ -448,5 +448,7 @@
 | 172. Factorial Trailing Zeroes                                  | medium  | 시간초과  |  30   | 2023/11/13 |  |
 | 50. Pow(x, n)                                                   | medium  | 시간초과  |  30   | 2023/11/14 |  |
 | 198. House Robber                                               | medium  | 20:10  |  30   | 2023/11/14 |  |
+| 139. Word Break                                                   | medium  | 29:05  |  30   | 2023/11/15 | dp로 안풀고 bfs로 해결함 |
+| 322. Coin Change                                              | medium  | 15:54  |  30   | 2023/11/15 |  |
 
 </details>
