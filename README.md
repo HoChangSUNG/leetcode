@@ -456,7 +456,7 @@
 </details>
 
 <details>
-<summary>2회독 시간 및 문제 풀이 코멘트(8문제)</summary>
+<summary>2회독 시간 및 문제 풀이 코멘트(10문제)</summary>
 <br>
 
 | 문제	                                | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 |   제한시간	    |     날짜     | 코멘트                                                      |
@@ -469,5 +469,7 @@
 | 33. Search in Rotated Sorted Array | medium  |   시간초과   |   시간초과   |     30     | 2023/11/19 | 방법은 유사했으나 해결을 못함                                         |
 | 34. Find First and Last Position of Element in Sorted Array     | medium  | 23:06  | 11:37 |  30   | 2023/11/20 |  |
 | 36. Valid Sudoku                                                | medium  |   시간초과  | 15:03  |    30    | 2023/11/20 |  |
+| 39. Combination Sum                                             | medium  | 14:04 | 17:39 |  30   | 2023/11/21 |  |
+| 40. Combination Sum II                                          | medium  | 시간초과  | 시간초과 |  30   | 2023/11/21 | 중복을 어떻게 없앨지 계속 생각이 안남 |
 
 </details>
