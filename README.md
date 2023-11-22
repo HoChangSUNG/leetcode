@@ -456,7 +456,7 @@
 </details>
 
 <details>
-<summary>2회독 시간 및 문제 풀이 코멘트(10문제)</summary>
+<summary>2회독 시간 및 문제 풀이 코멘트(12문제)</summary>
 <br>
 
 | 문제	                                | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 |   제한시간	    |     날짜     | 코멘트                                                      |
@@ -471,5 +471,7 @@
 | 36. Valid Sudoku                                                | medium  |   시간초과  | 15:03  |    30    | 2023/11/20 |  |
 | 39. Combination Sum                                             | medium  | 14:04 | 17:39 |  30   | 2023/11/21 |  |
 | 40. Combination Sum II                                          | medium  | 시간초과  | 시간초과 |  30   | 2023/11/21 | 중복을 어떻게 없앨지 계속 생각이 안남 |
+| 45. Jump Game II                                                | medium  | 05:41 | 24:31 |  30   | 2023/11/22 | o(n)으로 풀려다 실패해서 그리디로 풀음 |
+| 346. Permutations                                               | medium  | 10:05 | 10:43 |  30   | 2023/11/22 |  |
 
 </details>
