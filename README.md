@@ -475,5 +475,7 @@
 | 346. Permutations                                               | medium  | 10:05 |  10:43   |  30   | 2023/11/22 |  |
 | 47. Permutations II                                             | medium  | 15:44 |  13:55   |  30   | 2023/11/23 |  |
 | 48. Rotate Image                                                | medium  | 28:03 |  11:13   |  30   | 2023/11/23 |  |
+| 49. Group Anagrams                                              | medium  | 17:45 | 시간초과 |  30   | 2023/11/24 | 아이디어는 맞았으나 구현을 제대로 못함 |
+| 53. Maximum Subarray                                            | medium  | 07:16 | 06:04 |   30  | 2023/11/24 | follow up 해보기 |
 
 </details>
