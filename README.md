@@ -482,8 +482,10 @@
 | 56. Merge Intervals                                         | medium  |  20:41   |  10:59   |  30   | 2023/11/26 |  |
 | 57. Insert Interval                                         | medium  |  27:42   |   시간초과   |  30   | 2023/11/26 | 시간초과 이후 o(n)해결, newInterval을 기존 배열에 어떻게 o(n)만큼의 시간 복잡도로 넣을지가 관건 |
 | 59. Spiral Matrix II                                        | medium  |  10:42   |  06:39   |  30   | 2023/11/27 |  |
-| 63. Unique Paths II                                         | medium  |  18:23   |  08:43   |   30  | 2023/11/27 |  |
-| 64. Minimum Path Sum                                            | medium  |  10:05   | 05:45 |  30   | 2023/11/28 |  |
-| 73. Set Matrix Zeroes                                           | medium  |  14:03   | 14:04 |    30    | 2023/11/28 |  |
+| 63. Unique Paths II                                         | medium  |  18:23   |  08:43   |  30   | 2023/11/27 |  |
+| 64. Minimum Path Sum                                            | medium  |  10:05   |  05:45   |  30   | 2023/11/28 |  |
+| 73. Set Matrix Zeroes                                           | medium  |  14:03   |  14:04   |  30   | 2023/11/28 |  |
+| 74. Search a 2D Matrix                                          | medium  | 08:53 |  05:27   |  30   | 2023/11/29 |  |
+| 75. Sort Colors                                                 | medium  | 12:03 |   09:23  |   30  | 2023/11/29 | follow up 못함, 0일때와 2일때의 경계 설정을 하고 투포인터 느낌으로 풀면 follow up 해결 가능 |
 
 </details>
