@@ -456,7 +456,7 @@
 </details>
 
 <details>
-<summary>2회독 시간 및 문제 풀이 코멘트(20문제)</summary>
+<summary>2회독 시간 및 문제 풀이 코멘트(28문제)</summary>
 <br>
 
 | 문제	                                                         | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                      |
@@ -487,5 +487,7 @@
 | 73. Set Matrix Zeroes                                           | medium  |  14:03   |  14:04   |  30   | 2023/11/28 |  |
 | 74. Search a 2D Matrix                                          | medium  | 08:53 |  05:27   |  30   | 2023/11/29 |  |
 | 75. Sort Colors                                                 | medium  | 12:03 |   09:23  |   30  | 2023/11/29 | follow up 못함, 0일때와 2일때의 경계 설정을 하고 투포인터 느낌으로 풀면 follow up 해결 가능 |
+| 5. Longest Palindromic Substring                                | medium  | 시간초과 | 26:05 |  30   | 2023/11/30 |  |
+| 22. Generate Parentheses                                        | medium  | 시간초과 | 20:44 |  30   | 2023/11/30 |  |
 
 </details>
