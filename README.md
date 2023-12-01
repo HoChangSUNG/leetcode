@@ -486,8 +486,10 @@
 | 64. Minimum Path Sum                                            | medium  |  10:05   |  05:45   |  30   | 2023/11/28 |  |
 | 73. Set Matrix Zeroes                                           | medium  |  14:03   |  14:04   |  30   | 2023/11/28 |  |
 | 74. Search a 2D Matrix                                          | medium  | 08:53 |  05:27   |  30   | 2023/11/29 |  |
-| 75. Sort Colors                                                 | medium  | 12:03 |   09:23  |   30  | 2023/11/29 | follow up 못함, 0일때와 2일때의 경계 설정을 하고 투포인터 느낌으로 풀면 follow up 해결 가능 |
-| 5. Longest Palindromic Substring                                | medium  | 시간초과 | 26:05 |  30   | 2023/11/30 |  |
-| 22. Generate Parentheses                                        | medium  | 시간초과 | 20:44 |  30   | 2023/11/30 |  |
+| 75. Sort Colors                                                 | medium  | 12:03 |  09:23   |   30  | 2023/11/29 | follow up 못함, 0일때와 2일때의 경계 설정을 하고 투포인터 느낌으로 풀면 follow up 해결 가능 |
+| 5. Longest Palindromic Substring                                | medium  | 시간초과 |  26:05   |  30   | 2023/11/30 |  |
+| 22. Generate Parentheses                                        | medium  | 시간초과 |  20:44   |  30   | 2023/11/30 |  |
+| 62. Unique Paths                                                | medium  | 06:28 |   03:31       |  30   | 2023/12/01 |  |
+| 72. Edit Distance                                               | medium  | 시간초과 |    시간초과      |    30    | 2023/12/01 |  |
 
 </details>
