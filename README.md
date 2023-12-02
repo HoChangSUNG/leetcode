@@ -489,7 +489,9 @@
 | 75. Sort Colors                                                 | medium  | 12:03 |  09:23   |   30  | 2023/11/29 | follow up 못함, 0일때와 2일때의 경계 설정을 하고 투포인터 느낌으로 풀면 follow up 해결 가능 |
 | 5. Longest Palindromic Substring                                | medium  | 시간초과 |  26:05   |  30   | 2023/11/30 |  |
 | 22. Generate Parentheses                                        | medium  | 시간초과 |  20:44   |  30   | 2023/11/30 |  |
-| 62. Unique Paths                                                | medium  | 06:28 |   03:31       |  30   | 2023/12/01 |  |
-| 72. Edit Distance                                               | medium  | 시간초과 |    시간초과      |    30    | 2023/12/01 |  |
+| 62. Unique Paths                                                | medium  | 06:28 |  03:31   |  30   | 2023/12/01 |  |
+| 72. Edit Distance                                               | medium  | 시간초과 |   시간초과   |    30    | 2023/12/01 |  |
+| 91.Decode Ways                                                  | medium  | 시간초과 |    21:31      |  30   | 2023/12/02 |  |
+| 338. Counting Bits                                              | easy  | 시간초과 |    28:40      |    30    | 2023/12/02 |  |
 
 </details>
