@@ -6,6 +6,10 @@ import java.util.Comparator;
 public class HIndex {
     public int hIndex(int[] citations) {
         Arrays.sort(citations);
-        return 1;
+        int hIndex = 0;
+        for (int i = 0; i < citations.length; i++) {
+            if (citations[citations.length - 1 - i] > i) hIndex++;
+        }
+        return hIndex;
     }
 }
