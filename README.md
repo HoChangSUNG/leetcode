@@ -456,7 +456,7 @@
 </details>
 
 <details>
-<summary>2회독 시간 및 문제 풀이 코멘트(52문제)</summary>
+<summary>2회독 시간 및 문제 풀이 코멘트(56문제)</summary>
 <br>
 
 | 문제	                                                         | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                      |
@@ -513,5 +513,7 @@
 | 155. Min Stack                                                  | medium  | 17:50|  09:37   |  30   | 2023/12/10 | |
 | 150. Evaluate Reverse Polish Notation                           | medium  | 22:32|  14:58   |  30   | 2023/12/11 |  |
 | 2. Add Two Numbers                                              | medium  | 시간초과|   사건초과   |  30   | 2023/12/11 |기존 방식으로 하면 int 범위 넘어감 |
+| 138. Copy List with Random Pointer                              | medium  | 시간초과 | 10:43 |  30   | 2023/12/14 |  |
+| 92. Reverse Linked List II                                      | medium  | 시간초과 | 12:07 |    30    | 2023/12/11 | 답지랑 다르게 풀었음 |
 
 </details>
