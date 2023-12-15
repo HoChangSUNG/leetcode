@@ -456,7 +456,7 @@
 </details>
 
 <details>
-<summary>2회독 시간 및 문제 풀이 코멘트(56문제)</summary>
+<summary>2회독 시간 및 문제 풀이 코멘트(58문제)</summary>
 <br>
 
 | 문제	                                                         | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                      |
@@ -485,35 +485,39 @@
 | 63. Unique Paths II                                         | medium  |  18:23   |  08:43   |  30   | 2023/11/27 |  |
 | 64. Minimum Path Sum                                            | medium  |  10:05   |  05:45   |  30   | 2023/11/28 |  |
 | 73. Set Matrix Zeroes                                           | medium  |  14:03   |  14:04   |  30   | 2023/11/28 |  |
-| 74. Search a 2D Matrix                                          | medium  | 08:53 |  05:27   |  30   | 2023/11/29 |  |
-| 75. Sort Colors                                                 | medium  | 12:03 |  09:23   |  30   | 2023/11/29 | follow up 못함, 0일때와 2일때의 경계 설정을 하고 투포인터 느낌으로 풀면 follow up 해결 가능 |
-| 5. Longest Palindromic Substring                                | medium  | 시간초과 |  26:05   |  30   | 2023/11/30 |  |
-| 22. Generate Parentheses                                        | medium  | 시간초과 |  20:44   |  30   | 2023/11/30 |  |
-| 62. Unique Paths                                                | medium  | 06:28 |  03:31   |  30   | 2023/12/01 |  |
-| 72. Edit Distance                                               | medium  | 시간초과 |   시간초과   |  30   | 2023/12/01 |  |
-| 91.Decode Ways                                                  | medium  | 시간초과 |  21:31   |  30   | 2023/12/02 |  |
-| 338. Counting Bits                                              | easy  | 시간초과 |  28:40   |  30   | 2023/12/02 |  |
-| 80. Remove Duplicates from Sorted Array II                      | medium  | 12:56 |  08:57   |  30   | 2023/12/03 |  |
-| 189. Rotate Array                                               | medium  | 14:50 |  11:57   |   30  | 2023/12/03 |  |
-| 122. Best Time to Buy and Sell Stock II                         | medium  | 시간초과|   시간초과   |  30   | 2023/12/13 | 답지보고 이해 |
-| 274. H-Index                                                    | medium  | 시간초과 |  시 간초과   |  30   | 2023/12/13 | 해결방법 시간 거의 끝날때 떠올림 |
-| 380. Insert Delete GetRandom O(1)                               | medium  | 시간초과 |   시간초과   |  30   | 2023/12/06 | remove 하면 index가 한칸씩 앞당겨지는거를 생각 안해서 틀림 |
-| 238. Product of Array Except Self                               | medium  | 시간초과 |  24:40   |  30   | 2023/12/06 |  |
-| 134. Gas Station                                                | medium  | 시간초과 |   시간초과   |  30   | 2023/12/07 | 답지 보고 풀음|
-| 12. Integer to Roman                                            | medium  | 시간초과 |  29:05   |  30   | 2023/12/07 | 답지가 완전 깔끔하게 풀음 다음에는 답지 방식으로 풀기 |
-| 151. Reverse Words in a String                                  | medium  | 28:03|  09:32   |  30   | 2023/12/08 |  |
-| 6. Zigzag Conversion                                            | medium  | 27:01|  10:13   |  30   | 2023/12/08 |  |
-| 167. Two Sum II - Input Array Is Sorted                         | medium  | 08:04|  04:47   |  30   | 2023/12/04 |  |
-| 209. Minimum Size Subarray Sum                                  | medium  | 23:04|  20:24   |  30   | 2023/12/04 |  |
-| 3. Longest Substring Without Repeating Characters               | medium  | 15:34|  12:11   |  30   | 2023/12/05 |  |
-| 289. Game of Life                                               | medium  | 23:45|  14:46   |  30   | 2023/12/05 |  |
-| 128. Longest Consecutive Sequence                               | medium  | 시간초과|   시간초과   |  30   | 2023/12/09 |  |
-| 452. Minimum Number of Arrows to Burst Balloons                 | medium  | 시간초과 |  12:54   |  30   | 2023/12/09 |  |
-| 71. Simplify Path                                               | medium  | 16:55|  11:23   |  30   | 2023/12/10 |  |
-| 155. Min Stack                                                  | medium  | 17:50|  09:37   |  30   | 2023/12/10 | |
-| 150. Evaluate Reverse Polish Notation                           | medium  | 22:32|  14:58   |  30   | 2023/12/11 |  |
-| 2. Add Two Numbers                                              | medium  | 시간초과|   사건초과   |  30   | 2023/12/11 |기존 방식으로 하면 int 범위 넘어감 |
-| 138. Copy List with Random Pointer                              | medium  | 시간초과 | 10:43 |  30   | 2023/12/14 |  |
-| 92. Reverse Linked List II                                      | medium  | 시간초과 | 12:07 |    30    | 2023/12/11 | 답지랑 다르게 풀었음 |
+| 74. Search a 2D Matrix                                          | medium  |  08:53   |  05:27   |  30   | 2023/11/29 |  |
+| 75. Sort Colors                                                 | medium  |  12:03   |  09:23   |  30   | 2023/11/29 | follow up 못함, 0일때와 2일때의 경계 설정을 하고 투포인터 느낌으로 풀면 follow up 해결 가능 |
+| 5. Longest Palindromic Substring                                | medium  |   시간초과   |  26:05   |  30   | 2023/11/30 |  |
+| 22. Generate Parentheses                                        | medium  |   시간초과   |  20:44   |  30   | 2023/11/30 |  |
+| 62. Unique Paths                                                | medium  |  06:28   |  03:31   |  30   | 2023/12/01 |  |
+| 72. Edit Distance                                               | medium  |   시간초과   |   시간초과   |  30   | 2023/12/01 |  |
+| 91.Decode Ways                                                  | medium  |   시간초과   |  21:31   |  30   | 2023/12/02 |  |
+| 338. Counting Bits                                              | easy  |   시간초과   |  28:40   |  30   | 2023/12/02 |  |
+| 80. Remove Duplicates from Sorted Array II                      | medium  |  12:56   |  08:57   |  30   | 2023/12/03 |  |
+| 189. Rotate Array                                               | medium  |  14:50   |  11:57   |   30  | 2023/12/03 |  |
+| 122. Best Time to Buy and Sell Stock II                         | medium  |   시간초과   |   시간초과   |  30   | 2023/12/13 | 답지보고 이해 |
+| 274. H-Index                                                    | medium  |   시간초과   |  시 간초과   |  30   | 2023/12/13 | 해결방법 시간 거의 끝날때 떠올림 |
+| 380. Insert Delete GetRandom O(1)                               | medium  |   시간초과   |   시간초과   |  30   | 2023/12/06 | remove 하면 index가 한칸씩 앞당겨지는거를 생각 안해서 틀림 |
+| 238. Product of Array Except Self                               | medium  |   시간초과   |  24:40   |  30   | 2023/12/06 |  |
+| 134. Gas Station                                                | medium  |   시간초과   |   시간초과   |  30   | 2023/12/07 | 답지 보고 풀음|
+| 12. Integer to Roman                                            | medium  |   시간초과   |  29:05   |  30   | 2023/12/07 | 답지가 완전 깔끔하게 풀음 다음에는 답지 방식으로 풀기 |
+| 151. Reverse Words in a String                                  | medium  |  28:03   |  09:32   |  30   | 2023/12/08 |  |
+| 6. Zigzag Conversion                                            | medium  |  27:01   |  10:13   |  30   | 2023/12/08 |  |
+| 167. Two Sum II - Input Array Is Sorted                         | medium  |  08:04   |  04:47   |  30   | 2023/12/04 |  |
+| 209. Minimum Size Subarray Sum                                  | medium  |  23:04   |  20:24   |  30   | 2023/12/04 |  |
+| 3. Longest Substring Without Repeating Characters               | medium  |  15:34   |  12:11   |  30   | 2023/12/05 |  |
+| 289. Game of Life                                               | medium  |  23:45   |  14:46   |  30   | 2023/12/05 |  |
+| 128. Longest Consecutive Sequence                               | medium  |   시간초과   |   시간초과   |  30   | 2023/12/09 |  |
+| 452. Minimum Number of Arrows to Burst Balloons                 | medium  |   시간초과   |  12:54   |  30   | 2023/12/09 |  |
+| 71. Simplify Path                                               | medium  |  16:55   |  11:23   |  30   | 2023/12/10 |  |
+| 155. Min Stack                                                  | medium  |  17:50   |  09:37   |  30   | 2023/12/10 | |
+| 150. Evaluate Reverse Polish Notation                           | medium  |  22:32   |  14:58   |  30   | 2023/12/11 |  |
+| 2. Add Two Numbers                                              | medium  |   시간초과   |   사건초과   |  30   | 2023/12/11 |기존 방식으로 하면 int 범위 넘어감 |
+| 138. Copy List with Random Pointer                              | medium  |   시간초과   |  10:43   |  30   | 2023/12/14 |  |
+| 92. Reverse Linked List II                                      | medium  |   시간초과   |  12:07   |    30    | 2023/12/14 | 답지랑 다르게 풀었음 |
+| 19. Remove Nth Node From End of List                            | medium  |  17:40   |  12:50   | 30   | 2023/12/15 |  |
+| 82. Remove Duplicates from Sorted List II                       | medium  |   시간초과   |  25:43   |  30   | 2023/12/15 | 코드가 전보다 더러워서 개선해야 함, 답지가 더 깔끔함 |
+| 61. Rotate List                                                 | medium  |  18:32   |  19:37   | 30   | 2023/12/12 |  |
+| 86. Partition List                                              | medium  |  20:03   |  16:19   | 30   | 2023/12/12 |  |
 
 </details>
