@@ -456,7 +456,7 @@
 </details>
 
 <details>
-<summary>2회독 시간 및 문제 풀이 코멘트(58문제)</summary>
+<summary>2회독 시간 및 문제 풀이 코멘트(74문제)</summary>
 <br>
 
 | 문제	                                                         | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                      |
@@ -519,5 +519,21 @@
 | 82. Remove Duplicates from Sorted List II                       | medium  |   시간초과   |  25:43   |  30   | 2023/12/15 | 코드가 전보다 더러워서 개선해야 함, 답지가 더 깔끔함 |
 | 61. Rotate List                                                 | medium  |  18:32   |  19:37   | 30   | 2023/12/12 |  |
 | 86. Partition List                                              | medium  |  20:03   |  16:19   | 30   | 2023/12/12 |  |
+| 146. LRU Cache                                                  | medium  |  시간초과    | 시간초과 |  30  | 2023/12/23 | 어떤 자료 구조를 사용할지 감읆 못잡음 |
+| 105. Construct Binary Tree from Preorder and Inorder Traversal  | medium  |   시간초과   | 시간초과 |  30   | 2023/12/22 | 자꾸 left, right 범위 정하면 쉬운걸 생각을 못함 |
+| 106. Construct Binary Tree from Inorder and Postorder Traversal | medium  |  20:57   |  시간초과|  30   | 2023/12/22 | 자꾸 left, right 범위 정하면 쉬운걸 생각을 못함 |
+| 117. Populating Next Right Pointers in Each Node II             | medium  | 시간초과  | 08:55 |  30   | 2023/12/23 |  |
+| 114. Flatten Binary Tree to Linked List                         | medium  | 15:40 | 25:10 |  30   | 2023/12/16 | 1회차때는 새로운 노드를 만들었는데, 이번에는 기존 노드를 사용 |
+| 129. Sum Root to Leaf Numbers                                   | medium  | 19:50 | 11:18 |  30   | 2023/12/16 |  |
+| 173. Binary Search Tree Iterator                                | medium  | 10:04 | 08:48 |  30   | 2023/12/17 |  |
+| 236. Lowest Common Ancestor of a Binary Tree                    | medium  | 25:53 | 19:07 |  30   | 2023/12/17 |  |
+| 199. Binary Tree Right Side Viewr                               | medium  | 14:49 | 12:06 |  30   | 2023/12/18 |  |
+| 102. Binary Tree Level Order Traversal                          | medium  | 08:04 | 09:41 |  30   | 2023/12/18 |  |
+| 103. Binary Tree Zigzag Level Order Traversal                   | medium  | 29:34 | 24:54 |  30   | 2023/12/19 |  |
+| 230. Kth Smallest Element in a BST                              | medium  | 10:05 | 08:03 |  30   | 2023/12/19 |  |
+| 98. Validate Binary Search Tree                                 | medium  | 28:05 | 20:09 |  30   | 2023/12/20 |  |
+| 200. Number of Islands                                          | medium  | 14:27 | 09:01 |  30   | 2023/12/20 |  |
+| 130. Surrounded Regions                                         | medium  | 27:09 | 20:05 |  30   | 2023/12/21 |  |
+| 133. Clone Graph                                                | medium  | 시간초과 | 14:59 |  30   | 2023/12/21 |  |
 
 </details>
