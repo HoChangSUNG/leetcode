@@ -456,7 +456,7 @@
 </details>
 
 <details>
-<summary>2회독 시간 및 문제 풀이 코멘트(76문제)</summary>
+<summary>2회독 시간 및 문제 풀이 코멘트(80문제)</summary>
 <br>
 
 | 문제	                                                         | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                             |
@@ -494,7 +494,7 @@
 | 91.Decode Ways                                                  | medium  |   시간초과   |  21:31   |  30   | 2023/12/02 |                                                                 |
 | 338. Counting Bits                                              | easy  |   시간초과   |  28:40   |  30   | 2023/12/02 |                                                                 |
 | 80. Remove Duplicates from Sorted Array II                      | medium  |  12:56   |  08:57   |  30   | 2023/12/03 |                                                                 |
-| 189. Rotate Array                                               | medium  |  14:50   |  11:57   |   30  | 2023/12/03 |                                                                 |
+| 189. Rotate Array                                               | medium  |  14:50   |  11:57   |  30   | 2023/12/03 |                                                                 |
 | 122. Best Time to Buy and Sell Stock II                         | medium  |   시간초과   |   시간초과   |  30   | 2023/12/13 | 답지보고 이해                                                         |
 | 274. H-Index                                                    | medium  |   시간초과   |  시 간초과   |  30   | 2023/12/13 | 해결방법 시간 거의 끝날때 떠올림                                              |
 | 380. Insert Delete GetRandom O(1)                               | medium  |   시간초과   |   시간초과   |  30   | 2023/12/06 | remove 하면 index가 한칸씩 앞당겨지는거를 생각 안해서 틀림                          |
@@ -514,12 +514,12 @@
 | 150. Evaluate Reverse Polish Notation                           | medium  |  22:32   |  14:58   |  30   | 2023/12/11 |                                                                 |
 | 2. Add Two Numbers                                              | medium  |   시간초과   |   사건초과   |  30   | 2023/12/11 | 기존 방식으로 하면 int 범위 넘어감                                           |
 | 138. Copy List with Random Pointer                              | medium  |   시간초과   |  10:43   |  30   | 2023/12/14 |                                                                 |
-| 92. Reverse Linked List II                                      | medium  |   시간초과   |  12:07   |    30    | 2023/12/14 | 답지랑 다르게 풀었음                                                     |
-| 19. Remove Nth Node From End of List                            | medium  |  17:40   |  12:50   | 30   | 2023/12/15 |                                                                 |
+| 92. Reverse Linked List II                                      | medium  |   시간초과   |  12:07   |  30   | 2023/12/14 | 답지랑 다르게 풀었음                                                     |
+| 19. Remove Nth Node From End of List                            | medium  |  17:40   |  12:50   |  30   | 2023/12/15 |                                                                 |
 | 82. Remove Duplicates from Sorted List II                       | medium  |   시간초과   |  25:43   |  30   | 2023/12/15 | 코드가 전보다 더러워서 개선해야 함, 답지가 더 깔끔함                                  |
-| 61. Rotate List                                                 | medium  |  18:32   |  19:37   | 30   | 2023/12/12 |                                                                 |
-| 86. Partition List                                              | medium  |  20:03   |  16:19   | 30   | 2023/12/12 |                                                                 |
-| 146. LRU Cache                                                  | medium  |   시간초과   |   시간초과   |  30  | 2023/12/23 | 어떤 자료 구조를 사용할지 감읆 못잡음                                           |
+| 61. Rotate List                                                 | medium  |  18:32   |  19:37   |  30   | 2023/12/12 |                                                                 |
+| 86. Partition List                                              | medium  |  20:03   |  16:19   |  30   | 2023/12/12 |                                                                 |
+| 146. LRU Cache                                                  | medium  |   시간초과   |   시간초과   |  30   | 2023/12/23 | 어떤 자료 구조를 사용할지 감읆 못잡음                                           |
 | 105. Construct Binary Tree from Preorder and Inorder Traversal  | medium  |   시간초과   |   시간초과   |  30   | 2023/12/22 | 자꾸 left, right 범위 정하면 쉬운걸 생각을 못함                                |
 | 106. Construct Binary Tree from Inorder and Postorder Traversal | medium  |  20:57   |   시간초과   |  30   | 2023/12/22 | 자꾸 left, right 범위 정하면 쉬운걸 생각을 못함                                |
 | 117. Populating Next Right Pointers in Each Node II             | medium  |   시간초과   |  08:55   |  30   | 2023/12/23 |                                                                 |
@@ -537,7 +537,9 @@
 | 133. Clone Graph                                                | medium  |   시간초과   |  14:59   |  30   | 2023/12/21 |                                                                 |
 | 399. Evaluate Division                                          | medium  |   시간초과   |          |  30   | 2023/12/24 | 푸는 방식은 맞는데 시간이 부족함, union find 방식으로 풀 수 있음                      |
 | 207. Course Schedule                                            | medium  |   시간초과   |          |  30   | 2023/12/24 | 답지보다 더러움, for each문 잘 사용하면 좀 더 깔끔해짐                             |
-| 210. Course Schedule II                                         | medium  |  14:04 |  13:56   |  30   | 2023/12/25 |                                                                 |
-| 909. Snakes and Ladders                                         | medium  |   시간초과 | 시간초과     |    30    | 2023/12/25 | 지그재그 부분에서 계속 막힘  |
+| 210. Course Schedule II                                         | medium  |  14:04   |  13:56   |  30   | 2023/12/25 |                                                                 |
+| 909. Snakes and Ladders                                         | medium  |   시간초과   |   시간초과   |  30   | 2023/12/25 | 지그재그 부분에서 계속 막힘  |
+| 433. Minimum Genetic Mutation                                   | medium  |   시간초과   |    13:38      |  30   | 2023/12/26 |  |
+| 208. Implement Trie (Prefix Tree)                               | medium  | 15:30    | 26:39  |   30  | 2023/12/26 | Trie로 풀어서 시간 오래 걸림, trie 공부하기 |
 
 </details>
