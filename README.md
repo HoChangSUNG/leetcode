@@ -539,7 +539,9 @@
 | 207. Course Schedule                                            | medium  |   시간초과   |          |  30   | 2023/12/24 | 답지보다 더러움, for each문 잘 사용하면 좀 더 깔끔해짐                             |
 | 210. Course Schedule II                                         | medium  |  14:04   |  13:56   |  30   | 2023/12/25 |                                                                 |
 | 909. Snakes and Ladders                                         | medium  |   시간초과   |   시간초과   |  30   | 2023/12/25 | 지그재그 부분에서 계속 막힘  |
-| 433. Minimum Genetic Mutation                                   | medium  |   시간초과   |    13:38      |  30   | 2023/12/26 |  |
-| 208. Implement Trie (Prefix Tree)                               | medium  | 15:30    | 26:39  |   30  | 2023/12/26 | Trie로 풀어서 시간 오래 걸림, trie 공부하기 |
+| 433. Minimum Genetic Mutation                                   | medium  |   시간초과   |  13:38   |  30   | 2023/12/26 |  |
+| 208. Implement Trie (Prefix Tree)                               | medium  | 15:30    |  26:39   |  30   | 2023/12/26 | Trie로 풀어서 시간 오래 걸림, trie 공부하기 |
+| 211. Design Add and Search Words Data Structure                 | medium  | 시간초과|  26:42   |  30   | 2023/12/27 |   답지가 더 깔끔하게 풀음, 기본 아이디어는 답지와 같음         |
+| 17. Letter Combinations of a Phone Number                       | medium  | 19:06 |  12:39   |    30 | 2023/12/27 |            |
 
 </details>
