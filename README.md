@@ -456,7 +456,7 @@
 </details>
 
 <details>
-<summary>2회독 시간 및 문제 풀이 코멘트(82문제)</summary>
+<summary>2회독 시간 및 문제 풀이 코멘트(84문제)</summary>
 <br>
 
 | 문제	                                                         | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                             |
@@ -542,6 +542,8 @@
 | 433. Minimum Genetic Mutation                                   | medium  |   시간초과   |  13:38   |  30   | 2023/12/26 |  |
 | 208. Implement Trie (Prefix Tree)                               | medium  | 15:30    |  26:39   |  30   | 2023/12/26 | Trie로 풀어서 시간 오래 걸림, trie 공부하기 |
 | 211. Design Add and Search Words Data Structure                 | medium  | 시간초과|  26:42   |  30   | 2023/12/27 |   답지가 더 깔끔하게 풀음, 기본 아이디어는 답지와 같음         |
-| 17. Letter Combinations of a Phone Number                       | medium  | 19:06 |  12:39   |    30 | 2023/12/27 |            |
+| 17. Letter Combinations of a Phone Number                       | medium  | 19:06 |  12:39   |  30   | 2023/12/27 |            |
+| 77. Combinations                                                | medium  | 28:21  |  30 |   17:02    | 2023/12/28 |  |
+| 79. Word Search                                                 | medium  | 19:47 |  30 |   15:20    | 2023/12/28 |  |
 
 </details>
