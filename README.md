@@ -456,7 +456,7 @@
 </details>
 
 <details>
-<summary>2회독 시간 및 문제 풀이 코멘트(80문제)</summary>
+<summary>2회독 시간 및 문제 풀이 코멘트(82문제)</summary>
 <br>
 
 | 문제	                                                         | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                                             |
@@ -535,8 +535,8 @@
 | 200. Number of Islands                                          | medium  |  14:27   |  09:01   |  30   | 2023/12/20 |                                                                 |
 | 130. Surrounded Regions                                         | medium  |  27:09   |  20:05   |  30   | 2023/12/21 |                                                                 |
 | 133. Clone Graph                                                | medium  |   시간초과   |  14:59   |  30   | 2023/12/21 |                                                                 |
-| 399. Evaluate Division                                          | medium  |   시간초과   |          |  30   | 2023/12/24 | 푸는 방식은 맞는데 시간이 부족함, union find 방식으로 풀 수 있음                      |
-| 207. Course Schedule                                            | medium  |   시간초과   |          |  30   | 2023/12/24 | 답지보다 더러움, for each문 잘 사용하면 좀 더 깔끔해짐                             |
+| 399. Evaluate Division                                          | medium  |   시간초과   |   시간초과   |  30   | 2023/12/24 | 푸는 방식은 맞는데 시간이 부족함, union find 방식으로 풀 수 있음                      |
+| 207. Course Schedule                                            | medium  |   시간초과   |     20:54     |  30   | 2023/12/24 | 답지보다 더러움, for each문 잘 사용하면 좀 더 깔끔해짐                             |
 | 210. Course Schedule II                                         | medium  |  14:04   |  13:56   |  30   | 2023/12/25 |                                                                 |
 | 909. Snakes and Ladders                                         | medium  |   시간초과   |   시간초과   |  30   | 2023/12/25 | 지그재그 부분에서 계속 막힘  |
 | 433. Minimum Genetic Mutation                                   | medium  |   시간초과   |  13:38   |  30   | 2023/12/26 |  |
