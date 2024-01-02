@@ -1,4 +1,4 @@
-package _2924년._1월._1일_10일._2일;
+package _2024년._1월._1일_10일._2일;
 
 public class FactorialTrailingZeroes {
     public int trailingZeroes(int n) {

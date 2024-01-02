@@ -1,4 +1,4 @@
-package _2924년._1월._1일_10일._1일;
+package _2024년._1월._1일_10일._1일;
 
 import java.util.Collections;
 import java.util.PriorityQueue;
