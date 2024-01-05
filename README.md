@@ -545,5 +545,21 @@
 | 17. Letter Combinations of a Phone Number                       | medium  | 19:06 |  12:39   |  30   | 2023/12/27 |            |
 | 77. Combinations                                                | medium  | 28:21  |  30 |   17:02    | 2023/12/28 |  |
 | 79. Word Search                                                 | medium  | 19:47 |  30 |   15:20    | 2023/12/28 |  |
+| 148. Sort List                                                  | medium  | 시간초과 |  |  30   | 2024/01/05 | getMid() 부분이 이해가 안감 |
+| 427. Construct Quad Tree                                        | medium  | 시간초과 | | 30   | 2024/01/05 | |
+| 918. Maximum Sum Circular Subarray                              | medium  | 시간초과  | | 30   | 2024/01/04 | 답지 봐도 이해가 안감 |
+| 162. Find Peak Element                                          | medium  | 28:29 |  |30   | 2024/01/03 |  |
+| 153. Find Minimum in Rotated Sorted Array                       | medium  | 29:30  | | 30   | 2024/01/03 |  |
+| 215. Kth Largest Element in an Array                            | medium  | 18:17 | | 30   | 2024/01/01 |  |
+| 73. Find K Pairs with Smallest Sums                             | medium  | 시간초과  |  |30   | 2024/01/04 | 어떻게 해결해야 하는지를 잘 모름 |
+| 137. Single Number II                                           | medium  | 12:05 | | 30   | 2024/01/01 | 공간 복잡도 o(1)로 못함 |
+| 201. Bitwise AND of Numbers Range                               | medium  | 시간초과  |  |30   | 2024/01/02 |  |
+| 172. Factorial Trailing Zeroes                                  | medium  | 시간초과  | | 30   | 2024/01/02 | 자꾸 똑같은 실수를 하고 있음…. 왜 5를 나누면 +1 하는지 고민해보자 |
+| 50. Pow(x, n)                                                   | medium  | 시간초과  |  |30   | 2023/12/31 |  |
+| 198. House Robber                                               | medium  | 20:10  | | 30   | 2023/12/31 |  |
+| 139. Word Break                                                   | medium  | 29:05  | | 30   | 2023/12/30 |  |
+| 322. Coin Change                                              | medium  | 15:54  | | 30   | 2023/12/30 |  |
+| 300. Longest Increasing Subsequence                             | medium  | 16:37  |  |30   | 2023/12/29 | follow up 하려다 시간초과 |
+| 120. Triangle                                             | medium  | 22:29  |  30 |  | 2023/12/29 |  |
 
 </details>
