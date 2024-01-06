@@ -1,4 +1,4 @@
-package _2024년._1월._1일_10일;
+package _2024년._1월._1일_10일._6일;
 
 import java.util.*;
 
