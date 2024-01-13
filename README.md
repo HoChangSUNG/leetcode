@@ -584,5 +584,7 @@
 | 46. Permutations                                           | medium  |  10:05   |  10:43  |    07:10     |  30   | 2024/01/10 |                                                                 |
 | 47. Permutations II                                         | medium  |  15:44   |  13:55  |     15:30    |  30   | 2024/01/11 |                                                                 |
 | 48. Rotate Image                                            | medium  |  28:03   |  11:13  |  09:30   |  30   | 2024/01/11 |                                                                 |
+| 49. Group Anagrams                                               | medium  |  17:45   |   시간초과 | 10:07 |  30   | 2024/01/13 |                                           |
+| 53. Maximum Subarray                                             | medium  |  07:16   |  06:04| 05:54  |  30   | 2024/01/13 |                                            |
 
 </details>
