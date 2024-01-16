@@ -565,7 +565,7 @@
 </details>
 
 <details>
-<summary>3회독 시간 및 문제 풀이 코멘트(20문제)</summary>
+<summary>3회독 시간 및 문제 풀이 코멘트(22문제)</summary>
 <br>
 
 | 문제	                                                         | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 | 제한시간	 |     날짜     | 코멘트                                 |
@@ -588,7 +588,9 @@
 | 53. Maximum Subarray                                             | medium  |  07:16   |  06:04   |  05:54   |  30   | 2024/01/13 |                                            |
 | 54. Spiral Matrix                                                | medium  |  17:22   |  15:41   |  14:47   |  30   | 2024/01/14 |                                                                 |
 | 55. Jump Game                                                    | medium  |  18:43   |  19:01   |  05:14   |   30  | 2024/01/14 |        이전보다 코드 길이 줄임        |
-| 56. Merge Intervals                                              | medium  |  20:41   |  10:59 |  07:31  |  30   | 2024/01/15 |                                                                 |
-| 57. Insert Interval                                              | medium  |  27:42   |   시간초과  |  24:50  |    30    | 2024/01/15 |  |
+| 56. Merge Intervals                                              | medium  |  20:41   |  10:59 |  07:31   |  30   | 2024/01/15 |                                                                 |
+| 57. Insert Interval                                              | medium  |  27:42   |   시간초과  |  24:50   |    30    | 2024/01/15 |  |
+| 59. Spiral Matrix II                                             | medium  |  10:42   |  06:39  | 07:51 |  30   | 2024/01/16 |                                                                 |
+| 63. Unique Paths II                                              | medium  |  18:23   |  08:43  | 06:19 |    30    | 2024/01/16 |                                                                 |
 
 </details>
