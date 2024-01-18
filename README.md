@@ -565,7 +565,7 @@
 </details>
 
 <details>
-<summary>3회독 시간 및 문제 풀이 코멘트(24문제)</summary>
+<summary>3회독 시간 및 문제 풀이 코멘트(26문제)</summary>
 <br>
 
 | 문제	                                                         | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 |   제한시간	    |     날짜     | 코멘트                                 |
@@ -594,5 +594,7 @@
 | 63. Unique Paths II                                              | medium  |  18:23   |  08:43  |  06:19   |     30     | 2024/01/16 |                                                                 |
 | 64. Minimum Path Sum                                             | medium  |  10:05   |  05:45  | 10:21  |  30   | 2024/01/17 |                                                                 |
 | 73. Set Matrix Zeroes                                            | medium  |  14:03   |  14:04 | 05:43  |    30    | 2024/01/17 |  공간 복잡도 O(m+n)으로 해결함     |
+| 74. Search a 2D Matrix                                           | medium  |  08:53   |  05:27 | 03:37 |  30   | 2024/01/18 |                                                                 |
+| 75. Sort Colors                                                  | medium  |  12:03   |  09:23 | 18:07 |  30   | 2024/01/18 |  follow up 해결 |
 
 </details>
