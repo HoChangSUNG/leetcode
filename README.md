@@ -565,7 +565,7 @@
 </details>
 
 <details>
-<summary>3회독 시간 및 문제 풀이 코멘트(26문제)</summary>
+<summary>3회독 시간 및 문제 풀이 코멘트(32문제)</summary>
 <br>
 
 | 문제	                                                         | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 |   제한시간	    |     날짜     | 코멘트                                 |
@@ -596,5 +596,9 @@
 | 73. Set Matrix Zeroes                                            | medium  |  14:03   |  14:04 | 05:43  |    30    | 2024/01/17 |  공간 복잡도 O(m+n)으로 해결함     |
 | 74. Search a 2D Matrix                                           | medium  |  08:53   |  05:27 | 03:37 |  30   | 2024/01/18 |                                                                 |
 | 75. Sort Colors                                                  | medium  |  12:03   |  09:23 | 18:07 |  30   | 2024/01/18 |  follow up 해결 |
+| 5. Longest Palindromic Substring                                 | medium  |   시간초과   |  26:05 | 21:54 |  30   | 2024/01/19 |                                                                 |
+| 22. Generate Parentheses                                         | medium  |   시간초과   |  20:44 | 08:28 |  30   | 2024/01/21 |                                                                 |
+| 62. Unique Paths                                                 | medium  |  06:28   |  03:31  | 02:18 |  30   | 2024/01/19 |                                                                 |
+| 72. Edit Distance                                                | medium  |   시간초과   |   시간초과 | 시간초과 |  30   | 2024/01/21 |                                                                 |
 
 </details>
