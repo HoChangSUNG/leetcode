@@ -600,5 +600,9 @@
 | 22. Generate Parentheses                                         | medium  |   시간초과   |  20:44 | 08:28 |  30   | 2024/01/21 |                                                                 |
 | 62. Unique Paths                                                 | medium  |  06:28   |  03:31  | 02:18 |  30   | 2024/01/19 |                                                                 |
 | 72. Edit Distance                                                | medium  |   시간초과   |   시간초과 | 시간초과 |  30   | 2024/01/21 |                                                                 |
+| 91.Decode Ways                                                   | medium  |   시간초과   |  21:31 | 18:57 |  30   | 2024/01/22 |                                                                 |
+| 338. Counting Bits                                               | easy  |   시간초과   |  28:40 | 10:48 |  30   | 2024/01/22 |                                                                 |
+| 80. Remove Duplicates from Sorted Array II                       | medium  |  12:56   |  08:57 | 08:56 |  30   | 2024/01/20 |                                                                 |
+| 189. Rotate Array                                                | medium  |  14:50   |  11:57 | 09:44 |  30   | 2024/01/20 |                                                                 |
 
 </details>
