@@ -1,4 +1,4 @@
-package _2024년._1월._21일_31일._21일;
+package _2024년._1월._21일_31일._22일;
 
 public class CountingBIt {
     public int[] countBits(int n) {
