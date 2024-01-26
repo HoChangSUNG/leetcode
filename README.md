@@ -565,7 +565,7 @@
 </details>
 
 <details>
-<summary>3회독 시간 및 문제 풀이 코멘트(32문제)</summary>
+<summary>3회독 시간 및 문제 풀이 코멘트(44문제)</summary>
 <br>
 
 | 문제	                                                         | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 |   제한시간	    |     날짜     | 코멘트                                 |
@@ -604,5 +604,9 @@
 | 338. Counting Bits                                               | easy  |   시간초과   |  28:40 | 10:48 |  30   | 2024/01/22 |                                                                 |
 | 80. Remove Duplicates from Sorted Array II                       | medium  |  12:56   |  08:57 | 08:56 |  30   | 2024/01/20 |                                                                 |
 | 189. Rotate Array                                                | medium  |  14:50   |  11:57 | 09:44 |  30   | 2024/01/20 |                                                                 |
+| 122. Best Time to Buy and Sell Stock II                          | medium  |   시간초과   |   시간초과 | 시간초과 |  30   | 2024/01/26 |                                                       |
+| 274. H-Index                                                     | medium  |   시간초과   |  시간초과 | 시간초과 |  30   | 2024/01/26 |                                           |
+| 380. Insert Delete GetRandom O(1)                                | medium  |   시간초과   |   시간초과  | 24:44 |  30   | 2024/01/25 |                       |
+| 238. Product of Array Except Self                                | medium  |   시간초과   |  24:40 | 10:40 |  30   | 2024/01/23 |                                                                 |
 
 </details>
