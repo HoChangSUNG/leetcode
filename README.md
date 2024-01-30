@@ -565,7 +565,7 @@
 </details>
 
 <details>
-<summary>3회독 시간 및 문제 풀이 코멘트(44문제)</summary>
+<summary>3회독 시간 및 문제 풀이 코멘트(48문제)</summary>
 <br>
 
 | 문제	                                                         | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 |   제한시간	    |     날짜     | 코멘트                                 |
@@ -608,5 +608,15 @@
 | 274. H-Index                                                     | medium  |   시간초과   |  시간초과 | 시간초과 |  30   | 2024/01/26 |                                           |
 | 380. Insert Delete GetRandom O(1)                                | medium  |   시간초과   |   시간초과  | 24:44 |  30   | 2024/01/25 |                       |
 | 238. Product of Array Except Self                                | medium  |   시간초과   |  24:40 | 10:40 |  30   | 2024/01/23 |                                                                 |
+| 134. Gas Station                                                 | medium  |   시간초과   |   시간초과   | 시간초과   |  30   | 2024/01/28 |                                                |
+| 12. Integer to Roman                                             | medium  |   시간초과   |  29:05  | 15:58 |  30   | 2024/01/25 |               |
+| 151. Reverse Words in a String                                   | medium  |  28:03   |  09:32   | 05:39 | 30   | 2024/01/23 |                                                                 |
+| 6. Zigzag Conversion                                             | medium  |  27:01   |  10:13 | 08:43 |  30   | 2024/01/27 |                                                                 |
+| 167. Two Sum II - Input Array Is Sorted                          | medium  |  08:04   |  04:47 | 02:38 |  30   | 2024/01/24 |                                                                 |
+| 209. Minimum Size Subarray Sum                                   | medium  |  23:04   |  20:24 | 13:54 |  30   | 2024/01/24 |                                                                 |
+| 3. Longest Substring Without Repeating Characters                | medium  |  15:34   |  12:11   | 10:34 | 30   | 2024/01/27 |                                                                 |
+| 289. Game of Life                                                | medium  |  23:45   |  14:46   | 10:39 | 30   | 2024/01/28 |                                                                 |
+| 128. Longest Consecutive Sequence                                | medium  |   시간초과   |   시간초과 | 시간초과 |  30   | 2024/01/30 |                                                                 |
+| 452. Minimum Number of Arrows to Burst Balloons                  | medium  |   시간초과   |  12:54 | 04:27 |  30   | 2024/01/29  |                                                                 |
 
 </details>
