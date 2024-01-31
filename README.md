@@ -565,7 +565,7 @@
 </details>
 
 <details>
-<summary>3회독 시간 및 문제 풀이 코멘트(48문제)</summary>
+<summary>3회독 시간 및 문제 풀이 코멘트(50문제)</summary>
 <br>
 
 | 문제	                                                         | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 |   제한시간	    |     날짜     | 코멘트                                 |
@@ -618,5 +618,7 @@
 | 289. Game of Life                                                | medium  |  23:45   |  14:46   | 10:39 | 30   | 2024/01/28 |                                                                 |
 | 128. Longest Consecutive Sequence                                | medium  |   시간초과   |   시간초과 | 시간초과 |  30   | 2024/01/30 |                                                                 |
 | 452. Minimum Number of Arrows to Burst Balloons                  | medium  |   시간초과   |  12:54 | 04:27 |  30   | 2024/01/29  |                                                                 |
+| 71. Simplify Path                                                | medium  |  16:55   |  11:23 | 12:52 |  30   | 2024/01/31 |                                                                 |
+| 155. Min Stack                                                   | medium  |  17:50   |  09:37 | 06:07 |  30   | 2024/01/31 |                                                                 |
 
 </details>
