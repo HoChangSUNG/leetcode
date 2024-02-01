@@ -565,60 +565,62 @@
 </details>
 
 <details>
-<summary>3회독 시간 및 문제 풀이 코멘트(50문제)</summary>
+<summary>3회독 시간 및 문제 풀이 코멘트(52문제)</summary>
 <br>
 
 | 문제	                                                         | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 |   제한시간	    |     날짜     | 코멘트                                 |
 |:------------------------------------------------------------|:----:|:--------:|:--------:|:--------:|:----------:|:----------:|:------------------------------------|
-| 11. Container With Most Water                               | medium  |   시간초과   |  16:31   |  06:44   |     30     | 2024/01/06 |                                                                 |
+| 11. Container With Most Water                               | medium  |   시간초과   |  16:31   |  06:44   |     30     | 2024/01/06 |                                                                |
 | 15. 3Sum                                                    | medium  |  29:30   |   시간초과   |   시간초과   |     30     | 2024/01/06 | 답지 참고해서 다시 풀음, 지난 값을 저장해놓는게 힌트 |
 | 16. 3Sum Closest                                            | medium  |   시간초과   |  16:02   |  18:46   |     30     | 2024/01/08 |  0(n^2)으로 해결함  |
-| 18. 4Sum                                                    | medium  |   시간초과   |   시간초과   |  14:35   |     30     | 2024/01/08 |                                                                 |
-| 31. Next Permutation                                        | medium  |   시간초과   |   시간초과   |   시간초과   |     30     | 2024/01/12 | 답지 봐도 모르겠음                                                       |
-| 33. Search in Rotated Sorted Array                          | medium  |   시간초과   |   시간초과   |   시간초과   |     30     | 2024/01/12 | 방법은 유사했으나 해결을 못함                                                |
-| 34. Find First and Last Position of Element in Sorted Array | medium  |  23:06   |  11:37   |  19:07   |     30     | 2024/01/07 |                                                                 |
-| 36. Valid Sudoku                                            | medium  |   시간초과   |  15:03   |  09:43   |     30     | 2024/01/07 |                                                                 |
-| 39. Combination Sum                                         | medium  |  14:04   |  17:39   |  06:38   |     30     | 2024/01/09 |                                                                 |
-| 40. Combination Sum II                                      | medium  |   시간초과   |   시간초과   |  20:05   |     30     | 2024/01/09 |                                           |
+| 18. 4Sum                                                    | medium  |   시간초과   |   시간초과   |  14:35   |     30     | 2024/01/08 |                                                                |
+| 31. Next Permutation                                        | medium  |   시간초과   |   시간초과   |   시간초과   |     30     | 2024/01/12 | 답지 봐도 모르겠음                                                      |
+| 33. Search in Rotated Sorted Array                          | medium  |   시간초과   |   시간초과   |   시간초과   |     30     | 2024/01/12 | 방법은 유사했으나 해결을 못함                                               |
+| 34. Find First and Last Position of Element in Sorted Array | medium  |  23:06   |  11:37   |  19:07   |     30     | 2024/01/07 |                                                                |
+| 36. Valid Sudoku                                            | medium  |   시간초과   |  15:03   |  09:43   |     30     | 2024/01/07 |                                                                |
+| 39. Combination Sum                                         | medium  |  14:04   |  17:39   |  06:38   |     30     | 2024/01/09 |                                                                |
+| 40. Combination Sum II                                      | medium  |   시간초과   |   시간초과   |  20:05   |     30     | 2024/01/09 |                                          |
 | 45. Jump Game II                                            | medium  |  05:41   |  24:31   |  20:05   |     30     | 2024/01/10 |                                       |
-| 46. Permutations                                           | medium  |  10:05   |  10:43   |  07:10   |     30     | 2024/01/10 |                                                                 |
-| 47. Permutations II                                         | medium  |  15:44   |  13:55   |  15:30   |     30     | 2024/01/11 |                                                                 |
-| 48. Rotate Image                                            | medium  |  28:03   |  11:13   |  09:30   |     30     | 2024/01/11 |                                                                 |
-| 49. Group Anagrams                                               | medium  |  17:45   |   시간초과   |  10:07   |     30     | 2024/01/13 |                                           |
-| 53. Maximum Subarray                                             | medium  |  07:16   |  06:04   |  05:54   |     30     | 2024/01/13 |                                            |
-| 54. Spiral Matrix                                                | medium  |  17:22   |  15:41   |  14:47   |     30     | 2024/01/14 |                                                                 |
+| 46. Permutations                                           | medium  |  10:05   |  10:43   |  07:10   |     30     | 2024/01/10 |                                                                |
+| 47. Permutations II                                         | medium  |  15:44   |  13:55   |  15:30   |     30     | 2024/01/11 |                                                                |
+| 48. Rotate Image                                            | medium  |  28:03   |  11:13   |  09:30   |     30     | 2024/01/11 |                                                                |
+| 49. Group Anagrams                                               | medium  |  17:45   |   시간초과   |  10:07   |     30     | 2024/01/13 |                                          |
+| 53. Maximum Subarray                                             | medium  |  07:16   |  06:04   |  05:54   |     30     | 2024/01/13 |                                           |
+| 54. Spiral Matrix                                                | medium  |  17:22   |  15:41   |  14:47   |     30     | 2024/01/14 |                                                                |
 | 55. Jump Game                                                    | medium  |  18:43   |  19:01   |  05:14   |     30     | 2024/01/14 |        이전보다 코드 길이 줄임        |
-| 56. Merge Intervals                                              | medium  |  20:41   |  10:59 |  07:31   |     30     | 2024/01/15 |                                                                 |
+| 56. Merge Intervals                                              | medium  |  20:41   |  10:59 |  07:31   |     30     | 2024/01/15 |                                                                |
 | 57. Insert Interval                                              | medium  |  27:42   |   시간초과  |  24:50   |     30     | 2024/01/15 |  |
-| 59. Spiral Matrix II                                             | medium  |  10:42   |  06:39  |  07:51   |     30     | 2024/01/16 |                                                                 |
-| 63. Unique Paths II                                              | medium  |  18:23   |  08:43  |  06:19   |     30     | 2024/01/16 |                                                                 |
-| 64. Minimum Path Sum                                             | medium  |  10:05   |  05:45  | 10:21  |  30   | 2024/01/17 |                                                                 |
-| 73. Set Matrix Zeroes                                            | medium  |  14:03   |  14:04 | 05:43  |    30    | 2024/01/17 |  공간 복잡도 O(m+n)으로 해결함     |
-| 74. Search a 2D Matrix                                           | medium  |  08:53   |  05:27 | 03:37 |  30   | 2024/01/18 |                                                                 |
-| 75. Sort Colors                                                  | medium  |  12:03   |  09:23 | 18:07 |  30   | 2024/01/18 |  follow up 해결 |
-| 5. Longest Palindromic Substring                                 | medium  |   시간초과   |  26:05 | 21:54 |  30   | 2024/01/19 |                                                                 |
-| 22. Generate Parentheses                                         | medium  |   시간초과   |  20:44 | 08:28 |  30   | 2024/01/21 |                                                                 |
-| 62. Unique Paths                                                 | medium  |  06:28   |  03:31  | 02:18 |  30   | 2024/01/19 |                                                                 |
-| 72. Edit Distance                                                | medium  |   시간초과   |   시간초과 | 시간초과 |  30   | 2024/01/21 |                                                                 |
-| 91.Decode Ways                                                   | medium  |   시간초과   |  21:31 | 18:57 |  30   | 2024/01/22 |                                                                 |
-| 338. Counting Bits                                               | easy  |   시간초과   |  28:40 | 10:48 |  30   | 2024/01/22 |                                                                 |
-| 80. Remove Duplicates from Sorted Array II                       | medium  |  12:56   |  08:57 | 08:56 |  30   | 2024/01/20 |                                                                 |
-| 189. Rotate Array                                                | medium  |  14:50   |  11:57 | 09:44 |  30   | 2024/01/20 |                                                                 |
-| 122. Best Time to Buy and Sell Stock II                          | medium  |   시간초과   |   시간초과 | 시간초과 |  30   | 2024/01/26 |                                                       |
-| 274. H-Index                                                     | medium  |   시간초과   |  시간초과 | 시간초과 |  30   | 2024/01/26 |                                           |
-| 380. Insert Delete GetRandom O(1)                                | medium  |   시간초과   |   시간초과  | 24:44 |  30   | 2024/01/25 |                       |
-| 238. Product of Array Except Self                                | medium  |   시간초과   |  24:40 | 10:40 |  30   | 2024/01/23 |                                                                 |
-| 134. Gas Station                                                 | medium  |   시간초과   |   시간초과   | 시간초과   |  30   | 2024/01/28 |                                                |
-| 12. Integer to Roman                                             | medium  |   시간초과   |  29:05  | 15:58 |  30   | 2024/01/25 |               |
-| 151. Reverse Words in a String                                   | medium  |  28:03   |  09:32   | 05:39 | 30   | 2024/01/23 |                                                                 |
-| 6. Zigzag Conversion                                             | medium  |  27:01   |  10:13 | 08:43 |  30   | 2024/01/27 |                                                                 |
-| 167. Two Sum II - Input Array Is Sorted                          | medium  |  08:04   |  04:47 | 02:38 |  30   | 2024/01/24 |                                                                 |
-| 209. Minimum Size Subarray Sum                                   | medium  |  23:04   |  20:24 | 13:54 |  30   | 2024/01/24 |                                                                 |
-| 3. Longest Substring Without Repeating Characters                | medium  |  15:34   |  12:11   | 10:34 | 30   | 2024/01/27 |                                                                 |
-| 289. Game of Life                                                | medium  |  23:45   |  14:46   | 10:39 | 30   | 2024/01/28 |                                                                 |
-| 128. Longest Consecutive Sequence                                | medium  |   시간초과   |   시간초과 | 시간초과 |  30   | 2024/01/30 |                                                                 |
-| 452. Minimum Number of Arrows to Burst Balloons                  | medium  |   시간초과   |  12:54 | 04:27 |  30   | 2024/01/29  |                                                                 |
-| 71. Simplify Path                                                | medium  |  16:55   |  11:23 | 12:52 |  30   | 2024/01/31 |                                                                 |
-| 155. Min Stack                                                   | medium  |  17:50   |  09:37 | 06:07 |  30   | 2024/01/31 |                                                                 |
+| 59. Spiral Matrix II                                             | medium  |  10:42   |  06:39  |  07:51   |     30     | 2024/01/16 |                                                                |
+| 63. Unique Paths II                                              | medium  |  18:23   |  08:43  |  06:19   |     30     | 2024/01/16 |                                                                |
+| 64. Minimum Path Sum                                             | medium  |  10:05   |  05:45  |  10:21   |  30   | 2024/01/17 |                                                                |
+| 73. Set Matrix Zeroes                                            | medium  |  14:03   |  14:04 |  05:43   |    30    | 2024/01/17 |  공간 복잡도 O(m+n)으로 해결함     |
+| 74. Search a 2D Matrix                                           | medium  |  08:53   |  05:27 |  03:37   |  30   | 2024/01/18 |                                                                |
+| 75. Sort Colors                                                  | medium  |  12:03   |  09:23 |  18:07   |  30   | 2024/01/18 |  follow up 해결 |
+| 5. Longest Palindromic Substring                                 | medium  |   시간초과   |  26:05 |  21:54   |  30   | 2024/01/19 |                                                                |
+| 22. Generate Parentheses                                         | medium  |   시간초과   |  20:44 |  08:28   |  30   | 2024/01/21 |                                                                |
+| 62. Unique Paths                                                 | medium  |  06:28   |  03:31  |  02:18   |  30   | 2024/01/19 |                                                                |
+| 72. Edit Distance                                                | medium  |   시간초과   |   시간초과 |   시간초과   |  30   | 2024/01/21 |                                                                |
+| 91.Decode Ways                                                   | medium  |   시간초과   |  21:31 |  18:57   |  30   | 2024/01/22 |                                                                |
+| 338. Counting Bits                                               | easy  |   시간초과   |  28:40 |  10:48   |  30   | 2024/01/22 |                                                                |
+| 80. Remove Duplicates from Sorted Array II                       | medium  |  12:56   |  08:57 |  08:56   |  30   | 2024/01/20 |                                                                |
+| 189. Rotate Array                                                | medium  |  14:50   |  11:57 |  09:44   |  30   | 2024/01/20 |                                                                |
+| 122. Best Time to Buy and Sell Stock II                          | medium  |   시간초과   |   시간초과 |   시간초과   |  30   | 2024/01/26 |                                                      |
+| 274. H-Index                                                     | medium  |   시간초과   |  시간초과 |   시간초과   |  30   | 2024/01/26 |                                          |
+| 380. Insert Delete GetRandom O(1)                                | medium  |   시간초과   |   시간초과  |  24:44   |  30   | 2024/01/25 |                       |
+| 238. Product of Array Except Self                                | medium  |   시간초과   |  24:40 |  10:40   |  30   | 2024/01/23 |                                                                |
+| 134. Gas Station                                                 | medium  |   시간초과   |   시간초과   |   시간초과   |  30   | 2024/01/28 |                                               |
+| 12. Integer to Roman                                             | medium  |   시간초과   |  29:05  |  15:58   |  30   | 2024/01/25 |               |
+| 151. Reverse Words in a String                                   | medium  |  28:03   |  09:32   |  05:39   | 30   | 2024/01/23 |                                                                |
+| 6. Zigzag Conversion                                             | medium  |  27:01   |  10:13 |  08:43   |  30   | 2024/01/27 |                                                                |
+| 167. Two Sum II - Input Array Is Sorted                          | medium  |  08:04   |  04:47 |  02:38   |  30   | 2024/01/24 |                                                                |
+| 209. Minimum Size Subarray Sum                                   | medium  |  23:04   |  20:24 |  13:54   |  30   | 2024/01/24 |                                                                |
+| 3. Longest Substring Without Repeating Characters                | medium  |  15:34   |  12:11   |  10:34   | 30   | 2024/01/27 |                                                                |
+| 289. Game of Life                                                | medium  |  23:45   |  14:46   |  10:39   | 30   | 2024/01/28 |                                                                |
+| 128. Longest Consecutive Sequence                                | medium  |   시간초과   |   시간초과 |   시간초과   |  30   | 2024/01/30 |                                                                |
+| 452. Minimum Number of Arrows to Burst Balloons                  | medium  |   시간초과   |  12:54 |  04:27   |  30   | 2024/01/29 |                                                                |
+| 71. Simplify Path                                                | medium  |  16:55   |  11:23 |  12:52   |  30   | 2024/01/31 |                                                                |
+| 155. Min Stack                                                   | medium  |  17:50   |  09:37 |  06:07   |  30   | 2024/01/31 |                                                                |
+| 150. Evaluate Reverse Polish Notation                            | medium  |  22:32   |  14:58  | 08:42   |  30   | 2024/02/01 |                                                                |
+| 2. Add Two Numbers                                               | medium  |   시간초과   |   사건초과 | 12:39 |    30    | 2024/02/01 |                                         |
 
 </details>
