@@ -565,7 +565,7 @@
 </details>
 
 <details>
-<summary>3회독 시간 및 문제 풀이 코멘트(54문제)</summary>
+<summary>3회독 시간 및 문제 풀이 코멘트(56문제)</summary>
 <br>
 
 | 문제	                                                         | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 |   제한시간	    |     날짜     | 코멘트                                 |
@@ -624,5 +624,7 @@
 | 2. Add Two Numbers                                               | medium  |   시간초과   |   사건초과 | 12:39 |    30    | 2024/02/01 |                                         |
 | 138. Copy List with Random Pointer                               | medium  |   시간초과   |  10:43 | 06:21 |  30   | 2024/02/02 |                                                                 |
 | 92. Reverse Linked List II                                       | medium  |   시간초과   |  12:07 | 10:53 |  30   | 2024/02/02 |                                                     |
+| 19. Remove Nth Node From End of List                             | medium  |  17:40   |  12:50 | 07:56 |  30   | 2024/02/03 |                                                                 |
+| 82. Remove Duplicates from Sorted List II                        | medium  |   시간초과   |  25:43 | 22:03 |  30   | 2024/02/03 |                                 |
 
 </details>
