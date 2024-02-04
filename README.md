@@ -626,5 +626,7 @@
 | 92. Reverse Linked List II                                       | medium  |   시간초과   |  12:07 | 10:53 |  30   | 2024/02/02 |                                                     |
 | 19. Remove Nth Node From End of List                             | medium  |  17:40   |  12:50 | 07:56 |  30   | 2024/02/03 |                                                                 |
 | 82. Remove Duplicates from Sorted List II                        | medium  |   시간초과   |  25:43 | 22:03 |  30   | 2024/02/03 |                                 |
+| 61. Rotate List                                                  | medium  |  18:32   |  19:37 | 17:45 |  30   | 2024/02/04 |                                                                 |
+| 86. Partition List                                               | medium  |  20:03   |  16:19 | 08:04 |  30   | 2024/02/04 |                                                                 |
 
 </details>
