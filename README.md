@@ -565,7 +565,7 @@
 </details>
 
 <details>
-<summary>3회독 시간 및 문제 풀이 코멘트(60문제)</summary>
+<summary>3회독 시간 및 문제 풀이 코멘트(62문제)</summary>
 <br>
 
 | 문제	                                                         | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 |   제한시간	    |     날짜     | 코멘트                                 |
@@ -630,5 +630,7 @@
 | 86. Partition List                                               | medium  |  20:03   |  16:19 | 08:04 |  30   | 2024/02/04 |                                                                 |
 | 146. LRU Cache                                                   | medium  |   시간초과   |   시간초과 | 시간초과 |  30   | 2024/02/05 |                                          |
 | 105. Construct Binary Tree from Preorder and Inorder Traversal   | medium  |   시간초과   |   시간초과 | 시간초과 |  30   | 2024/02/05 |                               |
+| 106. Construct Binary Tree from Inorder and Postorder Traversal  | medium  |  20:57   |   시간초과 | 10:35 |  30   | 2024/02/06 |                              |
+| 117. Populating Next Right Pointers in Each Node II              | medium  |   시간초과   |  08:55 | 06:59 |  30   | 2024/02/06 |                                         |
 
 </details>

@@ -25,7 +25,7 @@ public class ConstructBinaryTreeFromPreorderAndInorderTraversal {
         return cur;
     }
 
-    public class TreeNode {
+    class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;
