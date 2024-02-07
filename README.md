@@ -565,7 +565,7 @@
 </details>
 
 <details>
-<summary>3회독 시간 및 문제 풀이 코멘트(62문제)</summary>
+<summary>3회독 시간 및 문제 풀이 코멘트(64문제)</summary>
 <br>
 
 | 문제	                                                         | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 |   제한시간	    |     날짜     | 코멘트                                 |
@@ -632,5 +632,7 @@
 | 105. Construct Binary Tree from Preorder and Inorder Traversal   | medium  |   시간초과   |   시간초과 | 시간초과 |  30   | 2024/02/05 |                               |
 | 106. Construct Binary Tree from Inorder and Postorder Traversal  | medium  |  20:57   |   시간초과 | 10:35 |  30   | 2024/02/06 |                              |
 | 117. Populating Next Right Pointers in Each Node II              | medium  |   시간초과   |  08:55 | 06:59 |  30   | 2024/02/06 |                                         |
+| 114. Flatten Binary Tree to Linked List                          | medium  |  15:40   |  25:10 | 18:04 |  30   | 2024/02/07 |                              |
+| 129. Sum Root to Leaf Numbers                                    | medium  |  19:50   |  11:18 | 17:35 |  30   | 2024/02/07 |                                                                 |
 
 </details>
