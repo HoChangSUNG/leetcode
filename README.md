@@ -565,7 +565,7 @@
 </details>
 
 <details>
-<summary>3회독 시간 및 문제 풀이 코멘트(64문제)</summary>
+<summary>3회독 시간 및 문제 풀이 코멘트(66문제)</summary>
 <br>
 
 | 문제	                                                         | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 |   제한시간	    |     날짜     | 코멘트                                 |
@@ -638,5 +638,7 @@
 | 236. Lowest Common Ancestor of a Binary Tree                     | medium  |  25:53   |  19:07 | 17:51 |  30   | 2024/02/08 |                                                                 |
 | 199. Binary Tree Right Side Viewr                                | medium  |  14:49   |  12:06 | 05:16 |  30   | 2024/02/09 |                                                                 |
 | 102. Binary Tree Level Order Traversal                           | medium  |  08:04   |  09:41 | 05:28 |  30   | 2024/02/09 |                                                                 |
+| 103. Binary Tree Zigzag Level Order Traversal                    | medium  |  29:34   |  24:54 | 24:07 |  30   | 2024/02/10 |                                                                 |
+| 230. Kth Smallest Element in a BST                               | medium  |  10:05   |  08:03 | 05:43 |  30   | 2024/02/10 |                                                                 |
 
 </details>
