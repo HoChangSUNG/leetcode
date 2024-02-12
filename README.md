@@ -565,7 +565,7 @@
 </details>
 
 <details>
-<summary>3회독 시간 및 문제 풀이 코멘트(66문제)</summary>
+<summary>3회독 시간 및 문제 풀이 코멘트(73문제)</summary>
 <br>
 
 | 문제	                                                         | 난이도  | 1회독 걸린시간 | 2회독 걸린시간 | 3회독 걸린시간 |   제한시간	    |     날짜     | 코멘트                                 |
@@ -640,5 +640,8 @@
 | 102. Binary Tree Level Order Traversal                           | medium  |  08:04   |  09:41 | 05:28 |  30   | 2024/02/09 |                                                                 |
 | 103. Binary Tree Zigzag Level Order Traversal                    | medium  |  29:34   |  24:54 | 24:07 |  30   | 2024/02/10 |                                                                 |
 | 230. Kth Smallest Element in a BST                               | medium  |  10:05   |  08:03 | 05:43 |  30   | 2024/02/10 |                                                                 |
+| 98. Validate Binary Search Tree                                  | medium  |  28:05   |  20:09  | 03:04 |  30   | 2024/02/11 |                                                                 |
+| 200. Number of Islands                                           | medium  |  14:27   |  09:01 | 10:23 |  30   |  2024/02/11 |                                                                 |
+| 130. Surrounded Regions                                          | medium  |  27:09   |  20:05 | 17:47 |  30   | 2024/02/12 |                                                                 |
 
 </details>
